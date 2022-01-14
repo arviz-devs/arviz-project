@@ -1,0 +1,5 @@
+sphinx>=4
+furo
+myst-parser[linkify]
+sphinx-copybutton
+sphinx-design
