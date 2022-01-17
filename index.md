@@ -8,7 +8,8 @@ ArviZ is an open source project aiming to provide tools for Exploratory
 Analysis of Bayesian Models that do not depend on the inference library
 used. ArviZ brings together people from several probabilistic programming
 libraries and from multiple programming languages. ArviZ will always be
-free for everyone to use and released under the Apache License (Version 2.0).
+free for everyone to use and released under OSI approved open source licences
+such as the (Apache License (Version 2.0) or the MIT License).
 
 The ArviZ team work in the open on [GitHub](https://github.com/arviz-devs)
 with the input of the whole community and consensus of its core contributors.

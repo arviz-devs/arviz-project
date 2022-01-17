@@ -7,12 +7,13 @@ The ArviZ Project (The Project) is an open source software project
 affiliated with the 501c3 NumFOCUS Foundation. The goal of The Project is to
 develop open source software and deploy open and public websites and services
 for reproducible, exploratory and interactive computing. The Software developed
-by The Project is released under the Apache 2 open source license,
+by The Project is released under OSI approved open source licenses,
 developed openly and hosted in public GitHub repositories under the
 [arviz-devs GitHub organization](https://github.com/arviz-devs). Examples of
-Project Software include the ArviZ code and the Documentation, etc. The Services run by the
+Project Software include the code of the two ArviZ libraries and their Documentation, etc.
+The Services run by the
 Project consist of public websites and web-services that are hosted
-at [https://arviz-devs.github.io/arviz/](https://arviz-devs.github.io/arviz/)
+at [https://arviz-devs.github.io/](https://arviz-devs.github.io/)
 The Project is developed by a team of distributed developers, called
 Contributors. Contributors are individuals who have contributed code,
 documentation, designs or other work to one or more Project repositories.
