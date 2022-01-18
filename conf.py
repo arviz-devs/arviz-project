@@ -18,12 +18,7 @@ extensions = [
     "sphinx_design",
 ]
 
-exclude_patterns = [
-    "Thumbs.db",
-    ".DS_Store",
-    ".ipynb_checkpoints",
-    "README.md"
-]
+exclude_patterns = ["Thumbs.db", ".DS_Store", ".ipynb_checkpoints", "README.md"]
 
 # The reST default role (used for this markup: `text`) to use for all documents.
 default_role = "code"
@@ -38,9 +33,13 @@ myst_enable_extensions = ["colon_fence", "deflist", "dollarmath", "amsmath"]
 html_theme = "furo"
 html_title = project
 html_static_path = ["sphinx"]
-html_css_files = ["https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/fontawesome.min.css"]
-logo = random.choice(("ArviZ.png", "ArviZ.jl.png"))
-html_favicon = random.choice(("sphinx/favicon.py.ico", "sphinx/favicon.jl.ico"))
+html_css_files = [
+    "custom.css",
+    "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/fontawesome.min.css",
+]
+html_js_files = ["https://code.iconify.design/2/2.1.1/iconify.min.js"]
+logo = "ArviZ.png"
+html_favicon = "sphinx/favicon.ico"
 html_theme_options = {
     "light_css_variables": {
         "color-brand-primary": "#0f718e",

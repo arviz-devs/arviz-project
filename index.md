@@ -19,29 +19,30 @@ For more information about our governance approach, read our {ref}`governance`.
 
 ::::{grid} 2
 :gutter: 3 3 4 5
-:class-container: only-light
 
 :::{grid-item-card}
-:img-background: sphinx/ArviZ.jl.png
 :link: https://arviz-devs.github.io/ArviZ.jl/dev/
-:::
-:::{grid-item-card}
-:img-background: sphinx/ArviZ.png
-:link: https://arviz-devs.github.io/arviz
-:::
-::::
+:class-card: sd-text-center
 
-::::{grid} 2
-:gutter: 3 3 4 5
-:class-container: only-dark
-
-:::{grid-item-card}
-:img-background: sphinx/dark-ArviZ.jl.png
-:link: https://arviz-devs.github.io/ArviZ.jl/dev/
+<span class="iconify-inline arviz-logo-big" data-icon="vscode-icons:file-type-julia"></span>
++++
+ArviZ.jl
 :::
 :::{grid-item-card}
-:img-background: sphinx/dark-ArviZ.png
 :link: https://arviz-devs.github.io/arviz
+:class-card: sd-text-center
+
+<span class="iconify-inline arviz-logo-big" data-icon="vscode-icons:file-type-python"></span>
++++
+ArviZ.py
+:::
+:::{grid-item-card}
+:link: https://xarray-einstats.readthedocs.io
+:class-card: sd-text-center
+
+<span class="iconify-inline arviz-logo-big" data-icon="vaadin:cubes"></span>
++++
+xarray-einstats
 :::
 ::::
 
