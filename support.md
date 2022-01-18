@@ -14,7 +14,7 @@ of ArviZ’s open source software, documentation, and community.
 ## Cite
 If you use ArviZ in your scientific work, you can cite it using [![DOI](http://joss.theoj.org/papers/10.21105/joss.01143/status.svg)](https://doi.org/10.21105/joss.01143)
 
-Here is the citation in BibTeX format
+Here is the citation in BibTeX format:
 
 ```
 @article{arviz_2019,

@@ -3,7 +3,7 @@ ArviZ is maintained and governed by an international group of core contributors,
 by our governance. You can see our current team in the cards below.
 
 People interested in joining the project should read about the
-{ref}`responsabilities <core_contributor_description>` and the
+{ref}`responsibilities <core_contributor_description>` and the
 {ref}`onboarding process <contributor_onboarding>` of team members.
 
 Those interested in contributing should instead refer to one of our contributing guides:
