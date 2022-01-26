@@ -42,8 +42,8 @@ https://github.com/arviz-devs/arviz/issues/1243
 
 
 ### First Round Election for Council and Council size (Week of June 21)
-The first election will be for council and council size. Elections will take place over
-a Google Form owned by NumFOCUS. The tallying will be performed in accordance with `GOVERNANCE.md`
+The first election will be for council and council size.
+Election {ref}`initial voting <initial_voting_election>` will take place over a Google Form owned by NumFOCUS. The tallying will be performed in accordance with `GOVERNANCE.md`
 
 The election period will be exactly 7 days from when NumFOCUS email timestamp for the Google Form.
 
@@ -52,9 +52,9 @@ The election period will be exactly 7 days from when NumFOCUS email timestamp fo
     * Council Members
 2. At conclusion of election period NumFOCUS will remove the voters identifying information and share the results (most likely in Google Sheets)
     * A table of results will be added to this document
-    
+
 #### Historical Record
-Call for election took place in this issue ticket. https://github.com/arviz-devs/arviz/issues/1260  
+Call for election took place in this [issue ticket](https://github.com/arviz-devs/arviz/issues/1260)
 NumFOCUS mediated election using [this google form](https://forms.gle/P9P9Yx9tMQ5jbY1L9) as template, and shared the results with us over email. Result verification proof is attached in issue ticket linked above.
 
 The outcome of the election was a vote for a 7 Person Council, comprised of the following core contributors:
@@ -67,15 +67,16 @@ The outcome of the election was a vote for a 7 Person Council, comprised of the 
 * @canyon289
 
 ### Tie Votes (1 week)
-In the event of a tie there will be a run-off election. The specific timing will depend on the results of the election above.
+In the event of a tie there will be a {ref}`run-off election <run_off_election>`.
+The specific timing will depend on the results of the election initial vote above.
 The tallying will be performed in accordance with `GOVERNANCE.md`
 
 1. NumFOCUS will email all registered voters a ballot for a vote on tied candidates
 2. At conclusion of election period NumFOCUS will remove the voters identifying information and share the results (most likely in Google Sheets)
     * A table of results will be added to this document
-    
+
 #### Historical Record
 A tied election was not needed. The primary election was decisive.
-    
-    
- 
+
+
+

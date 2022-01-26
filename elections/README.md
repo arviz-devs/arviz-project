@@ -1,2 +1,8 @@
 # Elections
-Repository for ArviZ elections
+Historical log of ArviZ elections.
+
+:::{toctree}
+:maxdepth: 1
+
+ArviZ_2020.md
+:::
