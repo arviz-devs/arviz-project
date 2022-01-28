@@ -1,11 +1,13 @@
 # Sponsors and institutional partners
 ## Institutional partners
+::::{grid} 1 2 2 3
+:::{include} cards/helsinki.md
+:::
+::::
 
 ## Sponsors
 ::::{grid} 1 2 2 3
-:::{grid-item-card}
-:img-background: sphinx/CZI.jpg
-:link: https://chanzuckerberg.com/
+:::{include} cards/czi.md
 :::
 ::::
 
@@ -14,3 +16,8 @@
 :::
 
 [![NumFOCUS](sphinx/NumFocus.png)](https://numfocus.org)
+
+(historical_funding)=
+## Historical funding
+In the past, ArviZ has received institutional or financial support from:
+

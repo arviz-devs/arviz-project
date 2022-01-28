@@ -16,7 +16,7 @@ If you use ArviZ in your scientific work, you can cite it using [![DOI](http://j
 
 Here is the citation in BibTeX format:
 
-```
+```bibtex
 @article{arviz_2019,
   doi = {10.21105/joss.01143},
   url = {https://doi.org/10.21105/joss.01143},

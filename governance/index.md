@@ -49,6 +49,7 @@ This section describes the governance and leadership model of The Project.
 
 community_architecture
 processes
+sponsors_partners
 :::
 
 

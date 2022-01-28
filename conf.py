@@ -18,7 +18,7 @@ extensions = [
     "sphinx_design",
 ]
 
-exclude_patterns = ["Thumbs.db", ".DS_Store", ".ipynb_checkpoints", "README.md"]
+exclude_patterns = ["Thumbs.db", ".DS_Store", ".ipynb_checkpoints", "README.md", "cards/*"]
 
 # The reST default role (used for this markup: `text`) to use for all documents.
 default_role = "code"
