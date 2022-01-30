@@ -2,12 +2,40 @@
 # Community Architecture
 
 * General Contributors
+* {ref}`recurrent_contributor_description`
 * {ref}`core_contributor_description` (of which Council members are also a part of)
 * 7 Person steering council ({ref}`council_description`)
 
 Anyone working with ArviZ has the responsibility to personally uphold
 the Code of Conduct. Core Contributors have the additional responsibility
 of _enforcing_ the Code of Conduct to maintain a safe community.
+
+(recurrent_contributor_description)=
+## Recurrent Contributors
+Recurrent Contributors are those individuals who contribute recurrently to the
+project and can provide valuable insight on the project.
+They are therefore actively consulted and can participate in the same communication
+channels as Core Contributors. However, unlike Core Contributors,
+Recurrent Contributors don't have voting, managing or writing rights.
+
+In practice, this translates in participating from private team discussions
+(i.e. in Slack or live meetings) but not being able to vote in elections
+for the Random Variables Council members nor having commit rights on GitHub.
+
+The Recurrent Contributor position will often be an intermediate step for people
+in becoming Core Contributors once their contributions are frequent enough
+and during a sustained period of time.
+But it is also an important role by itself for people who want to be part of
+the project on a more advisory-like role, as they for example might not have
+the time availability or don't want the responsibilities that come
+with being a Core Contributor.
+
+The process for new people to join the project as recurrent contributors is
+described at {ref}`contributor_onboarding`. Recurrent or core contributors
+can nominate anyone to join the project as a recurrent contributor.
+
+### Current Recurrent Contributors
+Current recurrent contributors are listed {ref}`on this page <recurrent_contributor_list>`
 
 (core_contributor_description)=
 ## Core Contributors
@@ -18,7 +46,9 @@ repository, including code merges to main. This does not necessarily mean Core C
 must submit code, but more so signifies trust with the project as a whole.
 
 The process for new people to join the project as core contributors is
-described at {ref}`contributor_onboarding`
+described at {ref}`contributor_onboarding`. Only recurrent contributors
+are eligible to become core contributors, and only core contributors
+can nominate them.
 
 ### Core Contributor Responsibilities
 * Enforce code of conduct

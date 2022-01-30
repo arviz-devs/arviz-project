@@ -3,8 +3,9 @@
 
 (contributor_onboarding)=
 ## New Contributor Nominations and Confirmation Process
-Current Core Contributors can nominate candidates to become Core Contributors by
-requesting so in a GitHub issue. If nominated candidates accept their nomination
+Current Contributors can nominate candidates to become Contributors by
+requesting so in a GitHub issue, constraints on eligibility are detailed
+in the role descriptions. If nominated candidates accept their nomination
 (explicit comment approving nomination on the issue or "thumbs-up" emoji on the same issue),
 then they can be considered by the Council: on the first of the month following a
 nomination, the Council will vote on each nominee using {ref}`this process <council_voting>`.

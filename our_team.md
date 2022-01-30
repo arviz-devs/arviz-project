@@ -15,6 +15,28 @@ Those interested in contributing should instead refer to one of our contributing
 ```{include} core_contributors.md
 ```
 
+(recurrent_contributor_list)=
+## Recurrent contributors
+* Adrian Seyboldt
+* Camen Piho
+* Chris Fonnesbeck
+* Corrie Bartelheimer
+* Demetri Pananos
+* Eric Ma
+* Evdoxia Taka
+* Maxime Kochurov
+* Jonathan Lindbloom
+* Junpeng Lao
+* Karin Knudson
+* Marcel Haas
+* Moritz Freidank
+* Nitish Pasricha
+* Rishabh Sanjay
+* Rosheen Naeem
+* Tomas Capretto
+* Utkarsh Maheshwari
+
 (emeritus)=
 ## Emeritus team members
-Nobody for now.
+* Aniruddha Banerjea (GSoC 2019)
+* Mragank Shekar (GSoC 2021)

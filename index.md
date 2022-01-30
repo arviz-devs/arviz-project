@@ -49,9 +49,20 @@ xarray-einstats
 ## Sponsors and institutional partners
 
 ::::{grid} 3 3 6 6
-:::{include} cards/helsinki.md
+:class-container: only-light
+
+:::{include} cards/partner-logos.md
 :::
-:::{include} cards/czi.md
+:::{include} cards/sponsor-logos.md
+:::
+::::
+
+::::{grid} 3 3 6 6
+:class-container: only-dark
+
+:::{include} cards/dark-partner-logos.md
+:::
+:::{include} cards/dark-sponsor-logos.md
 :::
 ::::
 
