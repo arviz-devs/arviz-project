@@ -105,6 +105,4 @@ All current and previous sponsors, partners, and any other entities and individu
 will be acknowledged in the {ref}`historical_funding` page.
 This page will include relevant details of support (dates, amounts, names, and purpose);
 no logos will be used on this page.
-The rationale for the $5,000 minimum level is to keep the amount of work maintaining the page reasonable;
-the level is the equivalent of, e.g., one GSoC or a person-week’s worth of engineering time in a Western country,
-which seems like a reasonable lower limit.
+The rationale for the $3,000 minimum level is to keep the amount of work maintaining the page reasonable.
