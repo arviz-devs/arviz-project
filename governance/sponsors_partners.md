@@ -101,8 +101,8 @@ roughly in line with the sponsorship levels:
 * 2 person-months/yr of paid work time for one or more ArviZ contributors to any ArviZ activity
 
 ## Historical funding acknowledgement
-All current and previous sponsors, partners, and any other entities and individuals who provided $5,000 or more of financial or in-kind support
+All current and previous sponsors, partners, and any other entities and individuals who provided \$3,000 or more of financial or in-kind support
 will be acknowledged in the {ref}`historical_funding` page.
 This page will include relevant details of support (dates, amounts, names, and purpose);
 no logos will be used on this page.
-The rationale for the $3,000 minimum level is to keep the amount of work maintaining the page reasonable.
+The rationale for the \$3,000 minimum level is to keep the amount of work maintaining the page reasonable.
