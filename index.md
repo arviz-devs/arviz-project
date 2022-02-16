@@ -17,7 +17,7 @@ For more information about our governance approach, read our {ref}`governance`.
 
 ## Our libraries
 
-::::{grid} 2
+::::{grid} 1 1 2 2
 :gutter: 3 3 4 5
 
 :::{grid-item-card}
@@ -43,6 +43,26 @@ ArviZ.py
 <span class="iconify-inline arviz-logo-big" data-icon="vaadin:cubes"></span>
 +++
 xarray-einstats
+:::
+::::
+
+## Sponsors and institutional partners
+
+::::{grid} 3 3 6 6
+:class-container: only-light
+
+:::{include} cards/partner-logos.md
+:::
+:::{include} cards/sponsor-logos.md
+:::
+::::
+
+::::{grid} 3 3 6 6
+:class-container: only-dark
+
+:::{include} cards/dark-partner-logos.md
+:::
+:::{include} cards/dark-sponsor-logos.md
 :::
 ::::
 
