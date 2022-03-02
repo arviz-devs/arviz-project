@@ -18,11 +18,13 @@ Those interested in contributing should instead refer to one of our contributing
 (recurrent_contributor_list)=
 ## Recurrent contributors
 * Adrian Seyboldt
+* Andy Maloney
 * Camen Piho
 * Chris Fonnesbeck
 * Corrie Bartelheimer
 * Demetri Pananos
 * Eric Ma
+* Ero Carrera
 * Evdoxia Taka
 * Maxime Kochurov
 * Jonathan Lindbloom
@@ -32,6 +34,7 @@ Those interested in contributing should instead refer to one of our contributing
 * Moritz Freidank
 * Nitish Pasricha
 * Rishabh Sanjay
+* Rob Zinkov
 * Rosheen Naeem
 * Tomas Capretto
 * Utkarsh Maheshwari
