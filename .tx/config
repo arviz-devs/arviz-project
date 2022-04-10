@@ -1,9 +1,86 @@
 [main]
 host = https://www.transifex.com
 
+[o:arviz:p:arviz-project-website:r:_gettext_support]
+file_filter = locale/<lang>/LC_MESSAGES/support.po
+source_file = _build/gettext/support.pot
+source_lang = en
+type        = PO
+
+[o:arviz:p:arviz-project-website:r:_gettext_elections]
+file_filter = locale/<lang>/LC_MESSAGES/elections.po
+source_file = _build/gettext/elections.pot
+source_lang = en
+type        = PO
+
+[o:arviz:p:arviz-project-website:r:_gettext_our_team]
+file_filter = locale/<lang>/LC_MESSAGES/our_team.po
+source_file = _build/gettext/our_team.pot
+source_lang = en
+type        = PO
+
 [o:arviz:p:arviz-project-website:r:_gettext_index]
 file_filter = locale/<lang>/LC_MESSAGES/index.po
 source_file = _build/gettext/index.pot
 source_lang = en
 type        = PO
 
+[o:arviz:p:arviz-project-website:r:_gettext_donate]
+file_filter = locale/<lang>/LC_MESSAGES/donate.po
+source_file = _build/gettext/donate.pot
+source_lang = en
+type        = PO
+
+[o:arviz:p:arviz-project-website:r:_gettext_governance]
+file_filter = locale/<lang>/LC_MESSAGES/governance.po
+source_file = _build/gettext/governance.pot
+source_lang = en
+type        = PO
+
+[o:arviz:p:arviz-project-website:r:_gettext_core_contributors]
+file_filter = locale/<lang>/LC_MESSAGES/core_contributors.po
+source_file = _build/gettext/core_contributors.pot
+source_lang = en
+type        = PO
+
+[o:arviz:p:arviz-project-website:r:_gettext_elections_arviz_2020]
+file_filter = locale/<lang>/LC_MESSAGES/elections/ArviZ_2020.po
+source_file = _build/gettext/elections/ArviZ_2020.pot
+source_lang = en
+type        = PO
+
+[o:arviz:p:arviz-project-website:r:_gettext_elections_readme]
+file_filter = locale/<lang>/LC_MESSAGES/elections/README.po
+source_file = _build/gettext/elections/README.pot
+source_lang = en
+type        = PO
+
+[o:arviz:p:arviz-project-website:r:_gettext_governance_community_architecture]
+file_filter = locale/<lang>/LC_MESSAGES/governance/community_architecture.po
+source_file = _build/gettext/governance/community_architecture.pot
+source_lang = en
+type        = PO
+
+[o:arviz:p:arviz-project-website:r:_gettext_governance_index]
+file_filter = locale/<lang>/LC_MESSAGES/governance/index.po
+source_file = _build/gettext/governance/index.pot
+source_lang = en
+type        = PO
+
+[o:arviz:p:arviz-project-website:r:_gettext_governance_processes]
+file_filter = locale/<lang>/LC_MESSAGES/governance/processes.po
+source_file = _build/gettext/governance/processes.pot
+source_lang = en
+type        = PO
+
+[o:arviz:p:arviz-project-website:r:_gettext_governance_sponsors_partners]
+file_filter = locale/<lang>/LC_MESSAGES/governance/sponsors_partners.po
+source_file = _build/gettext/governance/sponsors_partners.pot
+source_lang = en
+type        = PO
+
+[o:arviz:p:arviz-project-website:r:_gettext_sponsors_partners]
+file_filter = locale/<lang>/LC_MESSAGES/sponsors_partners.po
+source_file = _build/gettext/sponsors_partners.pot
+source_lang = en
+type        = PO
