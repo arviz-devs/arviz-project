@@ -76,7 +76,7 @@ elections/README
 :hidden:
 
 ArviZ Python library <https://python.arviz.org/>
-ArviZ Julia library <https://julia.arviz.org/stable/>
+ArviZ Julia library <https://julia.arviz.org/>
 Twitter <https://twitter.com/arviz_devs>
 GitHub org <https://github.com/arviz-devs>
 :::
