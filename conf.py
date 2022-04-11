@@ -54,4 +54,4 @@ html_theme_options = {
     "dark_logo": "ArviZ_white.png",
 }
 
-intersphinx_mapping = {"arviz": ("https://arviz-devs.github.io/arviz/", None)}
+intersphinx_mapping = {"arviz": ("https://python.arviz.org/en/latest/", None)}

@@ -21,7 +21,7 @@ For more information about our governance approach, read our {ref}`governance`.
 :gutter: 3 3 4 5
 
 :::{grid-item-card}
-:link: https://arviz-devs.github.io/ArviZ.jl/dev/
+:link: https://julia.arviz.org
 :class-card: sd-text-center
 
 <span class="iconify-inline arviz-logo-big" data-icon="vscode-icons:file-type-julia"></span>
@@ -29,7 +29,7 @@ For more information about our governance approach, read our {ref}`governance`.
 ArviZ.jl
 :::
 :::{grid-item-card}
-:link: https://arviz-devs.github.io/arviz
+:link: https://python.arviz.org
 :class-card: sd-text-center
 
 <span class="iconify-inline arviz-logo-big" data-icon="vscode-icons:file-type-python"></span>
@@ -37,7 +37,7 @@ ArviZ.jl
 ArviZ.py
 :::
 :::{grid-item-card}
-:link: https://xarray-einstats.readthedocs.io
+:link: https://einstats.python.arviz.org
 :class-card: sd-text-center
 
 <span class="iconify-inline arviz-logo-big" data-icon="vaadin:cubes"></span>
@@ -75,8 +75,8 @@ elections/README
 :caption: External links
 :hidden:
 
-ArviZ Python library <https://arviz-devs.github.io/arviz/>
-ArviZ Julia library <https://arviz-devs.github.io/ArviZ.jl/stable/>
+ArviZ Python library <https://python.arviz.org/>
+ArviZ Julia library <https://julia.arviz.org/>
 Twitter <https://twitter.com/arviz_devs>
 GitHub org <https://github.com/arviz-devs>
 :::
