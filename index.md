@@ -21,7 +21,7 @@ For more information about our governance approach, read our {ref}`governance`.
 :gutter: 3 3 4 5
 
 :::{grid-item-card}
-:link: https://julia.arviz.org/dev/
+:link: https://julia.arviz.org
 :class-card: sd-text-center
 
 <span class="iconify-inline arviz-logo-big" data-icon="vscode-icons:file-type-julia"></span>
