@@ -1,0 +1,300 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, ArviZ contributors
+# This file is distributed under the same license as the ArviZ project package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ArviZ project\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-10 09:34+0300\n"
+"PO-Revision-Date: 2022-04-10 07:09+0000\n"
+"Language-Team: Spanish (https://www.transifex.com/arviz/teams/135191/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../../our_team.md:1 d08c259d476243758509f7d44202ace3
+msgid "Our team"
+msgstr ""
+
+#: ../../our_team.md:2 fc191588d3ea4005a06b5b4a2728ea38
+msgid ""
+"ArviZ is maintained and governed by an international group of core "
+"contributors, as defined by our governance. You can see our current team in "
+"the cards below."
+msgstr ""
+
+#: ../../our_team.md:5 cdc9520b691d445d8252e2c8fc3b6f5e
+msgid ""
+"People interested in joining the project should read about the "
+"{ref}`responsibilities <core_contributor_description>` and the "
+"{ref}`onboarding process <contributor_onboarding>` of team members."
+msgstr ""
+
+#: ../../our_team.md:9 57be5e7ab2464becae82b779ef1b7a79
+msgid ""
+"Those interested in contributing should instead refer to one of our "
+"contributing guides: {ref}`ArviZ Python library <arviz:contributing_guide>`,"
+" [ArviZ Julia library](https://github.com/arviz-"
+"devs/ArviZ.jl/blob/main/CONTRIBUTING.md)"
+msgstr ""
+
+#: ../../our_team.md:14 08f47a972cdb4a1cb5e5c3276787bd3b
+msgid "Core contributors"
+msgstr ""
+
+#: ../../core_contributors.md:1 ../../core_contributors.md:12
+#: ../../core_contributors.md:22 ../../core_contributors.md:33
+#: ../../core_contributors.md:44 ../../core_contributors.md:55
+#: ../../core_contributors.md:65 ../../core_contributors.md:74
+#: ../../core_contributors.md:84 ../../core_contributors.md:95
+#: ../../core_contributors.md:106 ../../core_contributors.md:116
+#: ../../core_contributors.md:127 51ef7394e3bd4d5d898afbd9edd62264
+#: 76e90037f9ea4265acf17c22f0f2ad04 91dd274cb38547dd8f9ff69fc14c3e66
+#: 75cf9e98f8ad4826bb80169cb8cc1121 6a09cb447e874320ae31e5d023879051
+#: fc8de781ddfb4ccd940023b22a6f4f10 3e694176debc45d19c9c8a497473ddcf
+#: 2a93f60064a64977b35613f87e6ff75c e934cd11eb724dd49bf92393d437ca3f
+#: 9c6ac522605f4b4aa93e1a831b96f554 37011c2c07ac480c900a601da2680f58
+#: 605dd92798f64394a39afde19bfd6cd0 a7651dc067b44af483a637b4d6c3b6c4
+msgid "card-img-top"
+msgstr ""
+
+#: ../../core_contributors.md:1 deb931676cdf4b94a09eac1e00a182cd
+msgid "Oriol Abril-Pla"
+msgstr ""
+
+#: ../../core_contributors.md:3 ac2677e358b54b8aa14b21ce5132bfa5
+msgid ""
+"[{fab}`github`](https://github.com/oriolabril) "
+"[{fab}`twitter`](https://twitter.com/OriolAbril) "
+"[{fas}`globe`](https://oriolabril.github.io/oriol_unraveled)"
+msgstr ""
+
+#: ../../core_contributors.md:1 237808b61f8b433cb4e9abf87e633d5b
+msgid "Agustina Arroyuelo"
+msgstr ""
+
+#: ../../core_contributors.md:3 768b875226b0488a9fb76dd3c237e14c
+msgid ""
+"[{fab}`github`](https://github.com/agustinaarroyuelo) "
+"[{fab}`twitter`](https://twitter.com/AgustinaArroyu1)"
+msgstr ""
+
+#: ../../core_contributors.md:1 d1d187ccaa9546a48d8acf591026b0fc
+msgid "Alex Andorra"
+msgstr ""
+
+#: ../../core_contributors.md:3 a5f5ff38241147899a0cde0b3837e263
+msgid ""
+"[{fab}`github`](https://github.com/AlexAndorra) "
+"[{fab}`twitter`](https://twitter.com/alex_andorra) "
+"[{fas}`globe`](https://www.learnbayesstats.com/)"
+msgstr ""
+
+#: ../../core_contributors.md:1 3c92a2f9d09246b1989effe404b16001
+msgid "Seth Axen"
+msgstr ""
+
+#: ../../core_contributors.md:3 677976b2c025471382afd45fd635fdc9
+msgid ""
+"[{fab}`github`](https://github.com/sethaxen) "
+"[{fab}`twitter`](https://twitter.com/sethaxen) "
+"[{fas}`globe`](https://sethaxen.com/)"
+msgstr ""
+
+#: ../../core_contributors.md:1 34169fcf259e4ee9bf6f2706d85f2c3f
+msgid "Colin Carroll"
+msgstr ""
+
+#: ../../core_contributors.md:3 51ea4e9af4ad46dd9ccdf56291869250
+msgid ""
+"[{fab}`github`](https://github.com/ColCarroll) "
+"[{fab}`twitter`](https://twitter.com/colindcarroll) "
+"[{fas}`globe`](https://colindcarroll.com/)"
+msgstr ""
+
+#: ../../core_contributors.md:1 706074cb13d04785aa2e6777706b6867
+msgid "Piyush Gautam"
+msgstr ""
+
+#: ../../core_contributors.md:3 698db832da79424785e0cb6ed2a6a41b
+msgid ""
+"[{fab}`github`](https://github.com/percygautam) "
+"[{fab}`twitter`](https://twitter.com/percygautam)"
+msgstr ""
+
+#: ../../core_contributors.md:1 f6c5eef81bc348f2ad57957155d2df14
+msgid "Robert P. Goldman"
+msgstr ""
+
+#: ../../core_contributors.md:3 d29f2ada831442e4a79b74d29da470e9
+msgid "[{fab}`github`](https://github.com/rpgoldman)"
+msgstr ""
+
+#: ../../core_contributors.md:1 725c4da531a44cf280e967f12fc7f889
+msgid "Ari Hartikainen"
+msgstr ""
+
+#: ../../core_contributors.md:3 3249ef9e0e5d4ffebf2471d85ea58cd1
+msgid ""
+"[{fab}`github`](https://github.com/ahartikainen) "
+"[{fab}`twitter`](https://twitter.com/a_hartikainen)"
+msgstr ""
+
+#: ../../core_contributors.md:1 7b6699d1f932473f89a653ec7f176081
+msgid "Ravin Kumar"
+msgstr ""
+
+#: ../../core_contributors.md:3 070473603c8f49b2828f63342cf6a2f3
+msgid ""
+"[{fab}`github`](https://github.com/canyon289) "
+"[{fab}`twitter`](https://twitter.com/canyon289) "
+"[{fas}`globe`](http://ravinkumar.com)"
+msgstr ""
+
+#: ../../core_contributors.md:1 976b6d0049944b8fb07d42deb5c6ce87
+msgid "Osvaldo Martin"
+msgstr ""
+
+#: ../../core_contributors.md:3 28a0a30cec7d493c9e65227a982bdde8
+msgid ""
+"[{fab}`github`](https://github.com/aloctavodia) "
+"[{fab}`twitter`](https://twitter.com/aloctavodia) "
+"[{fas}`globe`](https://aloctavodia.github.io/)"
+msgstr ""
+
+#: ../../core_contributors.md:1 406be880f19347eb8764056a617dbc4b
+msgid "Mitzi Morris"
+msgstr ""
+
+#: ../../core_contributors.md:3 1c05cd61c089470abb550242f746a2a0
+msgid ""
+"[{fab}`github`](https://github.com/mitzimorris) "
+"[{fab}`twitter`](https://twitter.com/searchbooster_)"
+msgstr ""
+
+#: ../../core_contributors.md:1 570d5a211f9c44798500575a50cc5e4c
+msgid "Du Phan"
+msgstr ""
+
+#: ../../core_contributors.md:3 ce20a628aeee4e869eaafbe9a29509b2
+msgid ""
+"[{fab}`github`](https://github.com/fehiepsi) "
+"[{fab}`twitter`](https://twitter.com/fehiepsi) "
+"[{fas}`globe`](http://fehiepsi.github.io/)"
+msgstr ""
+
+#: ../../core_contributors.md:1 f5d487712ec948b396067de51d8334f7
+msgid "Aki Vehtari"
+msgstr ""
+
+#: ../../core_contributors.md:3 8ccb6381e934479bbb8e744a7992eab6
+msgid ""
+"[{fab}`github`](https://github.com/avehtari) "
+"[{fab}`twitter`](https://twitter.com/avehtari) "
+"[{fas}`globe`](https://users.aalto.fi/~ave/)"
+msgstr ""
+
+#: ../../our_team.md:19 e0c3a7638a6d4515b2fc32e21d3f8f15
+msgid "Recurrent contributors"
+msgstr ""
+
+#: ../../our_team.md:20 10f1fee267da44bd8e2ed40e50e1a113
+msgid "Adrian Seyboldt"
+msgstr ""
+
+#: ../../our_team.md:21 9976af25d6c64865a00cd2a13954f442
+msgid "Andy Maloney"
+msgstr ""
+
+#: ../../our_team.md:22 8e1f7c0b3e4148ec9ede1152051b123e
+msgid "Camen Piho"
+msgstr ""
+
+#: ../../our_team.md:23 69e11aee34224a07a92fd78e2ff2f31e
+msgid "Chris Fonnesbeck"
+msgstr ""
+
+#: ../../our_team.md:24 b171dd5557fd422390ba282831087279
+msgid "Corrie Bartelheimer"
+msgstr ""
+
+#: ../../our_team.md:25 65a124d7567f4b3db912d7b24ced3ae2
+msgid "Demetri Pananos"
+msgstr ""
+
+#: ../../our_team.md:26 5420892ec0374333b69ea7a7620f7dad
+msgid "Eric Ma"
+msgstr ""
+
+#: ../../our_team.md:27 40f5248bfdd24c3e9d53ade872bc712e
+msgid "Ero Carrera"
+msgstr ""
+
+#: ../../our_team.md:28 37be5051550a475c820ec75767a9068d
+msgid "Evdoxia Taka"
+msgstr ""
+
+#: ../../our_team.md:29 707f2f9d528d4ddd8bddb2c6adf76a25
+msgid "Maxime Kochurov"
+msgstr ""
+
+#: ../../our_team.md:30 048a86563cd1420f97770a7e8eb9bded
+msgid "Jonathan Lindbloom"
+msgstr ""
+
+#: ../../our_team.md:31 666314f71a3d4976a1e0ee0f6b790ab8
+msgid "Junpeng Lao"
+msgstr ""
+
+#: ../../our_team.md:32 b3f536c9ba2c4076834db2773372ffae
+msgid "Karin Knudson"
+msgstr ""
+
+#: ../../our_team.md:33 bf32a98968994557ade8c490e0ad6dfe
+msgid "Marcel Haas"
+msgstr ""
+
+#: ../../our_team.md:34 e65c1d85f9804b19a665100cbd152350
+msgid "Moritz Freidank"
+msgstr ""
+
+#: ../../our_team.md:35 3f4e0cac73524e3ca93285e97d114def
+msgid "Nitish Pasricha"
+msgstr ""
+
+#: ../../our_team.md:36 1d0422259c164b3b8e2357a92ac13762
+msgid "Rishabh Sanjay"
+msgstr ""
+
+#: ../../our_team.md:37 00d16d8feeb44462803e08fd5f7e89ed
+msgid "Rob Zinkov"
+msgstr ""
+
+#: ../../our_team.md:38 5e06834b44a1442b87de205443700e20
+msgid "Rosheen Naeem"
+msgstr ""
+
+#: ../../our_team.md:39 cbefdceaf6ed4a90ae3efd5b15a68df4
+msgid "Tomas Capretto"
+msgstr ""
+
+#: ../../our_team.md:40 24c14f02647a44108cfa8b65bcb6197d
+msgid "Utkarsh Maheshwari"
+msgstr ""
+
+#: ../../our_team.md:43 f2ee114e65e14f73b1e96d8a78fc3513
+msgid "Emeritus team members"
+msgstr ""
+
+#: ../../our_team.md:44 a0b80e79745f4e9c891662aabbbd2b08
+msgid "Aniruddha Banerjea (GSoC 2019)"
+msgstr ""
+
+#: ../../our_team.md:45 378f9059c38345fda39128e8a7aea2d9
+msgid "Mragank Shekar (GSoC 2021)"
+msgstr ""

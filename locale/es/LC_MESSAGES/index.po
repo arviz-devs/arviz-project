@@ -1,0 +1,131 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, ArviZ contributors
+# This file is distributed under the same license as the ArviZ project package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Osvaldo Martin, 2022
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ArviZ project\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-10 09:34+0300\n"
+"PO-Revision-Date: 2022-04-10 05:52+0000\n"
+"Last-Translator: Osvaldo Martin, 2022\n"
+"Language-Team: Spanish (https://www.transifex.com/arviz/teams/135191/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../../index.md:66
+msgid "Governance"
+msgstr "Gobierno"
+
+#: ../../index.md:74
+msgid "ArviZ Python library"
+msgstr "Librería de ArviZ en Python"
+
+#: ../../index.md:74
+msgid "ArviZ Julia library"
+msgstr "Librería de ArviZ en Julia"
+
+#: ../../index.md:74
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../../index.md:74
+msgid "GitHub org"
+msgstr "GitHub org"
+
+#: ../../index.md:74
+msgid "External links"
+msgstr "Enlaces externos"
+
+#: ../../index.md:6 d29a45bb8a6947f6ad0e96d22ab8695e
+msgid "The ArviZ project"
+msgstr "El proyecto ArviZ"
+
+#: ../../index.md:7 18789b72d2d64e1db0ede576146078f0
+msgid ""
+"ArviZ is an open source project aiming to provide tools for Exploratory "
+"Analysis of Bayesian Models that do not depend on the inference library "
+"used. ArviZ brings together people from several probabilistic programming "
+"libraries and from multiple programming languages. ArviZ will always be free"
+" for everyone to use and released under OSI approved open source licenses "
+"such as the Apache License (Version 2.0) or the MIT License."
+msgstr ""
+"ArviZ es un proyecto de código abierto que tiene como objetivo proporcionar "
+"herramientas para el análisis exploratorio de modelos Bayesianos que no "
+"dependen de la librería de inferencia utilizada. ArviZ reúne a personas de "
+"varias librerías de programación probabilista y de múltiples lenguajes de "
+"programación. ArviZ siempre será gratuito para que todas las personas lo "
+"usen y se publicará bajo licencias de código abierto aprobadas por OSI, como"
+" la licencia Apache (versión 2.0) o la licencia MIT."
+
+#: ../../index.md:14 8c6e405de426493499e77c8bff9ee2fc
+msgid ""
+"The ArviZ team work in the open on [GitHub](https://github.com/arviz-devs) "
+"with the input of the whole community and consensus of its core "
+"contributors. For more information about our governance approach, read our "
+"{ref}`governance`."
+msgstr ""
+"El equipo de ArviZ trabaja abiertamente en "
+"[GitHub](https://github.com/arviz-devs) con el aporte de toda la comunidad y"
+" el consenso de sus colaboradoras y colaboradores principales. Para obtener "
+"más información sobre nuestro enfoque de gobierno, lea nuestro "
+"{ref}`governance`."
+
+#: ../../index.md:18 69eb1466b6904cfdb0efd8b076ac5372
+msgid "Our libraries"
+msgstr "Nuestras librerías"
+
+#: ../../index.md:1 04ad27b8446845428cdb520e5a628146
+msgid ""
+"<span class=\"iconify-inline arviz-logo-big\" data-icon=\"vscode-icons:file-"
+"type-julia\"></span>"
+msgstr ""
+"<span class=\"iconify-inline arviz-logo-big\" data-icon=\"vscode-icons:file-"
+"type-julia\"></span>"
+
+#: ../../index.md:1 5c9c8862d4b64eb0aa4cfca594deb832
+msgid "ArviZ.jl"
+msgstr "ArviZ.jl"
+
+#: ../../index.md:1 e566ccd030d44bf08f517fadd74c1a2f
+msgid ""
+"<span class=\"iconify-inline arviz-logo-big\" data-icon=\"vscode-icons:file-"
+"type-python\"></span>"
+msgstr ""
+"<span class=\"iconify-inline arviz-logo-big\" data-icon=\"vscode-icons:file-"
+"type-python\"></span>"
+
+#: ../../index.md:1 44f0665b1ff84518b1c71b08e524ba40
+msgid "ArviZ.py"
+msgstr "ArviZ.py"
+
+#: ../../index.md:1 3f579481895344c498c4908b58710399
+msgid ""
+"<span class=\"iconify-inline arviz-logo-big\" data-"
+"icon=\"vaadin:cubes\"></span>"
+msgstr ""
+"<span class=\"iconify-inline arviz-logo-big\" data-"
+"icon=\"vaadin:cubes\"></span>"
+
+#: ../../index.md:1 6b0d1db9bc6b4e0dbbea06a5f5c0518f
+msgid "xarray-einstats"
+msgstr "xarray-einstats"
+
+#: ../../index.md:49 8ebd5beb282c4c3994c81288038b2006
+msgid "Sponsors and institutional partners"
+msgstr "Patrocinadores y socios institucionales"
+
+#: ../../cards/partner-logos.md:1 ../../cards/partner-logos.md:7
+#: ../../cards/partner-logos.md:13 ../../cards/sponsor-logos.md:1
+#: 1f603e95d2e146288427a423416f6f70 68acbd4ae0454ba2b0e1ef575facf27a
+#: 359ef42f04b04f7ba0a007b72698de96 b6ddc23a472a4027a02ced564a952d2d
+msgid "background image"
+msgstr "Imagen de fondo"

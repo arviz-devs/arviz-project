@@ -1,0 +1,112 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, ArviZ contributors
+# This file is distributed under the same license as the ArviZ project package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ArviZ project\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-10 09:34+0300\n"
+"PO-Revision-Date: 2022-04-10 07:09+0000\n"
+"Language-Team: Catalan (https://www.transifex.com/arviz/teams/135191/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../support.md:1 d7b96bec6a464b8789142228c899071b
+msgid "Support ArviZ"
+msgstr ""
+
+#: ../../support.md:2 8ce263f5846246e9996176b6b4794be5
+msgid ""
+"If you have found ArviZ useful in your work, research, or company, consider "
+"supporting the project in any of the ways described in this section."
+msgstr ""
+
+#: ../../support.md:5 45bac764d9f7403f8071a0dadfd48dd5
+msgid "Donate"
+msgstr ""
+
+#: ../../support.md:6 f11771b3925e4d9faa9b05c29fac20a0
+msgid ""
+"If you or your company have the means to do so, consider a donation to the "
+"project commensurate with your resources. Any amount helps! All donations "
+"will be used strictly to fund the development of ArviZ’s open source "
+"software, documentation, and community."
+msgstr ""
+
+#: ../../donate.md:1 852060599db6430e8ab65dd9d13d3297
+msgid ""
+"ArviZ is a Sponsored Project of NumFOCUS, a 501(c)(3) nonprofit charity  in "
+"the United States. NumFOCUS provides ArviZ with fiscal, legal, and "
+"administrative support to help ensure the health and sustainability of the "
+"project. Visit [numfocus.org](https://numfocus.org/) for more information."
+msgstr ""
+
+#: ../../donate.md:6 05bd7bcf7cf94232bf0a9591637122a1
+msgid ""
+"Donations to ArviZ are managed by NumFOCUS. For donors in the United States,"
+" your gift is tax-deductible to the extent provided by law. As with any "
+"donation, you should consult with your tax advisor about your particular tax"
+" situation."
+msgstr ""
+
+#: ../../donate.md:11 f6fdde0f69784b70855c11579ff0f296
+msgid ""
+"The ArviZ project will make the decisions on how to best use any funds "
+"received to serve the priorities outlined in our "
+"[Roadmap](https://github.com/arviz-devs/arviz/wiki/ArviZ-2021-roadmap)."
+msgstr ""
+
+#: ../../donate.md:1 e026e7043d124632929800fb2bd8af6f
+msgid "Donate to ArviZ"
+msgstr ""
+
+#: ../../support.md:14 fc2ac643f57e4c9abec255c423bc3cd9
+msgid "Cite"
+msgstr ""
+
+#: ../../support.md:15 473fa417e1f74e5faccb302bbd488ddc
+msgid ""
+"If you use ArviZ in your scientific work, you can cite it using "
+"[![DOI](http://joss.theoj.org/papers/10.21105/joss.01143/status.svg)](https://doi.org/10.21105/joss.01143)"
+msgstr ""
+
+#: ../../support.md:15 a2a936dce470403f8cffe1650954fbd4
+msgid "DOI"
+msgstr ""
+
+#: ../../support.md:17 11b73e19e84b41ffbd07d4e3c5d07824
+msgid "Here is the citation in BibTeX format:"
+msgstr ""
+
+#: ../../support.md:34 4724f8135b9048519601e290347c622c
+msgid ""
+"Please also consider citing ArviZ's {ref}`arviz:arviz-dependencies` and the "
+"inference library used to build and fit the model."
+msgstr ""
+
+#: ../../support.md:37 356225a25df646f98c845174fce5d652
+msgid "ArviZ for enterprise"
+msgstr ""
+
+#: ../../support.md:39 6b3a812129ca4fc7a2e65328b9cf1b17
+msgid "ArviZ is now available as part of the Tidelift Subscription!"
+msgstr ""
+
+#: ../../support.md:41 98b4067736174326995d1dc233fd7516
+msgid ""
+"Tidelift is working with ArviZ and the maintainers of thousands of other "
+"open source projects to deliver commercial support and maintenance for the "
+"open source dependencies you use to build your applications. Save time, "
+"reduce risk, and improve code health, while contributing financially to "
+"ArviZ."
+msgstr ""
+
+#: ../../support.md:1 c9d96cc0142641769ec50d9654f42655
+msgid "Learn more"
+msgstr ""
