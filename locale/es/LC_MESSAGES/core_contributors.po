@@ -1,0 +1,170 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, ArviZ contributors
+# This file is distributed under the same license as the ArviZ project package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ArviZ project\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-10 09:34+0300\n"
+"PO-Revision-Date: 2022-04-10 07:09+0000\n"
+"Language-Team: Spanish (https://www.transifex.com/arviz/teams/135191/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../../core_contributors.md:1 ../../core_contributors.md:12
+#: ../../core_contributors.md:22 ../../core_contributors.md:33
+#: ../../core_contributors.md:44 ../../core_contributors.md:55
+#: ../../core_contributors.md:65 ../../core_contributors.md:74
+#: ../../core_contributors.md:84 ../../core_contributors.md:95
+#: ../../core_contributors.md:106 ../../core_contributors.md:116
+#: ../../core_contributors.md:127 a75fc796c54c4135a8902bc49bf12f22
+#: 78fc4334017044f2958c43e876c135a2 25de3003d4944c7b9e2e253b169e39d9
+#: eaff80f4f5ef49f18f8b452915a131b1 93fc995a1e7e4ad6aa77ce5aed0796c0
+#: 9a258f1b34a444ad84d4ea3d00096886 5c518927489846a6bc7b0e27d2ee5781
+#: 4bf7d3d780404322a2aa6d7903f18aff 62ae846a945a4336b6bd72a2521e25a2
+#: ae4008056dd24aee99461ddc53ce601e cf934f5310f6451fbc40056b69541974
+#: 51588217748744a4811cd361c5ce5fff 17273c3b7ffb43f08e40f20e704cb1a0
+msgid "card-img-top"
+msgstr ""
+
+#: ../../core_contributors.md:1 e2981edeb72648c9b9176f64800a5300
+msgid "Oriol Abril-Pla"
+msgstr ""
+
+#: ../../core_contributors.md:3 a489895ce09340c0932a37fde80bfbd9
+msgid ""
+"[{fab}`github`](https://github.com/oriolabril) "
+"[{fab}`twitter`](https://twitter.com/OriolAbril) "
+"[{fas}`globe`](https://oriolabril.github.io/oriol_unraveled)"
+msgstr ""
+
+#: ../../core_contributors.md:1 260b1a6bfdb44538ad124c9c68766059
+msgid "Agustina Arroyuelo"
+msgstr ""
+
+#: ../../core_contributors.md:3 a3bfeb0a48604be7b611410ba2f288b2
+msgid ""
+"[{fab}`github`](https://github.com/agustinaarroyuelo) "
+"[{fab}`twitter`](https://twitter.com/AgustinaArroyu1)"
+msgstr ""
+
+#: ../../core_contributors.md:1 16f271a5f7c4417e94d62eec186b41a3
+msgid "Alex Andorra"
+msgstr ""
+
+#: ../../core_contributors.md:3 c95bb4ab99aa4f089b1f4fc29ce05e68
+msgid ""
+"[{fab}`github`](https://github.com/AlexAndorra) "
+"[{fab}`twitter`](https://twitter.com/alex_andorra) "
+"[{fas}`globe`](https://www.learnbayesstats.com/)"
+msgstr ""
+
+#: ../../core_contributors.md:1 55764649edc2468599273d2519d31a20
+msgid "Seth Axen"
+msgstr ""
+
+#: ../../core_contributors.md:3 8bc107b5e33245edba32f9ed465e1cdd
+msgid ""
+"[{fab}`github`](https://github.com/sethaxen) "
+"[{fab}`twitter`](https://twitter.com/sethaxen) "
+"[{fas}`globe`](https://sethaxen.com/)"
+msgstr ""
+
+#: ../../core_contributors.md:1 edb34a5d31cb4fb590577b18127fb358
+msgid "Colin Carroll"
+msgstr ""
+
+#: ../../core_contributors.md:3 d6260aa46d6c44d68149154dd84104ed
+msgid ""
+"[{fab}`github`](https://github.com/ColCarroll) "
+"[{fab}`twitter`](https://twitter.com/colindcarroll) "
+"[{fas}`globe`](https://colindcarroll.com/)"
+msgstr ""
+
+#: ../../core_contributors.md:1 f10dc449731c43a08be04f42288ea1ce
+msgid "Piyush Gautam"
+msgstr ""
+
+#: ../../core_contributors.md:3 516d5fb3f4934554a9a633f84735cd39
+msgid ""
+"[{fab}`github`](https://github.com/percygautam) "
+"[{fab}`twitter`](https://twitter.com/percygautam)"
+msgstr ""
+
+#: ../../core_contributors.md:1 dea406b50a284e5fa40c4d7a15de3c85
+msgid "Robert P. Goldman"
+msgstr ""
+
+#: ../../core_contributors.md:3 5198016885d04e75b0b522dfd9128ae1
+msgid "[{fab}`github`](https://github.com/rpgoldman)"
+msgstr ""
+
+#: ../../core_contributors.md:1 0dbf45313fe447d898425155792d0b5e
+msgid "Ari Hartikainen"
+msgstr ""
+
+#: ../../core_contributors.md:3 5cd181725ba041dc8391c5c6c3e16223
+msgid ""
+"[{fab}`github`](https://github.com/ahartikainen) "
+"[{fab}`twitter`](https://twitter.com/a_hartikainen)"
+msgstr ""
+
+#: ../../core_contributors.md:1 179a293ee9394994968d62f6b689ef02
+msgid "Ravin Kumar"
+msgstr ""
+
+#: ../../core_contributors.md:3 89ac2e3bbe354ba8950a8e955b0ba4fd
+msgid ""
+"[{fab}`github`](https://github.com/canyon289) "
+"[{fab}`twitter`](https://twitter.com/canyon289) "
+"[{fas}`globe`](http://ravinkumar.com)"
+msgstr ""
+
+#: ../../core_contributors.md:1 c3ed7426570e4f8bae3a2063207e92a3
+msgid "Osvaldo Martin"
+msgstr ""
+
+#: ../../core_contributors.md:3 be7816e711fe40b1b2dd54129ab8230d
+msgid ""
+"[{fab}`github`](https://github.com/aloctavodia) "
+"[{fab}`twitter`](https://twitter.com/aloctavodia) "
+"[{fas}`globe`](https://aloctavodia.github.io/)"
+msgstr ""
+
+#: ../../core_contributors.md:1 7d0954e673a9475e969d186eb8a03ea4
+msgid "Mitzi Morris"
+msgstr ""
+
+#: ../../core_contributors.md:3 d9dcbd3fa88f4a368913a3193b7f70b4
+msgid ""
+"[{fab}`github`](https://github.com/mitzimorris) "
+"[{fab}`twitter`](https://twitter.com/searchbooster_)"
+msgstr ""
+
+#: ../../core_contributors.md:1 f2c5e07fa1da4dc498ab372650bfdb3b
+msgid "Du Phan"
+msgstr ""
+
+#: ../../core_contributors.md:3 0a4b324efcfd4b40ace66640d438a5cd
+msgid ""
+"[{fab}`github`](https://github.com/fehiepsi) "
+"[{fab}`twitter`](https://twitter.com/fehiepsi) "
+"[{fas}`globe`](http://fehiepsi.github.io/)"
+msgstr ""
+
+#: ../../core_contributors.md:1 15b592b6b68945598617c2fad4142655
+msgid "Aki Vehtari"
+msgstr ""
+
+#: ../../core_contributors.md:3 d5eebc6cada64976a6a4b4328d66e995
+msgid ""
+"[{fab}`github`](https://github.com/avehtari) "
+"[{fab}`twitter`](https://twitter.com/avehtari) "
+"[{fas}`globe`](https://users.aalto.fi/~ave/)"
+msgstr ""

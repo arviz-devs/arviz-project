@@ -1,0 +1,235 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, ArviZ contributors
+# This file is distributed under the same license as the ArviZ project package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ArviZ project\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-10 09:34+0300\n"
+"PO-Revision-Date: 2022-04-10 07:09+0000\n"
+"Language-Team: Spanish (https://www.transifex.com/arviz/teams/135191/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../../governance/sponsors_partners.md:2 680c0c72b59f4b218c811295f61e9465
+msgid "Sponsors and institutional partners"
+msgstr ""
+
+#: ../../governance/sponsors_partners.md:3 67b8af3fcc82481286ac9ae018ed1566
+msgid ""
+"The Random Variables Council are the primary leadership for the project. No "
+"outside institution, individual or legal entity has the ability to own, "
+"control, usurp or influence the project other than by participating in the "
+"Project as Contributors and Council Members. However, because financial and "
+"institutional support is an important funding mechanism for the project, it "
+"is important to formally acknowledge it."
+msgstr ""
+
+#: ../../governance/sponsors_partners.md:10 abacae9d7151420b962ac190ce5226fe
+msgid ""
+"ArviZ uses two figures to acknowledge financial and institutional support: "
+"sponsors and institutional partners. Both can have \"active\" and "
+"\"inactive\" status."
+msgstr ""
+
+#: ../../governance/sponsors_partners.md:13 b7450caccabf4aaf9588b6c9f6bdd48a
+msgid ""
+"We use the sponsor figure for entities who provide direct financial support,"
+" institutional partners for entities who employ an ArviZ contributor and let"
+" them work on the project as part of their official duties."
+msgstr ""
+
+#: ../../governance/sponsors_partners.md:18 7c58cb0059f54f228de1f01669d816aa
+msgid "Sponsors"
+msgstr ""
+
+#: ../../governance/sponsors_partners.md:19 7c9a80b2747b4e4e8b3520e1ddff8b6a
+msgid ""
+"Sponsors are entities that provide direct financial support. The minimum "
+"level of support given to ArviZ to be considered a Sponsor are:"
+msgstr ""
+
+#: ../../governance/sponsors_partners.md:22 99baa2ad64e64afb84d97a4cb6e7105a
+msgid "$10,000/yr for unrestricted financial contributions (e.g., donations)"
+msgstr ""
+
+#: ../../governance/sponsors_partners.md:23 77bcbd4539a747e289fc2ae9b6ab93e0
+msgid ""
+"$20,000/yr for financial contributions for a particular purpose (e.g., "
+"grants)"
+msgstr ""
+
+#: ../../governance/sponsors_partners.md:25 a0b32f2bdaa241b0968482901796dd8c
+msgid "We define support being \"active\" as:"
+msgstr ""
+
+#: ../../governance/sponsors_partners.md:27 284cc1dcd67441ac97db400bba0f4792
+msgid "for a one-off donation: it was received within the previous 12 months,"
+msgstr ""
+
+#: ../../governance/sponsors_partners.md:28 d19139a9cbcf4d04b59a4eca70e7f9a1
+msgid "for recurring contributions: they should be ongoing."
+msgstr ""
+
+#: ../../governance/sponsors_partners.md:30 e917708d018544caa49d9d724bd7def5
+msgid ""
+"After support moves from “active” to “inactive” status, the acknowledgement "
+"will be left in its place for at least another 6 months. If appropriate, the"
+" funding team can discuss opportunities for renewal with the sponsor. After "
+"those 6 months, acknowledgement may be moved to the historical overview. The"
+" exact timing of this move is at the discretion of the funding team, because"
+" there may be reasons to keep it in the more prominent place for longer."
+msgstr ""
+
+#: ../../governance/sponsors_partners.md:37 520de175d4b845fb85250e98c8427d52
+msgid ""
+"The rationale for the above funding levels is that unrestricted financial "
+"contributions are typically the most valuable for the project, and the "
+"hardest to obtain. Financial support at or above these levels is needed to "
+"be able to make a significant difference."
+msgstr ""
+
+#: ../../governance/sponsors_partners.md:41 86a658f327864b678fd59156a54e48ba
+msgid "Sponsors will get acknowledged through:"
+msgstr ""
+
+#: ../../governance/sponsors_partners.md:44 7908cfcfeecf4a9cb73f69cf39f383d6
+msgid ""
+"a small logo displayed on the front page of the ArviZ website `arviz.org`"
+msgstr ""
+
+#: ../../governance/sponsors_partners.md:45 0ec3d448bdc84c8491a381ff952ae9bf
+msgid ""
+"a small logo displayed on the readmes and dedicated websites of all ArviZ "
+"libraries"
+msgstr ""
+
+#: ../../governance/sponsors_partners.md:46 7faef287126b4ce0a0ee44d332a171cf
+msgid ""
+"prominent logo placement on `arviz.org/en/latest/sponsors_partners.html`"
+msgstr ""
+
+#: ../../governance/sponsors_partners.md:47 57a31c0531034cddaac79e1ab89fdc70
+msgid "logos displayed in talks about ArviZ by maintainers"
+msgstr ""
+
+#: ../../governance/sponsors_partners.md:48 3f74b8679da8429a9eb02f9afb80c700
+msgid "announcements of the sponsorship on the arviz-devs Twitter account"
+msgstr ""
+
+#: ../../governance/sponsors_partners.md:51 1016ee2be59a4f8fb0181ccd2274317f
+msgid "Institutional Partners"
+msgstr ""
+
+#: ../../governance/sponsors_partners.md:52 74ef4bc28de341c3b56b749defd74f15
+msgid ""
+"Institutional Partners are entities that employ a Project Contributor and "
+"let them work on the project as part of their official duties."
+msgstr ""
+
+#: ../../governance/sponsors_partners.md:55 4a04ff596b6142c8841c1397f17c520b
+msgid ""
+"An Institutional Contributor is any individual Project Contributor who "
+"contributes to the project as part of their official duties at an "
+"Institutional Partner. Likewise, an Institutional Council Member is any "
+"Random Variables Council Member who contributes to the project as part of "
+"their official duties at an Institutional Partner."
+msgstr ""
+
+#: ../../governance/sponsors_partners.md:60 57f3a0d8dcc546e9b1d5e80cd4f9cd85
+msgid ""
+"With these definitions, an Institutional Partner is any recognized legal "
+"entity that employs at least 1 Institutional Contributor of Institutional "
+"Council Member. Institutional Partners can be for-profit or non-profit "
+"entities."
+msgstr ""
+
+#: ../../governance/sponsors_partners.md:64 2ea5930e5b504f60865169d4fe1a4d26
+msgid ""
+"Institutions become eligible to become an Institutional Partner by employing"
+" individuals who actively contribute to The Project as part of their "
+"official duties. To state this another way, the only way for a Partner to "
+"influence the project is by actively contributing to the open development of"
+" the project, in equal terms to any other member of the community of "
+"Contributors and Council Members. Merely using Project Software in "
+"institutional context does not allow an entity to become an Institutional "
+"Partner. Financial gifts do not enable an entity to become an Institutional "
+"Partner, to be recognized for financial gifts see {ref}`gov_sponsors`. Once "
+"an institution becomes eligible for Institutional Partnership, the RV "
+"Council must nominate and approve the Partnership."
+msgstr ""
+
+#: ../../governance/sponsors_partners.md:75 f5df3c8ed385423180f98e982ee1f559
+msgid ""
+"If at some point an existing Institutional Partner stops having any "
+"contributing employees, then a one year grace period commences. If at the "
+"end of this one year period they continue not to have any contributing "
+"employees, then their Institutional Partnership will lapse, and resuming it "
+"will require going through the normal process for new Partnerships."
+msgstr ""
+
+#: ../../governance/sponsors_partners.md:80 547fa78787684c1db6f1721d6c1be218
+msgid ""
+"An Institutional Partner is free to pursue funding for their work on The "
+"Project through any legal means. This could involve a non-profit "
+"organization raising money from private foundations and donors or a for-"
+"profit company building proprietary products and services that leverage "
+"Project Software and Services. Funding acquired by Institutional Partners to"
+" work on The Project is called Institutional Funding. However, no funding "
+"obtained by an Institutional Partner can override the RV Council. If a "
+"Partner has funding to do ArviZ work and the Council decides to not pursue "
+"that work as a project, the Partner is free to pursue it on their own. "
+"However in this situation, that part of the Partner’s work will not be under"
+" the ArviZ umbrella and cannot use the Project trademarks in a way that "
+"suggests a formal relationship."
+msgstr ""
+
+#: ../../governance/sponsors_partners.md:90 8919321a3d384d79aa8a387b5ca0baa7
+msgid "Institutional Partner benefits are:"
+msgstr ""
+
+#: ../../governance/sponsors_partners.md:93 10adfb78c1d54854b0a4457972accabf
+msgid "All {ref}`sponsor benefits <gov_sponsor_benefits>`"
+msgstr ""
+
+#: ../../governance/sponsors_partners.md:94 cda787d576bd487bb5d13d57a62f76cb
+msgid "Ability to acknowledge their own funding sources on the ArviZ websites"
+msgstr ""
+
+#: ../../governance/sponsors_partners.md:95 7713ccd6d0914c47a9096db1a67c0ba6
+msgid ""
+"Ability to influence the project through the participation of their "
+"Institutional Contributors or Council Members."
+msgstr ""
+
+#: ../../governance/sponsors_partners.md:98 ebd739ed97be42a9be74828a1fa2053d
+msgid ""
+"The minimum amount of paid maintainer time needed to be considered for "
+"partnership is roughly in line with the sponsorship levels:"
+msgstr ""
+
+#: ../../governance/sponsors_partners.md:101 17865d5ddfd844c8818cc64b306de4b6
+msgid ""
+"2 person-months/yr of paid work time for one or more ArviZ contributors to "
+"any ArviZ activity"
+msgstr ""
+
+#: ../../governance/sponsors_partners.md:103 6fae14439ef84401b5cea6b7d4e7328a
+msgid "Historical funding acknowledgement"
+msgstr ""
+
+#: ../../governance/sponsors_partners.md:104 e70fc774044344708e3a90a7b46196f8
+msgid ""
+"All current and previous sponsors, partners, and any other entities and "
+"individuals who provided \\$3,000 or more of financial or in-kind support "
+"will be acknowledged in the {ref}`historical_funding` page. This page will "
+"include relevant details of support (dates, amounts, names, and purpose); no"
+" logos will be used on this page. The rationale for the \\$3,000 minimum "
+"level is to keep the amount of work maintaining the page reasonable."
+msgstr ""

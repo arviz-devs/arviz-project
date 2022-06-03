@@ -1,0 +1,105 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, ArviZ contributors
+# This file is distributed under the same license as the ArviZ project package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ArviZ project\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-10 09:34+0300\n"
+"PO-Revision-Date: 2022-04-10 07:09+0000\n"
+"Language-Team: Catalan (https://www.transifex.com/arviz/teams/135191/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../sponsors_partners.md:1 6a2551a5f1cd48c2aa0dc044ab904a51
+msgid "Sponsors and institutional partners"
+msgstr ""
+
+#: ../../sponsors_partners.md:2 f387cb78219b48b7a2e083079f132faa
+msgid "Institutional partners"
+msgstr ""
+
+#: ../../cards/partner-logos.md:1 ../../cards/partner-logos.md:7
+#: ../../cards/partner-logos.md:13 ../../cards/sponsor-logos.md:1
+#: 29c1c0cda4494a7f9d41ecea3c99a3cd f31532b2cba644dba8e336776a264977
+#: 6bddf8dc446246faaf4cb9e379b0ad70 5ba14ad5712a44d9869fc23bd37c37f7
+msgid "background image"
+msgstr ""
+
+#: ../../sponsors_partners.md:1 ../../sponsors_partners.md:1
+#: a10c5261913b41aea40e4f780f4156c5 c4c289d776204ec5bfe5a92977aa3de3
+msgid "**Details**"
+msgstr ""
+
+#: ../../sponsors_partners.md:3 b3ecb286ce7a463fa6ffb7910971d6c6
+msgid ""
+"Helsinki University funds Oriol Abril Pla to work on ArviZ thanks to the "
+"support of {abbr}`FCAI (Finnish Center for Artificial Intelligence)`"
+msgstr ""
+
+#: ../../sponsors_partners.md:23 6910fe5d40ca4242ac0d72a8283e3b40
+msgid "Sponsors"
+msgstr ""
+
+#: ../../sponsors_partners.md:3 a5a828eee1e1475cbeeebcc8ab611538
+msgid ""
+"ArviZ was awarded a {abbr}`CZI (Chan Zuckerberg Initiative)` {abbr}`EOSS "
+"(Essential Open Source Software)` grant in 2021 in a joint application with "
+"PyMC and Stan. An overview of the proposal is available at the [CZI "
+"website](https://chanzuckerberg.com/eoss/proposals/bayesian-open-source-"
+"software-for-biomedicine-stan-arviz-and-pymc3/)"
+msgstr ""
+
+#: ../../sponsors_partners.md:45 9db2123614e34553a6d39466e777aebb
+msgid "Donate"
+msgstr ""
+
+#: ../../donate.md:1 9c902ed6e40049888a7fd4d63679d4fb
+msgid ""
+"ArviZ is a Sponsored Project of NumFOCUS, a 501(c)(3) nonprofit charity  in "
+"the United States. NumFOCUS provides ArviZ with fiscal, legal, and "
+"administrative support to help ensure the health and sustainability of the "
+"project. Visit [numfocus.org](https://numfocus.org/) for more information."
+msgstr ""
+
+#: ../../donate.md:6 9478a4652de2433cba460b0e5220dbf0
+msgid ""
+"Donations to ArviZ are managed by NumFOCUS. For donors in the United States,"
+" your gift is tax-deductible to the extent provided by law. As with any "
+"donation, you should consult with your tax advisor about your particular tax"
+" situation."
+msgstr ""
+
+#: ../../donate.md:11 b9cd455895194cedaff3cf44cb8bf906
+msgid ""
+"The ArviZ project will make the decisions on how to best use any funds "
+"received to serve the priorities outlined in our "
+"[Roadmap](https://github.com/arviz-devs/arviz/wiki/ArviZ-2021-roadmap)."
+msgstr ""
+
+#: ../../donate.md:1 0c1e62fc20394272aab9912abce3d58f
+msgid "Donate to ArviZ"
+msgstr ""
+
+#: ../../sponsors_partners.md:49 e19bf4985dda4d1e9d6de64e47037b59
+msgid "[![NumFOCUS](sphinx/NumFocus.png)](https://numfocus.org)"
+msgstr ""
+
+#: ../../sponsors_partners.md:49 47de3558239b4455823298d8bdb9fcdd
+msgid "NumFOCUS"
+msgstr ""
+
+#: ../../sponsors_partners.md:52 4cb78993e0b14ea989b4129b1c771aef
+msgid "Historical funding"
+msgstr ""
+
+#: ../../sponsors_partners.md:53 b4c14c0fc2ac437290cfa09e63ecf2d0
+msgid ""
+"In the past, ArviZ has received institutional or financial support from:"
+msgstr ""
