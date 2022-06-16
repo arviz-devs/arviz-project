@@ -17,6 +17,6 @@ to serve the priorities outlined in our
 :color: primary
 :class: btn-lg
 
-Donate to ArviZ {fas}`heart`
+Donate to ArviZ {material-regular}`favorite;2em`
 :::
 ::::
