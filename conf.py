@@ -46,7 +46,7 @@ html_title = project
 html_static_path = ["sphinx", "arviz_logos"]
 html_css_files = [
     "custom.css",
-    "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/fontawesome.min.css",
+    "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css",
 ]
 html_js_files = ["https://code.iconify.design/2/2.1.1/iconify.min.js"]
 logo = "ArviZ.png"
