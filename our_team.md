@@ -1,3 +1,4 @@
+(our_team)=
 # Our team
 ArviZ is maintained and governed by an international group of core contributors, as defined
 by our governance. You can see our current team in the cards below.
