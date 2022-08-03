@@ -18,6 +18,9 @@ Those interested in contributing should instead refer to one of our contributing
 
 (recurrent_contributor_list)=
 ## Recurrent contributors
+:::{hlist}
+:columns: 2
+
 * Adrian Seyboldt
 * Andy Maloney
 * Camen Piho
@@ -42,6 +45,7 @@ Those interested in contributing should instead refer to one of our contributing
 * Tomas Capretto
 * Utkarsh Maheshwari
 * Yilin Xia
+:::
 
 (emeritus)=
 ## Emeritus team members
