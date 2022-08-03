@@ -37,8 +37,11 @@ Those interested in contributing should instead refer to one of our contributing
 * Rishabh Sanjay
 * Rob Zinkov
 * Rosheen Naeem
+* Sarina Chen
+* S I Harini
 * Tomas Capretto
 * Utkarsh Maheshwari
+* Yilin Xia
 
 (emeritus)=
 ## Emeritus team members
