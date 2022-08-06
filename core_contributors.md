@@ -8,7 +8,7 @@ Oriol Abril-Pla
 
 [{fab}`github`](https://github.com/oriolabril)
 [{fab}`twitter`](https://twitter.com/OriolAbril)
-[{fas}`globe`](https://oriolabril.github.io/oriol_unraveled)
+[{fas}`globe`](https://oriolabrilpla.cat)
 ::::
 
 ::::{grid-item-card}
