@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: ArviZ Python library
+    url: https://github.com/arviz-devs/arviz/issues/new/choose
+    about: Submit issue reports and feature requests to the ArviZ Python library
+  - name: ArviZ Julia library
+    url: https://github.com/arviz-devs/ArviZ.jl/issues/new/choose
+    about: Submit issue reports and feature requests to the ArviZ Julia library
