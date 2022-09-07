@@ -2,3 +2,7 @@
   font-size: calc(4rem + 1.5vw) !important;
   line-height: unset !important;
 }
+
+.hlist {
+  width: 100%;
+}

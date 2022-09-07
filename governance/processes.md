@@ -10,6 +10,14 @@ in the role descriptions. If nominated candidates accept their nomination
 then they can be considered by the Council: on the first of the month following a
 nomination, the Council will vote on each nominee using {ref}`this process <council_voting>`.
 
+:::{note}
+In the case of recurring contributors, the nomination and voting process can be replaced
+by a somewhat similar selection process. Thus, for example, GSoC interns are considered
+recurrent contributors once accepted; similarly, contractors hired thanks
+to grants like CZI EOSS or GSoD ones are also considered recurrent contributors once
+hired.
+:::
+
 Voting will be private with results published on the issue ticket. In the case of a
 rejection, results must include the reasons behind the decision (e.g. the time since
 starting to contribute is deemed too short for now). The candidate
