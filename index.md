@@ -78,5 +78,6 @@ elections/README
 ArviZ Python library <https://python.arviz.org/>
 ArviZ Julia library <https://julia.arviz.org/>
 Twitter <https://twitter.com/arviz_devs>
+Mastodon <a rel="me" href="https://bayes.club/@ArviZ">https://bayes.club/@ArviZ</a>
 GitHub org <https://github.com/arviz-devs>
 :::
