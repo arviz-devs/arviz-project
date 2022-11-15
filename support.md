@@ -1,3 +1,4 @@
+(support)=
 # Support ArviZ
 If you have found ArviZ useful in your work, research, or company, consider supporting the
 project in any of the ways described in this section.
@@ -11,6 +12,7 @@ of ArviZ’s open source software, documentation, and community.
 :::{include} donate.md
 :::
 
+(cite)=
 ## Cite
 If you use ArviZ in your scientific work, you can cite it using [![DOI](http://joss.theoj.org/papers/10.21105/joss.01143/status.svg)](https://doi.org/10.21105/joss.01143)
 
@@ -34,6 +36,7 @@ Here is the citation in BibTeX format:
 Please also consider citing ArviZ's {ref}`arviz:arviz-dependencies` and
 the inference library used to build and fit the model.
 
+(tidelift)=
 ## ArviZ for enterprise
 
 > ArviZ is now available as part of the Tidelift Subscription!
