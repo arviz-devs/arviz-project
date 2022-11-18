@@ -18,7 +18,8 @@ extensions = [
     "sphinx_design",
 ]
 
-exclude_patterns = ["Thumbs.db", ".DS_Store", ".ipynb_checkpoints", "README.md", "cards/*"]
+exclude_patterns = ["Thumbs.db", ".DS_Store", ".ipynb_checkpoints", "README.md", "cards/*", ".github/**"]
+templates_path = ["sphinx/_templates"]
 
 # The reST default role (used for this markup: `text`) to use for all documents.
 default_role = "code"
@@ -28,7 +29,6 @@ default_role = "code"
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = None
 locale_dirs = ["locale"]
 gettext_uuid = True
 gettext_compact = False
@@ -63,6 +63,18 @@ html_theme_options = {
     "sidebar_hide_name": True,
     "light_logo": logo,
     "dark_logo": "ArviZ_white.png",
+}
+html_sidebars = {
+    "**": [
+        "sidebar/brand.html",
+        "sidebar/search.html",
+        "sidebar/scroll-start.html",
+        "sidebar/navigation.html",
+        "ext_links.html",
+        "sidebar/ethical-ads.html",
+        "sidebar/scroll-end.html",
+        "sidebar/variant-selector.html",
+    ]
 }
 
 intersphinx_mapping = {"arviz": ("https://python.arviz.org/en/latest/", None)}
