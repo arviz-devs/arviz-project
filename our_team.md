@@ -22,6 +22,7 @@ Those interested in contributing should instead refer to one of our contributing
 :columns: 2
 
 * Adrian Seyboldt
+* Alejandro Icazatti
 * Andy Maloney
 * Camen Piho
 * Chris Fonnesbeck
@@ -44,6 +45,7 @@ Those interested in contributing should instead refer to one of our contributing
 * S I Harini
 * Tomas Capretto
 * Utkarsh Maheshwari
+* Xiaoyan Wang
 * Yilin Xia
 :::
 
