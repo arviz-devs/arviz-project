@@ -24,7 +24,9 @@ Those interested in contributing should instead refer to one of our contributing
 * Adrian Seyboldt
 * Alejandro Icazatti
 * Andy Maloney
+* Angie.H Moon
 * Camen Piho
+* Camille Bruckmann
 * Chris Fonnesbeck
 * Corrie Bartelheimer
 * Demetri Pananos
