@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ArviZ project\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-10 09:34+0300\n"
+"POT-Creation-Date: 2022-12-19 03:10+0100\n"
 "PO-Revision-Date: 2022-04-10 05:52+0000\n"
 "Last-Translator: Osvaldo Martin, 2022\n"
 "Language-Team: Spanish (https://www.transifex.com/arviz/teams/135191/es/)\n"
@@ -25,31 +25,11 @@ msgstr ""
 msgid "Governance"
 msgstr "Gobierno"
 
-#: ../../index.md:74
-msgid "ArviZ Python library"
-msgstr "Librería de ArviZ en Python"
-
-#: ../../index.md:74
-msgid "ArviZ Julia library"
-msgstr "Librería de ArviZ en Julia"
-
-#: ../../index.md:74
-msgid "Twitter"
-msgstr "Twitter"
-
-#: ../../index.md:74
-msgid "GitHub org"
-msgstr "GitHub org"
-
-#: ../../index.md:74
-msgid "External links"
-msgstr "Enlaces externos"
-
-#: ../../index.md:6 d29a45bb8a6947f6ad0e96d22ab8695e
+#: ../../index.md:6 85c39655efca4d95bec7eb77c154cf63
 msgid "The ArviZ project"
 msgstr "El proyecto ArviZ"
 
-#: ../../index.md:7 18789b72d2d64e1db0ede576146078f0
+#: ../../index.md:7 eb08f438456a481394fdfa10670d9cd6
 msgid ""
 "ArviZ is an open source project aiming to provide tools for Exploratory "
 "Analysis of Bayesian Models that do not depend on the inference library "
@@ -66,7 +46,7 @@ msgstr ""
 "usen y se publicará bajo licencias de código abierto aprobadas por OSI, como"
 " la licencia Apache (versión 2.0) o la licencia MIT."
 
-#: ../../index.md:14 8c6e405de426493499e77c8bff9ee2fc
+#: ../../index.md:14 d84f27d8d5f247e2ab577f6a54a29ee5
 msgid ""
 "The ArviZ team work in the open on [GitHub](https://github.com/arviz-devs) "
 "with the input of the whole community and consensus of its core "
@@ -79,11 +59,11 @@ msgstr ""
 "más información sobre nuestro enfoque de gobierno, lea nuestro "
 "{ref}`governance`."
 
-#: ../../index.md:18 69eb1466b6904cfdb0efd8b076ac5372
+#: ../../index.md:18 5c6bb7c455d24a1b9e3d5a92f7878b69
 msgid "Our libraries"
 msgstr "Nuestras librerías"
 
-#: ../../index.md:1 04ad27b8446845428cdb520e5a628146
+#: ../../index.md:27 167fecbadbbc41debe5a8fb5f4091115
 msgid ""
 "<span class=\"iconify-inline arviz-logo-big\" data-icon=\"vscode-icons:file-"
 "type-julia\"></span>"
@@ -91,11 +71,11 @@ msgstr ""
 "<span class=\"iconify-inline arviz-logo-big\" data-icon=\"vscode-icons:file-"
 "type-julia\"></span>"
 
-#: ../../index.md:1 5c9c8862d4b64eb0aa4cfca594deb832
+#: ../../index.md:29 d68bd96ba8b848c1b3d5760234b49ef1
 msgid "ArviZ.jl"
 msgstr "ArviZ.jl"
 
-#: ../../index.md:1 e566ccd030d44bf08f517fadd74c1a2f
+#: ../../index.md:35 dc3f7e4a127a4fc38ba707e10fb53b9d
 msgid ""
 "<span class=\"iconify-inline arviz-logo-big\" data-icon=\"vscode-icons:file-"
 "type-python\"></span>"
@@ -103,11 +83,11 @@ msgstr ""
 "<span class=\"iconify-inline arviz-logo-big\" data-icon=\"vscode-icons:file-"
 "type-python\"></span>"
 
-#: ../../index.md:1 44f0665b1ff84518b1c71b08e524ba40
+#: ../../index.md:37 012123cae228420a8c65d9d6bb9eba0c
 msgid "ArviZ.py"
 msgstr "ArviZ.py"
 
-#: ../../index.md:1 3f579481895344c498c4908b58710399
+#: ../../index.md:43 88fe1d2ac494440593170130a331589d
 msgid ""
 "<span class=\"iconify-inline arviz-logo-big\" data-"
 "icon=\"vaadin:cubes\"></span>"
@@ -115,17 +95,17 @@ msgstr ""
 "<span class=\"iconify-inline arviz-logo-big\" data-"
 "icon=\"vaadin:cubes\"></span>"
 
-#: ../../index.md:1 6b0d1db9bc6b4e0dbbea06a5f5c0518f
+#: ../../index.md:45 033dc52328bf4188b462fa44bdcf7538
 msgid "xarray-einstats"
 msgstr "xarray-einstats"
 
-#: ../../index.md:49 8ebd5beb282c4c3994c81288038b2006
+#: ../../index.md:49 8c94f3ce551e4cfb8e480208ac7f78a9
 msgid "Sponsors and institutional partners"
 msgstr "Patrocinadores y socios institucionales"
 
-#: ../../cards/partner-logos.md:1 ../../cards/partner-logos.md:7
-#: ../../cards/partner-logos.md:13 ../../cards/sponsor-logos.md:1
-#: 1f603e95d2e146288427a423416f6f70 68acbd4ae0454ba2b0e1ef575facf27a
-#: 359ef42f04b04f7ba0a007b72698de96 b6ddc23a472a4027a02ced564a952d2d
+#: ../../cards/partner-logos.md:2 ../../cards/partner-logos.md:8
+#: ../../cards/partner-logos.md:14 ../../cards/sponsor-logos.md:2
+#: 74102b41466442ea8b7010fa834d2d43 4a8eb756a93b4739816d141099771700
+#: 0f49272d65284f168564bb09f437999f 592c02aa441b4dfc8dbf9c66d4e5ae3b
 msgid "background image"
 msgstr "Imagen de fondo"

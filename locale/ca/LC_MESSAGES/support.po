@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the ArviZ project package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Oriol Abril-Pla <oriol.abril.pla@gmail.com>, 2022
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: ArviZ project\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-10 09:34+0300\n"
+"POT-Creation-Date: 2022-12-19 03:10+0100\n"
 "PO-Revision-Date: 2022-04-10 07:09+0000\n"
+"Last-Translator: Oriol Abril-Pla <oriol.abril.pla@gmail.com>, 2022\n"
 "Language-Team: Catalan (https://www.transifex.com/arviz/teams/135191/ca/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,29 +21,37 @@ msgstr ""
 "Language: ca\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../../support.md:1 d7b96bec6a464b8789142228c899071b
+#: ../../support.md:2 2d1788b966c442b29286b50f5a8d8873
 msgid "Support ArviZ"
-msgstr ""
+msgstr "Dona suport a ArviZ"
 
-#: ../../support.md:2 8ce263f5846246e9996176b6b4794be5
+#: ../../support.md:3 83e194235caf41e5873c09e1234ba3b0
 msgid ""
 "If you have found ArviZ useful in your work, research, or company, consider "
 "supporting the project in any of the ways described in this section."
 msgstr ""
+"Si has utilitzat ArviZ per feina personal, recerca o a la teva empresa, "
+"considera donar suport al projecte amb alguna de les accions descrites en "
+"aquesta pàgina."
 
-#: ../../support.md:5 45bac764d9f7403f8071a0dadfd48dd5
+#: ../../support.md:6 9772e665b39040c08430cb104887b004
 msgid "Donate"
-msgstr ""
+msgstr "Donacions"
 
-#: ../../support.md:6 f11771b3925e4d9faa9b05c29fac20a0
+#: ../../support.md:7 441180674c244c4dbc7b3ed17c9feb01
 msgid ""
 "If you or your company have the means to do so, consider a donation to the "
 "project commensurate with your resources. Any amount helps! All donations "
 "will be used strictly to fund the development of ArviZ’s open source "
 "software, documentation, and community."
 msgstr ""
+"Si tu o la teva empresa us ho podeu permetre, considereu fer una donació al "
+"projecte proporcional als vostres recursos i al valor que us proporciona. "
+"Tot suma! Com diem en català, de mica en mica s'omple la pica. Totes les "
+"donacions seran utilitzades únicament per a finançar el desenvolupament "
+"d'ArviZ, el seu codi font obert, la seva documentació i la seva comunitat."
 
-#: ../../donate.md:1 852060599db6430e8ab65dd9d13d3297
+#: ../../donate.md:2 8fd1be7616d4496a9c417bf1c3a0f2a9
 msgid ""
 "ArviZ is a Sponsored Project of NumFOCUS, a 501(c)(3) nonprofit charity  in "
 "the United States. NumFOCUS provides ArviZ with fiscal, legal, and "
@@ -47,7 +59,7 @@ msgid ""
 "project. Visit [numfocus.org](https://numfocus.org/) for more information."
 msgstr ""
 
-#: ../../donate.md:6 05bd7bcf7cf94232bf0a9591637122a1
+#: ../../donate.md:7 daa25182d2064067a5c467248c4243b2
 msgid ""
 "Donations to ArviZ are managed by NumFOCUS. For donors in the United States,"
 " your gift is tax-deductible to the extent provided by law. As with any "
@@ -55,50 +67,56 @@ msgid ""
 " situation."
 msgstr ""
 
-#: ../../donate.md:11 f6fdde0f69784b70855c11579ff0f296
+#: ../../donate.md:12 71ec561cac71457a93d38b0cadaac80f
 msgid ""
 "The ArviZ project will make the decisions on how to best use any funds "
 "received to serve the priorities outlined in our "
 "[Roadmap](https://github.com/arviz-devs/arviz/wiki/ArviZ-2021-roadmap)."
 msgstr ""
 
-#: ../../donate.md:1 e026e7043d124632929800fb2bd8af6f
-msgid "Donate to ArviZ"
+#: ../../donate.md:18 683958282fd04566b6e3240e1dc776d3
+msgid ""
+"Donate to ArviZ <svg version=\"4.0.0.63c5cb3\" width=\"2.0em\" "
+"height=\"2.0em\" class=\"sd-material-icon sd-material-icon-favorite\" "
+"viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M0 0h24v24H0z\" "
+"fill=\"none\"></path><path d=\"M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 "
+"2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 "
+"3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z\"></path></svg>"
 msgstr ""
 
-#: ../../support.md:14 fc2ac643f57e4c9abec255c423bc3cd9
+#: ../../support.md:16 bfef2dee790f4e38b0e735495b89cd82
 msgid "Cite"
 msgstr ""
 
-#: ../../support.md:15 473fa417e1f74e5faccb302bbd488ddc
+#: ../../support.md:17 084f9589d68944d8b85b6e27f229cd79
 msgid ""
 "If you use ArviZ in your scientific work, you can cite it using "
 "[![DOI](http://joss.theoj.org/papers/10.21105/joss.01143/status.svg)](https://doi.org/10.21105/joss.01143)"
 msgstr ""
 
-#: ../../support.md:15 a2a936dce470403f8cffe1650954fbd4
+#: ../../support.md:17 f3e2d2ca67f5412a86b8214427dc2465
 msgid "DOI"
 msgstr ""
 
-#: ../../support.md:17 11b73e19e84b41ffbd07d4e3c5d07824
+#: ../../support.md:19 dd9ba7c9d92547e6ad9835347b6e5c1d
 msgid "Here is the citation in BibTeX format:"
 msgstr ""
 
-#: ../../support.md:34 4724f8135b9048519601e290347c622c
+#: ../../support.md:36 9522de7ddd3a47b187129f6b23de9d94
 msgid ""
 "Please also consider citing ArviZ's {ref}`arviz:arviz-dependencies` and the "
 "inference library used to build and fit the model."
 msgstr ""
 
-#: ../../support.md:37 356225a25df646f98c845174fce5d652
+#: ../../support.md:40 125a7dc4c65b4fde8cde62696fa1fae7
 msgid "ArviZ for enterprise"
 msgstr ""
 
-#: ../../support.md:39 6b3a812129ca4fc7a2e65328b9cf1b17
+#: ../../support.md:42 b126ebb4320949dcbd13fe04e26acb44
 msgid "ArviZ is now available as part of the Tidelift Subscription!"
 msgstr ""
 
-#: ../../support.md:41 98b4067736174326995d1dc233fd7516
+#: ../../support.md:44 73960f625e014e4c8dd9423582fee988
 msgid ""
 "Tidelift is working with ArviZ and the maintainers of thousands of other "
 "open source projects to deliver commercial support and maintenance for the "
@@ -107,6 +125,6 @@ msgid ""
 "ArviZ."
 msgstr ""
 
-#: ../../support.md:1 c9d96cc0142641769ec50d9654f42655
+#: ../../support.md:51 c704aab07c5140e4b1713fc7b673e60e
 msgid "Learn more"
 msgstr ""
