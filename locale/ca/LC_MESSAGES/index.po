@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ArviZ project\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-10 08:21+0300\n"
+"POT-Creation-Date: 2022-12-19 03:10+0100\n"
 "PO-Revision-Date: 2022-04-10 05:52+0000\n"
 "Last-Translator: Oriol Abril-Pla <oriol.abril.pla@gmail.com>, 2022\n"
 "Language-Team: Catalan (https://www.transifex.com/arviz/teams/135191/ca/)\n"
@@ -25,31 +25,11 @@ msgstr ""
 msgid "Governance"
 msgstr "Governança"
 
-#: ../../index.md:74
-msgid "ArviZ Python library"
-msgstr "Llibreria ArviZ en Python"
-
-#: ../../index.md:74
-msgid "ArviZ Julia library"
-msgstr "Llibreria ArviZ en Julia"
-
-#: ../../index.md:74
-msgid "Twitter"
-msgstr "Twitter"
-
-#: ../../index.md:74
-msgid "GitHub org"
-msgstr "Organització de GitHub"
-
-#: ../../index.md:74
-msgid "External links"
-msgstr "Enllaços externs"
-
-#: ../../index.md:6
+#: ../../index.md:6 85c39655efca4d95bec7eb77c154cf63
 msgid "The ArviZ project"
 msgstr "El projecte ArviZ"
 
-#: ../../index.md:7
+#: ../../index.md:7 eb08f438456a481394fdfa10670d9cd6
 msgid ""
 "ArviZ is an open source project aiming to provide tools for Exploratory "
 "Analysis of Bayesian Models that do not depend on the inference library "
@@ -66,7 +46,7 @@ msgstr ""
 "aprovades per l'OSI com are la llicència Apache (Versió 2.0) o la llicència "
 "MIT."
 
-#: ../../index.md:14
+#: ../../index.md:14 d84f27d8d5f247e2ab577f6a54a29ee5
 msgid ""
 "The ArviZ team work in the open on [GitHub](https://github.com/arviz-devs) "
 "with the input of the whole community and consensus of its core "
@@ -78,11 +58,11 @@ msgstr ""
 " i el consens dels seus col·laboradors principals. Per més informació sobre "
 "la nostra governaça, llegeix la pàgina {ref}`governance`."
 
-#: ../../index.md:18
+#: ../../index.md:18 5c6bb7c455d24a1b9e3d5a92f7878b69
 msgid "Our libraries"
 msgstr "Les nostres llibreries"
 
-#: ../../index.md:1
+#: ../../index.md:27 167fecbadbbc41debe5a8fb5f4091115
 msgid ""
 "<span class=\"iconify-inline arviz-logo-big\" data-icon=\"vscode-icons:file-"
 "type-julia\"></span>"
@@ -90,11 +70,11 @@ msgstr ""
 "<span class=\"iconify-inline arviz-logo-big\" data-icon=\"vscode-icons:file-"
 "type-julia\"></span>"
 
-#: ../../index.md:1
+#: ../../index.md:29 d68bd96ba8b848c1b3d5760234b49ef1
 msgid "ArviZ.jl"
 msgstr "ArviZ.jl"
 
-#: ../../index.md:1
+#: ../../index.md:35 dc3f7e4a127a4fc38ba707e10fb53b9d
 msgid ""
 "<span class=\"iconify-inline arviz-logo-big\" data-icon=\"vscode-icons:file-"
 "type-python\"></span>"
@@ -102,11 +82,11 @@ msgstr ""
 "<span class=\"iconify-inline arviz-logo-big\" data-icon=\"vscode-icons:file-"
 "type-python\"></span>"
 
-#: ../../index.md:1
+#: ../../index.md:37 012123cae228420a8c65d9d6bb9eba0c
 msgid "ArviZ.py"
 msgstr "ArviZ.py"
 
-#: ../../index.md:1
+#: ../../index.md:43 88fe1d2ac494440593170130a331589d
 msgid ""
 "<span class=\"iconify-inline arviz-logo-big\" data-"
 "icon=\"vaadin:cubes\"></span>"
@@ -114,15 +94,17 @@ msgstr ""
 "<span class=\"iconify-inline arviz-logo-big\" data-"
 "icon=\"vaadin:cubes\"></span>"
 
-#: ../../index.md:1
+#: ../../index.md:45 033dc52328bf4188b462fa44bdcf7538
 msgid "xarray-einstats"
 msgstr "xarray-einstats"
 
-#: ../../index.md:49
+#: ../../index.md:49 8c94f3ce551e4cfb8e480208ac7f78a9
 msgid "Sponsors and institutional partners"
 msgstr "Patrocinadors i socis institucionals"
 
-#: ../../cards/partner-logos.md:1 ../../cards/partner-logos.md:7
-#: ../../cards/partner-logos.md:13 ../../cards/sponsor-logos.md:1
+#: ../../cards/partner-logos.md:2 ../../cards/partner-logos.md:8
+#: ../../cards/partner-logos.md:14 ../../cards/sponsor-logos.md:2
+#: 74102b41466442ea8b7010fa834d2d43 4a8eb756a93b4739816d141099771700
+#: 0f49272d65284f168564bb09f437999f 592c02aa441b4dfc8dbf9c66d4e5ae3b
 msgid "background image"
 msgstr "imatge de fons"
