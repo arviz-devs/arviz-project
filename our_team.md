@@ -33,16 +33,20 @@ Those interested in contributing should instead refer to one of our contributing
 * Eric Ma
 * Ero Carrera
 * Evdoxia Taka
-* Maxime Kochurov
+* Gayathri Krishnaswamy
+* Jacki Buros
 * Jonathan Lindbloom
 * Junpeng Lao
 * Karin Knudson
+* Maxime Kochurov
 * Marcel Haas
+* Meenal Jhajharia
 * Moritz Freidank
 * Nitish Pasricha
 * Rishabh Sanjay
 * Rob Zinkov
 * Rosheen Naeem
+* Sandra Meneses
 * Sarina Chen
 * S I Harini
 * Tomas Capretto
