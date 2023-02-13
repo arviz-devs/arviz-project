@@ -22,8 +22,6 @@ Those interested in contributing should instead refer to one of our contributing
 :columns: 2
 
 * Adrian Seyboldt
-* Alejandro Icazatti
-* Andy Maloney
 * Angie.H Moon
 * Camen Piho
 * Camille Bruckmann
@@ -52,7 +50,6 @@ Those interested in contributing should instead refer to one of our contributing
 * Tomas Capretto
 * Utkarsh Maheshwari
 * Xiaoyan Wang
-* Yilin Xia
 :::
 
 (emeritus)=
