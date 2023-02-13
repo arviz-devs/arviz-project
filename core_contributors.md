@@ -85,6 +85,15 @@ Ari Hartikainen
 
 ::::{grid-item-card}
 :class-item: p-2
+:img-top: https://avatars.githubusercontent.com/u/11216696
+
+Alejandro Icazatti
+
+[{fab}`github`](https://github.com/aleicazatti)
+::::
+
+::::{grid-item-card}
+:class-item: p-2
 :img-top: https://avatars.githubusercontent.com/u/7213793
 
 Ravin Kumar
@@ -92,6 +101,15 @@ Ravin Kumar
 [{fab}`github`](https://github.com/canyon289)
 [{fab}`twitter`](https://twitter.com/canyon289)
 [{fas}`globe`](http://ravinkumar.com)
+::::
+
+::::{grid-item-card}
+:class-item: p-2
+:img-top: https://avatars.githubusercontent.com/u/60523020
+
+Andy Maloney
+
+[{fab}`github`](https://github.com/ndmlny-qs)
 ::::
 
 ::::{grid-item-card}
@@ -135,6 +153,15 @@ Aki Vehtari
 [{fab}`github`](https://github.com/avehtari)
 [{fab}`twitter`](https://twitter.com/avehtari)
 [{fas}`globe`](https://users.aalto.fi/~ave/)
+::::
+
+::::{grid-item-card}
+:class-item: p-2
+:img-top: https://avatars.githubusercontent.com/u/24869900
+
+Yilin Xia
+
+[{fab}`github`](https://github.com/yilinxia)
 ::::
 
 :::::
