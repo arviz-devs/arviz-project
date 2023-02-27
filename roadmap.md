@@ -13,12 +13,15 @@ In this page we describe our current roadmap and specific actions to work toward
 ## Project roadmap
 We believe both ArviZ and Exploratory Analysis of Bayesian Models are currently relatively established concepts.
 Therefore, generally speaking, as a project we are working on changing ArviZ paradigm/design
-from single monolithical functions that generate complete analysis and visualizations towards
+from monolithic functions that generate complete analyses and visualizations towards
 being more modular.
 
-At the same time, we continue to keep growing our team and publishing documentation as tasks at the same priority level as development.
-In 2023 we will have our 2nd Random Variables council election. We would like to energize collaboration within the team,
-aiming to continue acting coherently despite the library specialization within the team.
+At the same time, we plan to equally prioritize all three tasks of:
+- Library development
+- Publishing documentation
+- Growing and encouraging participation in the library
+In 2023 we will have our 2nd Random Variables council election. We would like to encourage participation,
+aiming to continue acting thoughtfully given the interests of different inference libraries that ArviZ works with.
 
 And we would like to continue having more people with different backgrounds, interests and expertise join the team.
 To this end, we are planning to participate in internship projects, continue to hire for specific small projects
@@ -52,7 +55,11 @@ Publish paper, start advertizing the library to get users and get real world tes
 Plan to ask dashboard + some refactoring grant
 
 ## Julia roadmap
-As Python functionality is ported to Julia, it is divided into smaller, modular packages that are designed to be standalone packages useful outside of ArviZ, to integrate with the broader Julia ecosystem, and to interact well with ArviZ.jl's data structures. Examples of these packages are PSIS.jl, InferenceObjects.jl, and MCMCDiagnosticTools.jl. ArviZ.jl is then primarily a monopackage that brings all of these components together.
+As Python functionality is ported to Julia, it is divided into smaller, modular packages that are designed to
+- be standalone packages useful outside of ArviZ,
+- integrate with the broader Julia ecosystem, and
+- interact well with ArviZ.jl's data structures.
+Examples of these packages are PSIS.jl, InferenceObjects.jl, and MCMCDiagnosticTools.jl. ArviZ.jl is then primarily a monopackage that brings all of these components together.
 
 The main development priority in Julia in 2023 is porting plots with both the Plots.jl and Makie.jl backends and providing utilities to support bespoke plotting.
 
