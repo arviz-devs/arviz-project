@@ -1,14 +1,14 @@
 (roadmap)=
 # Roadmap
 
-Last updated: February 2023
+Last updated: April 2023
 
 ## Our philosophy
 As stated in our homepage:
 
 > ArviZ is an open source project aiming to provide tools for Exploratory Analysis of Bayesian Models that do not depend on the inference library used.
 
-In this page we describe our current roadmap and specific actions to work towards this goal.
+In this page we describe our current roadmap and high-level actions to work towards this goal.
 
 ## Project roadmap
 We believe both ArviZ and Exploratory Analysis of Bayesian Models are currently relatively established concepts.
@@ -16,17 +16,41 @@ Therefore, generally speaking, as a project we are working on changing ArviZ par
 from monolithic functions that generate complete analyses and visualizations towards
 being more modular.
 
-At the same time, we plan to equally prioritize all three tasks of:
-- Library development
-- Publishing documentation
-- Growing and encouraging participation in the library
-In 2023 we will have our 2nd Random Variables council election. We would like to encourage participation,
-aiming to continue acting thoughtfully given the interests of different inference libraries that ArviZ works with.
+At the same time, we plan to equally prioritize all three tasks of: library development,
+publishing documentation, and growing and encouraging participation.
 
-And we would like to continue having more people with different backgrounds, interests and expertise join the team.
-To this end, we are planning to participate in internship projects, continue to hire for specific small projects
-that require expertise not currently present in our team, and take part in or organize sprints, office hours or working sessions
-to attract and support people in joining the team.
+### Library development
+
+This includes both maintenance and bug fixing of our existing libraries and extending the
+capabilities of these libraries (or creating new ones) in order to improve the toolset for
+Exploratory Analysis of Bayesian Models that is available to practitioners.
+
+This point is library dependent so it is detailed below for each of the different libraries
+of the ArviZ project.
+
+### Publishing documentation
+By "documentation" here we understand both documentation on how to use the libraries themselves
+and educational material on how to perform Exploratory Analysis of Bayesian Models on a conceptual level.
+
+### Growing and encouraging participation
+The focus of this point is ensuring all {ref}`ArviZ team members <our_team>` are engaged
+according to their own possibilities, i.e. we are not setting barriers on participation
+nor growth due to ArviZ culture or leadership.
+
+Also making sure everyone feels their contributions are values,
+whether they are code contributions, helping with social media,
+coordinating sprints/workshops/forum participation...
+In 2023 we will have our 2nd Random Variables council election.
+We would like to encourage participation, aiming to continue acting thoughtfully given
+the interests of different inference libraries that ArviZ works with.
+
+Lastly, and to a lesser extent given it is somewhat conditioned on the other points,
+also continue onboarding new people, especially with different backgrounds, interests and expertise join the team.
+To this end, we are planning to participate in internship projects,
+continue to hire for specific small projects that require expertise not currently present in our team,
+and take part in or organize sprints, office hours or working sessions to attract and support people in joining the team.
+
+---
 
 ## Python roadmap
 For Python, the move towards modular design is happening at the same time within the main ArviZ Python library and
@@ -49,10 +73,23 @@ library, while at the same time providing reusable lower level visual and comput
 their own custom end-to-end visualizations or for developers to build new libraries on (e.g. ArviZ dashboards).
 
 ### PreliZ
-Publish paper, start advertizing the library to get users and get real world tests, add some multivariate elicitation strategies?
+We recently submitted a paper on PreliZ to JOSS which, at the time of writing, is waiting for reviews.
+During 2023 we plan to start advertizing the library even if not yet full-featured to
+get users and see how it fares in real world prior elicitation tasks.
+
+In addition to maintenance and improvement of current capabilities of PreliZ,
+we will also experiment on multivariate elicitation strategies.
 
 ### ArviZ dashboards
-Plan to ask dashboard + some refactoring grant
+We plan to dedicate significant resources to the development of dashboards and dashboard components
+in the coming years. To make this possible we will ask for some grants to ensure we have dedicated
+time to finish the refactoring and work on ArviZ dashboards. Refactoring is related to this point
+because it will make dashboard development possible and faster (where it already is possible).
+
+We also plan to expand our expertise so we become more efficient at designing, implementing and
+documenting dashboards.
+
+---
 
 ## Julia roadmap
 As Python functionality is ported to Julia, it is divided into smaller, modular packages that are designed to
