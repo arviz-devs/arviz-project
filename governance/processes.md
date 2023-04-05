@@ -134,19 +134,19 @@ issue, but must recuse themselves from voting on the issue.
   :::{admonition} Example
   :class: dropdown
 
-  If there were 9 accepted candidates out of a team of 12 people.
+  Say there are 9 accepted candidates out of a team of 12 people.
   Their affiliations are `A, B, B, C, A, A, B, D, E`.
-  There more than 7 accepted candidates, so the first step would be to attempt
-  selecting the 7 with higher rank. They all had 8 or more "Yes" votes,
-  and 2 or less "No" votes, so their ranks will go between 12 and 6.
+  There are more than 7 accepted candidates, so the first step would be to attempt
+  selecting the 7 with higher rank. Say they all have 8 or more "Yes" votes,
+  and 2 or less "No" votes, consequently their ranks will go between 12 and 6.
   Their ranks are respectively `12, 12, 12, 10, 10, 9, 8, 7, 6`.
 
   The council integrated by the 7 candidates with higher rank would have
-  3 people reporting to both company A and B, so it doesn't match all
+  3 people reporting to company A and 3 more reporting to B, so it doesn't match all
   conditions either. We therefore evaluate 3 alternative potential councils:
 
   * rank 9 or higher: 6 members, still 3 people report to the same company,
-    now only to company A but doesn't match the conditions either.
+    now only to company A but doesn't match the conditions.
   * rank 10 or higher: All conditions are met.
   * rank 12 or higher: Only 3 candidates left, but the council must be 4 people at least.
 
