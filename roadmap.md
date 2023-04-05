@@ -37,7 +37,7 @@ The focus of this point is ensuring all {ref}`ArviZ team members <our_team>` are
 according to their own possibilities, i.e. we are not setting barriers on participation
 nor growth due to ArviZ culture or leadership.
 
-Also making sure everyone feels their contributions are values,
+Also making sure everyone feels their contributions are valued,
 whether they are code contributions, helping with social media,
 coordinating sprints/workshops/forum participation...
 In 2023 we will have our 2nd Random Variables council election.
@@ -45,7 +45,7 @@ We would like to encourage participation, aiming to continue acting thoughtfully
 the interests of different inference libraries that ArviZ works with.
 
 Lastly, and to a lesser extent given it is somewhat conditioned on the other points,
-also continue onboarding new people, especially with different backgrounds, interests and expertise join the team.
+also continue onboarding new people on team, especially those with different backgrounds, interests, and expertise.
 To this end, we are planning to participate in internship projects,
 continue to hire for specific small projects that require expertise not currently present in our team,
 and take part in or organize sprints, office hours or working sessions to attract and support people in joining the team.
@@ -58,7 +58,7 @@ with the creation of new libraries.
 
 ### ArviZ main Python library
 We plan to refactor the plotting and stats modules so they become more independent and modular themselves.
-This will ease adding new visualizations and statistics/diagnostics and at the same time should also
+This will ease adding new visualizations, statistics, and diagnostics. At the same time should also
 serve as breadcrumbs for the other new libraries like ArviZ dashboards or PreliZ.
 
 Our goal is to separate the data organization, data processing and plotting steps.
@@ -77,8 +77,8 @@ We recently submitted a paper on PreliZ to JOSS which, at the time of writing, i
 During 2023 we plan to start advertizing the library even if not yet full-featured to
 get users and see how it fares in real world prior elicitation tasks.
 
-In addition to maintenance and improvement of current capabilities of PreliZ,
-we will also experiment on multivariate elicitation strategies.
+In addition to maintenance and improvement of the current capabilities of PreliZ,
+we will also experiment with multivariate elicitation strategies and new methods for predictive elicitation.
 
 ### ArviZ dashboards
 We plan to dedicate significant resources to the development of dashboards and dashboard components
