@@ -6,7 +6,9 @@
 The ArviZ Project (The Project) is an open source software project
 affiliated with the 501c3 NumFOCUS Foundation. The goal of The Project is to
 develop open source software and deploy open and public websites and services
-for reproducible, exploratory and interactive computing. The Software developed
+for reproducible, exploratory and interactive computing.
+
+The Software developed
 by The Project is released under OSI approved open source licenses,
 developed openly and hosted in public GitHub repositories under the
 [arviz-devs GitHub organization](https://github.com/arviz-devs). Examples of
@@ -14,6 +16,7 @@ Project Software include the code of the two ArviZ libraries and their Documenta
 The Services run by the
 Project consist of public websites and web-services that are hosted
 at [https://www.arviz.org/](https://www.arviz.org/)
+
 The Project is developed by a team of distributed developers, called
 Contributors. Contributors are individuals who have contributed code,
 documentation, designs or other work to one or more Project repositories.
@@ -54,15 +57,16 @@ sponsors_partners
 
 
 ### Historical note
-Traditionally, project leadership was unstructured but primarily driven
+Initially, project leadership was unstructured but primarily driven
 by a subset of Core Contributors whose active and consistent
 contributions have been recognized by their receiving “commit rights” to the
-Project GitHub repositories. In general all Project decisions are made through
+Project GitHub repositories. In general all Project decisions were made through
 consensus among the Core Contributors with input from the Community.
 
-While this approach has served us well, as the Project grows and faces more
-legal and financial decisions and interacts with other institutions, we see a
-need for a more formal governance model. Moving forward The Project leadership
-will consist of a Random Variables Council. We view this governance model as
-the formalization of what we are already doing, rather than a change in
-direction.
+While this approach served us well, as the Project grew and faced more
+legal and financial decisions and interacted with other institutions, we saw a
+need for a more formal governance model. We also wanted to prevent falling prey to
+the [tyranny of structurelessness](https://www.jofreeman.com/joreen/tyranny.htm).
+Since 2020, The Project leadership consists of a Random Variables Council.
+We view this governance model as the formalization of what we are already doing,
+rather than a change in direction.

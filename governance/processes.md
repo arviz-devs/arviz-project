@@ -4,8 +4,11 @@
 (contributor_onboarding)=
 ## New Contributor Nominations and Confirmation Process
 Current Contributors can nominate candidates to become Contributors by
-requesting so in a GitHub issue, constraints on eligibility are detailed
-in the role descriptions. If nominated candidates accept their nomination
+requesting so in a GitHub issue at [arviz-project repository](https://github.com/arviz-devs/arviz-project/issues?q=is%3Aissue+label%3Agovernance),
+constraints on eligibility are detailed in the role descriptions.
+The log of past nominations and their results is kept available in that repository.
+
+If nominated, candidates accept their nomination
 (explicit comment approving nomination on the issue or "thumbs-up" emoji on the same issue),
 then they can be considered by the Council: on the first of the month following a
 nomination, the Council will vote on each nominee using {ref}`this process <council_voting>`.
@@ -68,7 +71,7 @@ will vote privately. However the decision will be posted publicly in an issue ti
 
 Unless specifically required, all Council discussions and activities will be
 between public (GitHub, Gitter), and partially public channels (Slack)
-and done in collaboration and discussion with the Core Contributors
+and done in collaboration and discussion with the rest of the ArviZ team
 and the Community. The Council will have a private channel that will be used
 sparingly and only when a specific matter requires privacy. When private
 communications and decisions are needed, the Council will do its best to
@@ -113,15 +116,51 @@ issue, but must recuse themselves from voting on the issue.
   Each voter can vote zero or more times, once per each candidate. As this is not about
   ranking but about capabilities, voters vote on a yes/neutral/no basis
   per candidate -- “would I trust this person to lead ArviZ?”.
+  - All core contributors can vote in an election.
 * Candidates are evaluated independently, each candidate having 60% or more of
-  yes votes _and_ less or equal than 20% of no votes is chosen. If the number
-  of chosen candidates is >=4 and <=10 all candidates are confirmed and the
-  election process stops here.
+  yes votes _and_ less or equal than 20% of no votes is chosen.
+  If the council resulting from all accepted candidates matches all conditions
+  described in {ref}`this section <council_description>` all candidates are
+  confirmed and the election process stops here.
 * In the event that either not enough or too many candidates were confirmed,
   candidates are ranked by interpreting yes=+1, neutral=0 and no=-1. If too
-  many candidates were confirmed, the 10 candidates with higher rank are
+  many candidates were confirmed, the 7 candidates with higher rank are
   elected. If not enough candidates were chosen, the 4 candidates with higher
-  rank are elected.
+  rank are elected. If affiliation conditions were not met, multiple potential
+  councils will be constructed with candidates whose rank is `>i` for all possible
+  values of `i`. If any of those potential councils matches the conditions,
+  the one with smaller `i` will be chosen.
+
+  :::{admonition} Example
+  :dropdown:
+
+  If there were 9 accepted candidates out of a team of 12 people.
+  Their affiliations are `A, B, B, C, A, A, B, D, E`.
+  There more than 7 accepted candidates, so the first step would be to attempt
+  selecting the 7 with higher rank. They all had 8 or more "Yes" votes,
+  and 2 or less "No" votes, so their ranks will go between 12 and 6.
+  Their ranks are respectively `12, 12, 12, 10, 10, 9, 8, 7, 6`.
+
+  The council integrated by the 7 candidates with higher rank would have
+  3 people reporting to both company A and B, so it doesn't match all
+  conditions either. We therefore evaluate 3 alternative potential councils:
+
+  * rank 9 or higher: 6 members, still 3 people report to the same company,
+    now only to company A but doesn't match the conditions either.
+  * rank 10 or higher: All conditions are met.
+  * rank 12 or higher: Only 3 candidates left, but the council must be 4 people at least.
+
+  We would then end up with a 5 people council, with members with rank 10 or higher.
+
+  Alternatively, if the ranks had been `12, 12, 12, 10, 9, 9, 8, 7, 6`,
+  we would still choose the council of candidates with rank 10 or higher,
+  as otherwise not all conditions are met, but in that case it would be a
+  4 people council
+
+  If the ranks had been `12, 12, 12, 10, 10, 10, 8, 7, 6`, then the process would
+  continue, with the {ref}`run off election <run_off_election>` between
+  the 3 tied candidates with rank 10.
+  :::
 
   (run_off_election)=
 * In the event of a tie there will be a runoff election for the tied candidates. To avoid
@@ -168,10 +207,3 @@ issue, but must recuse themselves from voting on the issue.
 Core contributors can also voluntarily leave the project by notifying the community through a public means or by notifying the entire council.
 
 Unless they request otherwise, they will be listed on {ref}`emeritus` page.
-
-## Voting Criteria For Future Elections
-Voting for first election is restricted to establish stable governance, and to defer major decision to elected leaders
-* For the first election only the people registered following the guidelines in `elections/ArviZ_2020.md` can vote
-* In the first year, the council must determine voting eligibility for future elections between two criteria:
-  * Core contributors
-  * The contributing community at large
