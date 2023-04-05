@@ -61,6 +61,7 @@ xarray-einstats
 our_team
 support
 sponsors_partners
+roadmap
 :::
 
 :::{toctree}
