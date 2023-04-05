@@ -3,3 +3,4 @@ furo
 myst-parser[linkify]
 sphinx-copybutton
 sphinx-design
+sphinx-togglebutton

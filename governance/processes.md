@@ -132,7 +132,7 @@ issue, but must recuse themselves from voting on the issue.
   the one with smaller `i` will be chosen.
 
   :::{admonition} Example
-  :dropdown:
+  :class: dropdown
 
   If there were 9 accepted candidates out of a team of 12 people.
   Their affiliations are `A, B, B, C, A, A, B, D, E`.
