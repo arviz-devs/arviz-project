@@ -16,6 +16,7 @@ extensions = [
     "myst_parser",
     "sphinx_copybutton",
     "sphinx_design",
+    "sphinx_togglebutton",
 ]
 
 exclude_patterns = ["Thumbs.db", ".DS_Store", ".ipynb_checkpoints", "README.md", "cards/*", ".github/**"]

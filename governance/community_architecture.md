@@ -10,6 +10,9 @@ Anyone working with ArviZ has the responsibility to personally uphold
 the Code of Conduct. Core Contributors have the additional responsibility
 of _enforcing_ the Code of Conduct to maintain a safe community.
 
+The terms "ArviZ team" and "ArviZ team members" are used to refer everyone
+who is either recurrent or core contributor.
+
 (recurrent_contributor_description)=
 ## Recurrent Contributors
 Recurrent Contributors are those individuals who contribute recurrently to the
@@ -74,6 +77,11 @@ their contributions and their expert knowledge of the Project Software and
 Services that Council Members will provide useful guidance, both technical and
 in terms of project direction, to potentially less experienced contributors.
 
+The Council will have between 4 and 7 members.
+No more than 2 Council Members can report to one person or company
+(including Institutional Partners) through employment or contracting work
+(including the reportee, i.e. the reportee + 1 is the max).
+
 ### Council Responsibilities
 Council Members will have the responsibility of
 * Removing members, including Council Members, if they are in violation of the Code of Conduct
@@ -95,7 +103,11 @@ when needed they can collectively make decisions for the health of the project.
 
 ### Length of Tenure and Reverification
 * Council members term limits are 4 years, after which point their seat will come up for reelection.
-* Each year on April 7th council members will be asked to restate their commitment to being on the council
+* Council members can renounce at any time and are encouraged to do so if
+  they foresee they won't be able to attend their responsibilities
+  for an extended interval of time.
+* Moreover, to actively check council member engagement, each year on April 7th
+  council members will be asked to restate their commitment to being on the council
 * Attempts should be made to reach every council member over at least 2 communication media. For example: email, Slack, phone, or GitHub.
 * If a council member does not restate their commitment their seat will be vacated.
 * Inactivity can be determined by lack of substantial contribution, including votes on council, code or discussion contributions, contributions in the community or otherwise.
