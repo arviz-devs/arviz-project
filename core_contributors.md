@@ -7,7 +7,7 @@
 Oriol Abril-Pla
 
 [{fab}`github`](https://github.com/oriolabril)
-[{fab}`twitter`](https://twitter.com/OriolAbril)
+[{fab}`mastodon`](https://toot.cat/@OriolAbril)
 [{fas}`globe`](https://oriolabrilpla.cat)
 ::::
 
@@ -41,6 +41,16 @@ Seth Axen
 [{fab}`github`](https://github.com/sethaxen)
 [{fab}`twitter`](https://twitter.com/sethaxen)
 [{fas}`globe`](https://sethaxen.com/)
+::::
+
+::::{grid-item-card}
+:class-item: p-2
+:img-top: https://avatars.githubusercontent.com/u/25507629
+
+Tomas Capretto
+
+[{fab}`github`](https://github.com/tomicapretto)
+[{fas}`globe`](https://tomicapretto.github.io/)
 ::::
 
 ::::{grid-item-card}

@@ -119,7 +119,6 @@ when needed they can collectively make decisions for the health of the project.
 The current RV Council members are:
 
 * Oriol Abril-Pla (@OriolAbril)
-* Alex Andorra (@AlexAndorra)
 * Seth Axen (@sethaxen)
 * Colin Carroll (@ColCarroll)
 * Ari Hartikainen (@ahartikainen)
