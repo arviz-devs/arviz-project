@@ -1,24 +1,8 @@
 # Sponsors and institutional partners
 ## Institutional partners
-:::::::{grid} 2
-::::::{grid-item}
-:columns: 12 12 6 6
-
-::::{grid} 1 2 2 2
-:::{include} cards/partner-logos.md
-:::
-::::
-::::::
-
-::::::{grid-item}
-:columns: 12 12 6 6
-
-**Details**
-
-* Helsinki University funds Oriol Abril Pla to work on ArviZ thanks to the support of
-  {abbr}`FCAI (Finnish Center for Artificial Intelligence)`
-::::::
-:::::::
+ArviZ currently has no Institutional partners.
+See the {ref}`gov_sponsors_partners` section in our governance for more information
+on what Institutional partners are and how to become one.
 
 ## Sponsors
 :::::::{grid} 2
@@ -52,3 +36,5 @@
 ## Historical funding
 In the past, ArviZ has received institutional or financial support from:
 
+* Helsinki University funded Oriol Abril Pla to work on ArviZ thanks to the support of
+  {abbr}`FCAI (Finnish Center for Artificial Intelligence)`. Dates: 2021-2022
