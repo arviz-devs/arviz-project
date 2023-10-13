@@ -37,4 +37,4 @@ on what Institutional partners are and how to become one.
 In the past, ArviZ has received institutional or financial support from:
 
 * Helsinki University funded Oriol Abril Pla to work on ArviZ thanks to the support of
-  {abbr}`FCAI (Finnish Center for Artificial Intelligence)`
+  {abbr}`FCAI (Finnish Center for Artificial Intelligence)`. Dates: 2021-2022
