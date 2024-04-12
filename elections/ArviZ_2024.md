@@ -7,7 +7,7 @@ at {ref}`council_selection`.
 ## Process details
 ### Nominations for the RV Council (April 12th)
 A GitHub issue within the [arviz-project](https://github.com/arviz-devs/arviz-project)
-repository has been created for nominations to take place: 
+repository has been created for nominations to take place: https://github.com/arviz-devs/arviz-project/issues/49
 
 ### First round election (TBD)
 Around April 26th (and no earlier than that) nominations will close and
