@@ -37,7 +37,8 @@ nb_render_priority = {"gettext": ()}
 
 # -- Options for extensions
 
-myst_enable_extensions = ["colon_fence", "deflist", "dollarmath", "amsmath", "attrs_block"]
+myst_enable_extensions = ["colon_fence", "deflist", "dollarmath", "amsmath", "attrs_block", "linkify"]
+myst_linkify_fuzzy_links = False
 
 
 # -- Options for HTML output
