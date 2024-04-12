@@ -116,7 +116,7 @@ issue, but must recuse themselves from voting on the issue.
   Each voter can vote zero or more times, once per each candidate. As this is not about
   ranking but about capabilities, voters vote on a yes/neutral/no basis
   per candidate -- “would I trust this person to lead ArviZ?”.
-  - All core contributors can vote in an election.
+  - All {ref}`ArviZ team members <team_member_definition>` can vote in an election.
 * Candidates are evaluated independently, each candidate having 60% or more of
   yes votes _and_ less or equal than 20% of no votes is chosen.
   If the council resulting from all accepted candidates matches all conditions
