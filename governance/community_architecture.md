@@ -10,6 +10,7 @@ Anyone working with ArviZ has the responsibility to personally uphold
 the Code of Conduct. Core Contributors have the additional responsibility
 of _enforcing_ the Code of Conduct to maintain a safe community.
 
+{#team_member_definition}
 The terms "ArviZ team" and "ArviZ team members" are used to refer everyone
 who is either recurrent or core contributor.
 
@@ -19,11 +20,12 @@ Recurrent Contributors are those individuals who contribute recurrently to the
 project and can provide valuable insight on the project.
 They are therefore actively consulted and can participate in the same communication
 channels as Core Contributors. However, unlike Core Contributors,
-Recurrent Contributors don't have voting, managing or writing rights.
+Recurrent Contributors only vote in elections and don't have managing or writing rights.
 
 In practice, this translates in participating from private team discussions
-(i.e. in Slack or live meetings) but not being able to vote in elections
-for the Random Variables Council members nor having commit rights on GitHub.
+(i.e. in Slack or live meetings) but having commit rights on GitHub,
+nor admin rights on other services, nor being eligible as candidates for the
+Random Variables council.
 
 The Recurrent Contributor position will often be an intermediate step for people
 in becoming Core Contributors once their contributions are frequent enough
