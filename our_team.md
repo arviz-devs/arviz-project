@@ -23,6 +23,7 @@ Those interested in contributing should instead refer to one of our contributing
 
 * Adrian Seyboldt
 * Angie.H Moon
+* Ben Mares
 * Camen Piho
 * Camille Bruckmann
 * Chris Fonnesbeck
@@ -41,6 +42,7 @@ Those interested in contributing should instead refer to one of our contributing
 * Meenal Jhajharia
 * Moritz Freidank
 * Nitish Pasricha
+* Noa Kallioinen
 * Rishabh Sanjay
 * Rob Zinkov
 * Rosheen Naeem

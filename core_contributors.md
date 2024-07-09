@@ -115,11 +115,11 @@ Ravin Kumar
 
 ::::{grid-item-card}
 :class-item: p-2
-:img-top: https://avatars.githubusercontent.com/u/60523020
+:img-top: https://avatars.githubusercontent.com/u/1075403
 
 Andy Maloney
 
-[{fab}`github`](https://github.com/ndmlny-qs)
+[{fab}`github`](https://github.com/amaloney)
 ::::
 
 ::::{grid-item-card}

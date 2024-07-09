@@ -124,5 +124,4 @@ The current RV Council members are:
 * Seth Axen (@sethaxen)
 * Colin Carroll (@ColCarroll)
 * Ari Hartikainen (@ahartikainen)
-* Ravin Kumar (@canyon289)
 * Osvaldo Martin (@aloctavodia)
