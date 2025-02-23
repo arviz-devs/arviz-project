@@ -45,6 +45,7 @@ Those interested in contributing should instead refer to one of our contributing
 * Noa Kallioinen
 * Rishabh Sanjay
 * Rob Zinkov
+* Rohan Babbar
 * Rosheen Naeem
 * Sandra Meneses
 * Sarina Chen
