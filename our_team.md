@@ -35,6 +35,7 @@ Those interested in contributing should instead refer to one of our contributing
 * Gayathri Krishnaswamy
 * Jacki Buros
 * Jonathan Lindbloom
+* Jordan Deklerk 
 * Junpeng Lao
 * Karin Knudson
 * Maxime Kochurov
