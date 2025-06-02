@@ -17,7 +17,7 @@ For more information about our governance approach, read our {ref}`governance`.
 
 ## Our libraries
 
-::::{grid} 2 2 2 2
+::::{grid} 1 2 2 2
 :gutter: 3
 
 :::{grid-item-card}
@@ -80,3 +80,17 @@ roadmap
 governance/index
 elections/README
 :::
+
+:::{toctree}
+:caption: External links
+:hidden:
+
+ArviZ Python library <https://python.arviz.org/>
+ArviZ Julia library <https://julia.arviz.org/>
+Mastodon <https://bayes.club/@ArviZ>
+GitHub org <https://github.com/arviz-devs>
+:::
+
+% Include hidden link with rel="me" for mastodon verification
+<a class="reference external" rel="me" href="https://bayes.club/@ArviZ" style="display: none
+!important;">Mastodon</a>
