@@ -27,6 +27,7 @@ Those interested in contributing should instead refer to one of our contributing
 * Camen Piho
 * Camille Bruckmann
 * Chris Fonnesbeck
+* Christine P. Chai
 * Corrie Bartelheimer
 * Demetri Pananos
 * Eric Ma

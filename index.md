@@ -17,8 +17,8 @@ For more information about our governance approach, read our {ref}`governance`.
 
 ## Our libraries
 
-::::{grid} 1 1 2 2
-:gutter: 3 3 4 5
+::::{grid} 1 2 2 2
+:gutter: 3
 
 :::{grid-item-card}
 :link: https://julia.arviz.org
@@ -44,7 +44,16 @@ ArviZ.py
 +++
 xarray-einstats
 :::
+:::{grid-item-card}
+:link: https://preliz.readthedocs.io
+:class-card: sd-text-center
+
+<img class="iconify-inline arviz-logo-small" src="https://raw.githubusercontent.com/arviz-devs/preliz/main/docs/logos/PreliZ_fav.png" style="width:35%">
++++
+PreliZ
+:::
 ::::
+
 
 ## Sponsors and institutional partners
 
@@ -71,3 +80,17 @@ roadmap
 governance/index
 elections/README
 :::
+
+:::{toctree}
+:caption: External links
+:hidden:
+
+ArviZ Python library <https://python.arviz.org/>
+ArviZ Julia library <https://julia.arviz.org/>
+Mastodon <https://bayes.club/@ArviZ>
+GitHub org <https://github.com/arviz-devs>
+:::
+
+% Include hidden link with rel="me" for mastodon verification
+<a class="reference external" rel="me" href="https://bayes.club/@ArviZ" style="display: none
+!important;">Mastodon</a>
