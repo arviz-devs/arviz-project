@@ -7,8 +7,8 @@
 * 7 Person steering council ({ref}`council_description`)
 
 Anyone working with ArviZ has the responsibility to personally uphold
-the Code of Conduct. Core Contributors have the additional responsibility
-of _enforcing_ the Code of Conduct to maintain a safe community.
+the {doc}`Code of Conduct <CODE_OF_CONDUCT>`. Core Contributors have the additional responsibility
+of _enforcing_ the {doc}`Code of Conduct <CODE_OF_CONDUCT>` to maintain a safe community.
 
 {#team_member_definition}
 The terms "ArviZ team" and "ArviZ team members" are used to refer everyone
