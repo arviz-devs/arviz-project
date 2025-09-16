@@ -78,7 +78,7 @@ roadmap
 :hidden:
 
 governance/index
-CODE_OF_CONDUCT
+Code of Conduct <CODE_OF_CONDUCT>
 elections/README
 :::
 
