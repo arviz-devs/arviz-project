@@ -66,6 +66,16 @@ Colin Carroll
 
 ::::{grid-item-card}
 :class-item: p-2
+:img-top: https://avatars.githubusercontent.com/u/111652310
+
+Jordan Deklerk
+
+[{fab}`github`](https://github.com/jordandeklerk)
+[{fas}`globe`](https://www.jordan-deklerk.com)
+::::
+
+::::{grid-item-card}
+:class-item: p-2
 :img-top: https://avatars.githubusercontent.com/u/20489158
 
 Piyush Gautam
@@ -120,6 +130,16 @@ Ravin Kumar
 Andy Maloney
 
 [{fab}`github`](https://github.com/amaloney)
+::::
+
+::::{grid-item-card}
+:class-item: p-2
+:img-top: https://avatars.githubusercontent.com/u/15216687
+
+Ben Mares
+
+[{fab}`github`](https://github.com/maresb)
+[{fas}`globe`](https://tensorial.com/)
 ::::
 
 ::::{grid-item-card}
