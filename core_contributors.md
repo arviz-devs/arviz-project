@@ -71,6 +71,7 @@ Colin Carroll
 Jordan Deklerk
 
 [{fab}`github`](https://github.com/jordandeklerk)
+[{fas}`globe`](https://www.jordan-deklerk.com)
 ::::
 
 ::::{grid-item-card}
