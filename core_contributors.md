@@ -66,7 +66,7 @@ Colin Carroll
 
 ::::{grid-item-card}
 :class-item: p-2
-:img-top: https://avatars.githubusercontent.com/u/1075403
+:img-top: https://avatars.githubusercontent.com/u/111652310
 
 Jordan Deklerk
 
@@ -133,11 +133,12 @@ Andy Maloney
 
 ::::{grid-item-card}
 :class-item: p-2
-:img-top: https://avatars.githubusercontent.com/u/1075403
+:img-top: https://avatars.githubusercontent.com/u/15216687
 
 Ben Mares
 
 [{fab}`github`](https://github.com/maresb)
+[{fas}`globe`](https://tensorial.com/)
 ::::
 
 ::::{grid-item-card}
