@@ -1,0 +1,194 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, ArviZ contributors
+# This file is distributed under the same license as the ArviZ project
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ArviZ project \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-22 23:47+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ca\n"
+"Language-Team: ca <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../elections/ArviZ_2024.md:1 ff8c192bf0ae40d89869835232bf5db0
+msgid "Election 2024"
+msgstr ""
+
+#: ../../elections/ArviZ_2024.md:2 a91627536c3445f2ae184c2a16b2bae4
+msgid "Summary of process"
+msgstr ""
+
+#: ../../elections/ArviZ_2024.md:3 6b6d0a30dd5a4c49b453a61045370f59
+msgid ""
+"This is the 2nd election to happen for the ArviZ project. The election "
+"process should now be stabilized and described at "
+"{ref}`council_selection`."
+msgstr ""
+
+#: ../../elections/ArviZ_2024.md:7 ee330382d8f34933830ebf49854f633e
+msgid "Process details"
+msgstr ""
+
+#: ../../elections/ArviZ_2024.md:8 75527cdad59a4681b811e8a551c72234
+msgid "Nominations for the RV Council (April 12th)"
+msgstr ""
+
+#: ../../elections/ArviZ_2024.md:9 d44fdb0887ad414188273efa48aaf678
+msgid ""
+"A GitHub issue within the [arviz-project](https://github.com/arviz-devs"
+"/arviz-project) repository has been created for nominations to take "
+"place: https://github.com/arviz-devs/arviz-project/issues/49"
+msgstr ""
+
+#: ../../elections/ArviZ_2024.md:12 81ba3e25d329427399a6ded8b1ce6b47
+msgid ""
+"The nomination period closed on April 27th with 6 people having been "
+"nominated."
+msgstr ""
+
+#: ../../elections/ArviZ_2024.md:14 1af431b47a33432bbff56045893b0c2f
+msgid "First round election (April 27th)"
+msgstr ""
+
+#: ../../elections/ArviZ_2024.md:15 ce6b5cb9449e446aa6d92a270f411307
+msgid ""
+"The {ref}`first round of the election <initial_voting_election>` started "
+"after that, with Claudia Alvarado from NumFOCUS acting as election "
+"moderator. Voting forms were sent to everyone elegible to vote and it was"
+" open until May 9th."
+msgstr ""
+
+#: ../../elections/ArviZ_2024.md:19 73f8b87e123544a9a469c2220d5bcc04
+msgid "Election result (May 9th)"
+msgstr ""
+
+#: ../../elections/ArviZ_2024.md:20 8c5b784e53f24266a12772745567828b
+msgid ""
+"The council elected from the first round election fulfilled all "
+"requirements established in the ArviZ governance. Consequently, no "
+"{ref}`tie breaking election <run_off_election>` was needed."
+msgstr ""
+
+#: ../../elections/ArviZ_2024.md:23 039ce77a8a43460ca2eee3411e6e76e5
+msgid "Results from the election were the following:"
+msgstr ""
+
+#: ../../elections/ArviZ_2024.md 16a8401baaa243dcaef58cd1dc277239
+msgid "Vote"
+msgstr ""
+
+#: ../../elections/ArviZ_2024.md 81427ef7579b4cb788d738993e4a795a
+msgid "Oriol Abril Pla"
+msgstr ""
+
+#: ../../elections/ArviZ_2024.md 9b2c2eb7a64a4aef988e162f0ee14856
+msgid "Ari Hartikainen"
+msgstr ""
+
+#: ../../elections/ArviZ_2024.md b248f4245c7245ee8b63c96083221c41
+msgid "Seth Axen"
+msgstr ""
+
+#: ../../elections/ArviZ_2024.md fb8cf42ad5424dd09c3fec0185ae5eb5
+msgid "Colin Carroll"
+msgstr ""
+
+#: ../../elections/ArviZ_2024.md 4ac2147890f442efb5bad5d91ad2ee22
+msgid "Andy Maloney"
+msgstr ""
+
+#: ../../elections/ArviZ_2024.md 97dfa95f6c0f4356a4be5519c1ec924b
+msgid "Osvaldo Martin"
+msgstr ""
+
+#: ../../elections/ArviZ_2024.md 869681a7daf443cc94a86625840c63b4
+msgid "Yes"
+msgstr ""
+
+#: ../../elections/ArviZ_2024.md 70d05d80489c41cbaa19cdac59663bd4
+#: dcbf875f3cfe49c09449bb22aab00849 e6b8f7f4cd714e088bae708dbe568715
+msgid "14"
+msgstr ""
+
+#: ../../elections/ArviZ_2024.md e835835dc04840f5996e489096a99609
+msgid "12"
+msgstr ""
+
+#: ../../elections/ArviZ_2024.md bb99fc76672948d6bcf97491a1aaedad
+msgid "15"
+msgstr ""
+
+#: ../../elections/ArviZ_2024.md 441d842b6a7844eaa11781f715ed2e80
+#: c69634ecaa154c7baecf4153be34127b
+msgid "8"
+msgstr ""
+
+#: ../../elections/ArviZ_2024.md bacf1a03cfa24605b9ba021d321ba915
+msgid "Neutral"
+msgstr ""
+
+#: ../../elections/ArviZ_2024.md 4d1191abd67b4dc0b97fd5864edae0a1
+#: 78eb9c1f1f1243778161214d3413932b fb52100e1c634506a9869353f735b3ca
+msgid "2"
+msgstr ""
+
+#: ../../elections/ArviZ_2024.md 1dbc94140a594542a15508a493456b86
+msgid "4"
+msgstr ""
+
+#: ../../elections/ArviZ_2024.md ad119361c40e40c6b1a356262a1deb07
+msgid "1"
+msgstr ""
+
+#: ../../elections/ArviZ_2024.md a0fa1618115e4b049b25d857b72ebacc
+msgid "No"
+msgstr ""
+
+#: ../../elections/ArviZ_2024.md 3c4a1c0838654906a6361d24f748a0b2
+#: 6f39bbc6365447168bea2c7d2015f720 a4c74b007b8546068d44a202f89c1585
+#: c643b92ee7594901b8a8f33b190a2d25 d149692f5e034670873e362e3d4ffc88
+#: e6ff82b4ba33475bbc2f032fe4d3ab47
+msgid "0"
+msgstr ""
+
+#: ../../elections/ArviZ_2024.md:31 459417db158d4426a4ee82e51d4210e0
+msgid "with a participation of 16 people out of the 46 who could vote."
+msgstr ""
+
+#: ../../elections/ArviZ_2024.md:33 9419fe12e34d4a87b259691483af8bb9
+msgid ""
+"Following the selection criteria outlined in {ref}`the governance page "
+"<initial_voting_election>`, from these votes a 5 people council is "
+"elected, comprised of:"
+msgstr ""
+
+#: ../../elections/ArviZ_2024.md:36 14e4e67e054a4827af13ae9ddff351d9
+msgid "@OriolAbril"
+msgstr ""
+
+#: ../../elections/ArviZ_2024.md:37 24ecbf7669a74ada815a013fcea465d1
+msgid "@aloctavodia"
+msgstr ""
+
+#: ../../elections/ArviZ_2024.md:38 2aee94dc8cc1476c8952118ae5e7dd75
+msgid "@ColCarroll"
+msgstr ""
+
+#: ../../elections/ArviZ_2024.md:39 04e7874373a44613836face1e783b772
+msgid "@ahartikainen"
+msgstr ""
+
+#: ../../elections/ArviZ_2024.md:40 c1b750a05c0c494c9fc49efb2601f6f3
+msgid "@sethaxen"
+msgstr ""
+

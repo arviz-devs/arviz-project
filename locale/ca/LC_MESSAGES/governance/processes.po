@@ -1,429 +1,577 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2022, ArviZ contributors
-# This file is distributed under the same license as the ArviZ project package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+# This file is distributed under the same license as the ArviZ project
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: ArviZ project\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-19 03:10+0100\n"
+"POT-Creation-Date: 2025-10-22 23:47+0200\n"
 "PO-Revision-Date: 2022-04-10 07:09+0000\n"
-"Language-Team: Catalan (https://app.transifex.com/arviz/teams/135191/ca/)\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ca\n"
+"Language-Team: Catalan (https://app.transifex.com/arviz/teams/135191/ca/)"
+"\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.16.0\n"
 
-#: ../../governance/processes.md:2 2b1fbc6291184e6bae69c6d50105d2de
+#: ../../governance/processes.md:2 b2339ab5b276454683fad31566e293fd
 msgid "Election and decision making processes"
 msgstr ""
 
-#: ../../governance/processes.md:5 ef634de4b6c6450088bbf5d5efeb0746
+#: ../../governance/processes.md:5 36767568dd3f4a9ab12e56c515ad4c49
 msgid "New Contributor Nominations and Confirmation Process"
 msgstr ""
 
-#: ../../governance/processes.md:6 34e0c61e32ce4c2cab204098784c2c81
+#: ../../governance/processes.md:6 ed9d4c794a2841bd9eae750821bea1fa
 msgid ""
 "Current Contributors can nominate candidates to become Contributors by "
-"requesting so in a GitHub issue, constraints on eligibility are detailed in "
-"the role descriptions. If nominated candidates accept their nomination "
-"(explicit comment approving nomination on the issue or \"thumbs-up\" emoji "
-"on the same issue), then they can be considered by the Council: on the first"
-" of the month following a nomination, the Council will vote on each nominee "
-"using {ref}`this process <council_voting>`."
+"requesting so in a GitHub issue at [arviz-project "
+"repository](https://github.com/arviz-devs/arviz-"
+"project/issues?q=is%3Aissue+label%3Agovernance), constraints on "
+"eligibility are detailed in the role descriptions. The log of past "
+"nominations and their results is kept available in that repository."
 msgstr ""
 
-#: ../../governance/processes.md:14 367eb79aa0564061b7a0f1ec519a2d1f
+#: ../../governance/processes.md:11 7ef9e045c10b43ccaefca1eb197a91ad
 msgid ""
-"In the case of recurring contributors, the nomination and voting process can"
-" be replaced by a somewhat similar selection process. Thus, for example, "
-"GSoC interns are considered recurrent contributors once accepted; similarly,"
-" contractors hired thanks to grants like CZI EOSS or GSoD ones are also "
-"considered recurrent contributors once hired."
+"If nominated, candidates accept their nomination (explicit comment "
+"approving nomination on the issue or \"thumbs-up\" emoji on the same "
+"issue), then they can be considered by the Council: on the first of the "
+"month following a nomination, the Council will vote on each nominee using"
+" {ref}`this process <council_voting>`."
 msgstr ""
 
-#: ../../governance/processes.md:21 dc870b06999849f0b74aa85314844407
+#: ../../governance/processes.md:17 f41d8a08dd10476887294789a705c878
 msgid ""
-"Voting will be private with results published on the issue ticket. In the "
-"case of a rejection, results must include the reasons behind the decision "
-"(e.g. the time since starting to contribute is deemed too short for now). "
-"The candidate would then have to wait 3 months to be considered again."
+"In the case of recurring contributors, the nomination and voting process "
+"can be replaced by a somewhat similar selection process. Thus, for "
+"example, GSoC interns are considered recurrent contributors once "
+"accepted; similarly, contractors hired thanks to grants like CZI EOSS or "
+"GSoD ones are also considered recurrent contributors once hired."
 msgstr ""
 
-#: ../../governance/processes.md:27 1297a9b699574be19a9c5c14bbbdb091
+#: ../../governance/processes.md:24 963f03148d6f4d3f82fc5c8630c922bf
+msgid ""
+"Voting will be private with results published on the issue ticket. In the"
+" case of a rejection, results must include the reasons behind the "
+"decision (e.g. the time since starting to contribute is deemed too short "
+"for now). The candidate would then have to wait 3 months to be considered"
+" again."
+msgstr ""
+
+#: ../../governance/processes.md:30 c34b56aa77a4466c97487025bc4dc5f1
 msgid "Council Decision Making Process"
 msgstr ""
 
-#: ../../governance/processes.md:28 05445393782e40e5a83fe426f07a7dff
+#: ../../governance/processes.md:31 5079bf287b0243c293cf7854c62c8d6c
 msgid ""
 "By and large we expect the decisions in ArviZ to be made _ad hoc_ and "
-"require little formal coordination and with the community at large. However,"
-" for controversial proposals and new Core Contributors the council may need "
-"to intervene to make the final decision in a group vote."
+"require little formal coordination and with the community at large. "
+"However, for controversial proposals and new Core Contributors the "
+"council may need to intervene to make the final decision in a group vote."
 msgstr ""
 
-#: ../../governance/processes.md:34 5cb107d4b55f45189aa7072891213515
+#: ../../governance/processes.md:37 d5e17289c3d343d28d5a1b5010db5895
 msgid "Call for a vote"
 msgstr ""
 
-#: ../../governance/processes.md:35 f300f7b8811c423f8ceffaa2ff879bb2
+#: ../../governance/processes.md:38 22713dd3066248e5968c73628cb57a93
 msgid ""
-"Core Contributors can call for a vote to resolve a target issue they feel "
-"has been stale for too long and for which informal consensus appears "
+"Core Contributors can call for a vote to resolve a target issue they feel"
+" has been stale for too long and for which informal consensus appears "
 "unlikely. For a vote to be called, the target issue must be at least 2 "
 "months old."
 msgstr ""
 
-#: ../../governance/processes.md:39 deee2392f3654e92958a8a099209d6e8
+#: ../../governance/processes.md:42 3f59a7a84b734810a45a9e95c5494c99
 msgid ""
 "To do so, they have to open a proposal issue ticket labeled \"Council "
-"Vote\". The proposal issue should contain a link to the target issue and a "
-"proposal on how to resolve it. Proposals should include a statement making "
-"clear what it means to \"agree\" or to \"disagree\"."
+"Vote\". The proposal issue should contain a link to the target issue and "
+"a proposal on how to resolve it. Proposals should include a statement "
+"making clear what it means to \"agree\" or to \"disagree\"."
 msgstr ""
 
-#: ../../governance/processes.md:44 3ca7e1dbaa7c4883964310ef7cc8b6de
+#: ../../governance/processes.md:47 d320ee0801694f308bda7faec4439e39
 msgid ""
-"Before voting starts, at least 3 days will be left for Core Contributors to "
-"raise doubts about the proposal's _phrasing_, no extra discussion will take "
-"place in the proposal issue. Proposal issues should be locked from creation "
-"to prevent attracting discussion from people not familiar with the decision "
-"process."
+"Before voting starts, at least 3 days will be left for Core Contributors "
+"to raise doubts about the proposal's _phrasing_, no extra discussion will"
+" take place in the proposal issue. Proposal issues should be locked from "
+"creation to prevent attracting discussion from people not familiar with "
+"the decision process."
 msgstr ""
 
-#: ../../governance/processes.md:51 8596a7eef1c440498a2165549841381e
+#: ../../governance/processes.md:54 d5d89f1956ac47598fcb14cfa3dcc6ce
 msgid "Voting process"
 msgstr ""
 
-#: ../../governance/processes.md:53 8c93d6bb16594d4eac30733f255e41ae
+#: ../../governance/processes.md:56 3cff6c670b9d41e2bf7cea3edf6f28c4
 msgid "Each Council Member will vote either \"Yes\", \"No\", or \"Neutral\"."
 msgstr ""
 
-#: ../../governance/processes.md:54 75cd2aa526f64df7affdfcc76498fc55
+#: ../../governance/processes.md:57 34412a5ad4e14c0bb365cea3500c072e
 msgid ""
-"It is recommended that all Council Members expose their reasons when voting."
-" \"No\" votes, however, _must_ list the reasons for disagreement. Any \"No\""
-" vote with no reason listed will be considered a \"Neutral\" vote."
+"It is recommended that all Council Members expose their reasons when "
+"voting. \"No\" votes, however, _must_ list the reasons for disagreement. "
+"Any \"No\" vote with no reason listed will be considered a \"Neutral\" "
+"vote."
 msgstr ""
 
-#: ../../governance/processes.md:57 1908aa2a825a48d7978e0ea3bcba397c
+#: ../../governance/processes.md:60 48138541e2e340f2846cb00ad32f1dbd
 msgid "An absence of vote is considered as \"Neutral\"."
 msgstr ""
 
-#: ../../governance/processes.md:58 6a0ccf89547a45ed89c64dcb8bbaa879
+#: ../../governance/processes.md:61 6269b5c8f72b4464861fb902e7754aaa
 msgid "Voting will remain open for at least 3 days."
 msgstr ""
 
-#: ../../governance/processes.md:59 b57ae05b13cb4200aae7b7deb54bf023
+#: ../../governance/processes.md:62 215e47d30a3143d490e26cc5b2e584c1
+#, python-format
 msgid ""
-"For the proposal to pass, at least 60% of the council must vote \"Yes\", and"
-" no more than 20% can vote \"No\"."
+"For the proposal to pass, at least 60% of the council must vote \"Yes\", "
+"and no more than 20% can vote \"No\"."
 msgstr ""
 
-#: ../../governance/processes.md:62 d85ff28a36e244c4a5926fc7123d1ce9
+#: ../../governance/processes.md:65 fcd404deaed9429a95cc656ec2376e9d
 msgid ""
-"For decisions about the project the Council will perform it directly on the "
-"proposal issue. For decisions about people, such as electing or ejecting "
-"Core Contributors, the Council will vote privately. However the decision "
-"will be posted publicly in an issue ticket."
+"For decisions about the project the Council will perform it directly on "
+"the proposal issue. For decisions about people, such as electing or "
+"ejecting Core Contributors, the Council will vote privately. However the "
+"decision will be posted publicly in an issue ticket."
 msgstr ""
 
-#: ../../governance/processes.md:67 8253fc41f7bd4bc0b237a95d6dea1373
+#: ../../governance/processes.md:70 ab19f1d16a394379b6a76e49236e4b14
 msgid "Private communications of the Council"
 msgstr ""
 
-#: ../../governance/processes.md:69 5e2841b8089843c08687ded9f9b9b44b
+#: ../../governance/processes.md:72 709a144d872f4142b27b9dc11708eaec
 msgid ""
-"Unless specifically required, all Council discussions and activities will be"
-" between public (GitHub, Gitter), and partially public channels (Slack) and "
-"done in collaboration and discussion with the Core Contributors and the "
-"Community. The Council will have a private channel that will be used "
-"sparingly and only when a specific matter requires privacy. When private "
-"communications and decisions are needed, the Council will do its best to "
-"summarize those to the Community after eliding personal/private/sensitive "
-"information that should not be posted to the public internet."
+"Unless specifically required, all Council discussions and activities will"
+" be between public (GitHub, Gitter), and partially public channels "
+"(Slack) and done in collaboration and discussion with the rest of the "
+"ArviZ team and the Community. The Council will have a private channel "
+"that will be used sparingly and only when a specific matter requires "
+"privacy. When private communications and decisions are needed, the "
+"Council will do its best to summarize those to the Community after "
+"eliding personal/private/sensitive information that should not be posted "
+"to the public internet."
 msgstr ""
 
-#: ../../governance/processes.md:78 03e7752023ad462dbec2c202352feca5
+#: ../../governance/processes.md:81 c015bc3d5f0640e4b1de5bf9a87d78d9
 msgid "Conflict of interest"
 msgstr ""
 
-#: ../../governance/processes.md:80 71a667accd0f4f94a1b6eebfc45fa557
+#: ../../governance/processes.md:83 ab95e3754ea2412caf43d5be11f10a2b
 msgid ""
 "It is expected that Council Members will be employed at a wide range of "
-"companies, universities and non-profit organizations. Because of this, it is"
-" possible that Members will have conflict of interests. Such conflict of "
-"interests include, but are not limited to:"
+"companies, universities and non-profit organizations. Because of this, it"
+" is possible that Members will have conflict of interests. Such conflict "
+"of interests include, but are not limited to:"
 msgstr ""
 
-#: ../../governance/processes.md:85 d0820d6c890c45e8b2af8b7b877006d4
+#: ../../governance/processes.md:88 188f01a51be745989ae4310ec42b9c1e
 msgid ""
-"Financial interests, such as investments, employment or contracting work, "
-"outside of The Project that may influence their work on The Project."
+"Financial interests, such as investments, employment or contracting work,"
+" outside of The Project that may influence their work on The Project."
 msgstr ""
 
-#: ../../governance/processes.md:87 2d05c09c247a44a39df4f2a94b9c1d55
+#: ../../governance/processes.md:90 65d11bb35db642ca86f5bec1274b1106
 msgid ""
-"Access to proprietary information of their employer that could potentially "
-"leak into their work with the Project."
+"Access to proprietary information of their employer that could "
+"potentially leak into their work with the Project."
 msgstr ""
 
-#: ../../governance/processes.md:90 e4de94b87f3f43f5963483b3a83ed8c9
+#: ../../governance/processes.md:93 364d3becdc87424fa38d6dce5e0a7293
 msgid ""
 "All members of the Council shall disclose to the rest of the Council any "
-"conflict of interest they may have. Members with a conflict of interest in a"
-" particular issue may participate in Council discussions on that issue, but "
-"must recuse themselves from voting on the issue."
+"conflict of interest they may have. Members with a conflict of interest "
+"in a particular issue may participate in Council discussions on that "
+"issue, but must recuse themselves from voting on the issue."
 msgstr ""
 
-#: ../../governance/processes.md:96 d31d19778b4046189784ef81bf04b745
+#: ../../governance/processes.md:99 e809cfca8d8b450180071a1ed956c525
 msgid "Council Selection Process"
 msgstr ""
 
-#: ../../governance/processes.md:98 40c16e7c8a4c469eb9772f83f0ead2a3
+#: ../../governance/processes.md:101 0ae11067ade44921a76cef62d478b37f
 msgid "Eligibility"
 msgstr ""
 
-#: ../../governance/processes.md:99 17ccdebcde5740ba91858dd3f6b8e7c1
+#: ../../governance/processes.md:102 15cd5f96c9d04b9ebbb6bd583b79af2c
 msgid "Must be core contributor for at least one year"
 msgstr ""
 
-#: ../../governance/processes.md:101 4aa68b08a290468fa70c8de81f3ac919
+#: ../../governance/processes.md:104 df6d08a4f3a74289b384acf323175865
 msgid "Nominations"
 msgstr ""
 
-#: ../../governance/processes.md:102 65178acc433242e8a93b3022b64b931f
+#: ../../governance/processes.md:105 21f00ad4c99945c49f68278641b7b6bf
 msgid ""
-"Nominations are taken over a public GitHub issue ticket over the course of 2"
-" weeks."
+"Nominations are taken over a public GitHub issue ticket over the course "
+"of 2 weeks."
 msgstr ""
 
-#: ../../governance/processes.md:103 a5a4f366ee574121882a42641f800c5b
+#: ../../governance/processes.md:106 cb4371686f484468af40cf36976ae4a7
 msgid "Only Core Contributors may nominate folks"
 msgstr ""
 
-#: ../../governance/processes.md:104 830327349cf74850b36da072d6797b1b
+#: ../../governance/processes.md:107 f19f4ef075114b4eb22ccdf5b7d414f9
 msgid "Self Nominations are allowed"
 msgstr ""
 
-#: ../../governance/processes.md:105 dd210eaaddff45189e2f47e8f842ca64
+#: ../../governance/processes.md:108 6079748bc0ed4f7d8dcd96950bbbcc18
 msgid ""
-"At the conclusion of the 2 weeks, the list of nominations is posted on the "
-"ticket and this ticket is closed."
+"At the conclusion of the 2 weeks, the list of nominations is posted on "
+"the ticket and this ticket is closed."
 msgstr ""
 
-#: ../../governance/processes.md:108 79f3ae709e6147a2a7d168787927e5a9
+#: ../../governance/processes.md:111 d0719ae6ea0f429eacadaba5ea6f4c20
 msgid "Election Process"
 msgstr ""
 
-#: ../../governance/processes.md:111 7005b4b130c94bdaa2ad41e811f35ed2
+#: ../../governance/processes.md:114 e0cf007d0a03487ca2a225daef427a12
 msgid ""
 "Voting occurs over a period of at least 1 week, at the conclusion of the "
 "nominations. Voting is blind and mediated by either an application or a "
-"third party like NumFOCUS. Each voter can vote zero or more times, once per "
-"each candidate. As this is not about ranking but about capabilities, voters "
-"vote on a yes/neutral/no basis per candidate -- “would I trust this person "
-"to lead ArviZ?”."
+"third party like NumFOCUS. Each voter can vote zero or more times, once "
+"per each candidate. As this is not about ranking but about capabilities, "
+"voters vote on a yes/neutral/no basis per candidate -- “would I trust "
+"this person to lead ArviZ?”."
 msgstr ""
 
-#: ../../governance/processes.md:116 b446c99ce19e49d6a5f5fa4493e09f9d
+#: ../../governance/processes.md:119 ff04cd2cd9844b56b8095b4a9fbb42f9
 msgid ""
-"Candidates are evaluated independently, each candidate having 60% or more of"
-" yes votes _and_ less or equal than 20% of no votes is chosen. If the number"
-" of chosen candidates is >=4 and <=10 all candidates are confirmed and the "
-"election process stops here."
+"All {ref}`ArviZ team members <team_member_definition>` can vote in an "
+"election."
 msgstr ""
 
-#: ../../governance/processes.md:120 620435831d0044ea82dee9b6bd5ee6b6
+#: ../../governance/processes.md:120 9da1caf4d6554cf1afcbaf21cf25adf0
+#, python-format
 msgid ""
-"In the event that either not enough or too many candidates were confirmed, "
-"candidates are ranked by interpreting yes=+1, neutral=0 and no=-1. If too "
-"many candidates were confirmed, the 10 candidates with higher rank are "
-"elected. If not enough candidates were chosen, the 4 candidates with higher "
-"rank are elected."
+"Candidates are evaluated independently, each candidate having 60% or more"
+" of yes votes _and_ less or equal than 20% of no votes is chosen. If the "
+"council resulting from all accepted candidates matches all conditions "
+"described in {ref}`this section <council_description>` all candidates are"
+" confirmed and the election process stops here."
 msgstr ""
 
-#: ../../governance/processes.md:127 62d535cb7eaa42cba4482f76b0b16b2a
+#: ../../governance/processes.md:125 1ffbf932fa524cde81c572c01df861c5
+msgid ""
+"In the event that either not enough or too many candidates were "
+"confirmed, candidates are ranked by interpreting yes=+1, neutral=0 and "
+"no=-1. If too many candidates were confirmed, the 7 candidates with "
+"higher rank are elected. If not enough candidates were chosen, the 4 "
+"candidates with higher rank are elected. If affiliation conditions were "
+"not met, multiple potential councils will be constructed with candidates "
+"whose rank is `>i` for all possible values of `i`. If any of those "
+"potential councils matches the conditions, the one with smaller `i` will "
+"be chosen."
+msgstr ""
+
+#: ../../governance/processes.md:134 ad259a9168dc4710a2bc77d09d5c1d99
+msgid "Example"
+msgstr ""
+
+#: ../../governance/processes.md:137 4a8f8b33a6d941c4a3f08419082a3968
+msgid ""
+"Say there are 9 accepted candidates out of a team of 12 people. Their "
+"affiliations are `A, B, B, C, A, A, B, D, E`. There are more than 7 "
+"accepted candidates, so the first step would be to attempt selecting the "
+"7 with higher rank. Say they all have 8 or more \"Yes\" votes, and 2 or "
+"less \"No\" votes, consequently their ranks will go between 12 and 6. "
+"Their ranks are respectively `12, 12, 12, 10, 10, 9, 8, 7, 6`."
+msgstr ""
+
+#: ../../governance/processes.md:144 5430a6071d6f497dbbd9a52b8c870e90
+msgid ""
+"The council integrated by the 7 candidates with higher rank would have 3 "
+"people reporting to company A and 3 more reporting to B, so it doesn't "
+"match all conditions either. We therefore evaluate 3 alternative "
+"potential councils:"
+msgstr ""
+
+#: ../../governance/processes.md:148 43d7da801ccc4925b98030ceda49d971
+msgid ""
+"rank 9 or higher: 6 members, still 3 people report to the same company, "
+"now only to company A but doesn't match the conditions."
+msgstr ""
+
+#: ../../governance/processes.md:150 f7c666352c0d4f73b704ae81c9a73ab3
+msgid "rank 10 or higher: All conditions are met."
+msgstr ""
+
+#: ../../governance/processes.md:151 c4432a4a9cdd48589fb7f8de1fd0bf76
+msgid ""
+"rank 12 or higher: Only 3 candidates left, but the council must be 4 "
+"people at least."
+msgstr ""
+
+#: ../../governance/processes.md:153 f5adf3524e0e466f8118d8ce0c520e9a
+msgid ""
+"We would then end up with a 5 people council, with members with rank 10 "
+"or higher."
+msgstr ""
+
+#: ../../governance/processes.md:155 201ec1c13172476ca4359c6bebdfb6b3
+msgid ""
+"Alternatively, if the ranks had been `12, 12, 12, 10, 9, 9, 8, 7, 6`, we "
+"would still choose the council of candidates with rank 10 or higher, as "
+"otherwise not all conditions are met, but in that case it would be a 4 "
+"people council"
+msgstr ""
+
+#: ../../governance/processes.md:160 8325f45acfd44f89969b694acbfe720d
+msgid ""
+"If the ranks had been `12, 12, 12, 10, 10, 10, 8, 7, 6`, then the process"
+" would continue, with the {ref}`run off election <run_off_election>` "
+"between the 3 tied candidates with rank 10."
+msgstr ""
+
+#: ../../governance/processes.md:166 758ef8a19b0a4f6f91e9ffc5abf8d3be
 msgid ""
 "In the event of a tie there will be a runoff election for the tied "
 "candidates. To avoid further ties and discriminate more among the tied "
 "candidates, this vote will be held by [Majority "
-"Judgment](https://en.wikipedia.org/wiki/Majority_judgment) (MJ): for each "
-"candidate, voters judge their suitability for office as either "
+"Judgment](https://en.wikipedia.org/wiki/Majority_judgment) (MJ): for each"
+" candidate, voters judge their suitability for office as either "
 "\"Excellent\", \"Very Good\", \"Good\", \"Acceptable\", \"Poor\", or "
-"\"Reject\". Multiple candidates may be given the same grade by a voter. The "
-"candidate with the highest median grade is the winner."
+"\"Reject\". Multiple candidates may be given the same grade by a voter. "
+"The candidate with the highest median grade is the winner."
 msgstr ""
 
-#: ../../governance/processes.md:133 97c286e3782041719b537aada73f16d0
+#: ../../governance/processes.md:172 4b9b510349ff4767869c1bf762c5ec37
 msgid ""
-"If more than one candidate has the same highest median-grade, the MJ winner "
-"is discovered by removing (one-by-one) any grades equal in value to the "
-"shared median grade from each tied candidate's total. This is repeated until"
-" only one of the previously tied candidates is currently found to have the "
-"highest median-grade."
+"If more than one candidate has the same highest median-grade, the MJ "
+"winner is discovered by removing (one-by-one) any grades equal in value "
+"to the shared median grade from each tied candidate's total. This is "
+"repeated until only one of the previously tied candidates is currently "
+"found to have the highest median-grade."
 msgstr ""
 
-#: ../../governance/processes.md:137 cdb539a2a30e40da83d135653150855c
+#: ../../governance/processes.md:176 2cf2dca5b4154e32b917fcb009c653b5
 msgid ""
-"If ties are still present after this second round, the winner will be chosen"
-" at random. Each person tied will pick an integer number in the `[1, 100]` "
-"interval and send it privately to the third party mediating the election. "
-"After receiving all the numbers, said third party will draw a random integer"
-" from random.org. The person with the closest circular distance, defined as "
-"`min(|a-b|, 100-|a-b|)`, will be selected. This process will be repeated as "
-"many times as necessary as there may be ties resulting from candidates "
-"choosing the same number."
+"If ties are still present after this second round, the winner will be "
+"chosen at random. Each person tied will pick an integer number in the "
+"`[1, 100]` interval and send it privately to the third party mediating "
+"the election. After receiving all the numbers, said third party will draw"
+" a random integer from random.org. The person with the closest circular "
+"distance, defined as `min(|a-b|, 100-|a-b|)`, will be selected. This "
+"process will be repeated as many times as necessary as there may be ties "
+"resulting from candidates choosing the same number."
 msgstr ""
 
-#: ../../governance/processes.md:144 51e90b3b2e194fed988a7ace4fd2bfd1
+#: ../../governance/processes.md:183 821696bfc5814454924b6e205da9419f
 msgid ""
-"At the conclusion of voting, all the results will be posted. And at least 24"
-" hours will be left to challenge the election result in case there were "
-"suspicions of irregularities or the process had not been correctly carried "
-"out."
+"At the conclusion of voting, all the results will be posted. And at least"
+" 24 hours will be left to challenge the election result in case there "
+"were suspicions of irregularities or the process had not been correctly "
+"carried out."
 msgstr ""
 
-#: ../../governance/processes.md:149 a6038287775b447daae9e79dba417914
+#: ../../governance/processes.md:188 b5f3d1d719f944a9855c2dcc65238caf
 msgid "Vote of No Confidence"
 msgstr ""
 
-#: ../../governance/processes.md:150 be99c7bdb0ec47eaadb6e512f67a5d0c
+#: ../../governance/processes.md:189 ea5f28f731384deba3dddeefa44c7cb2
 msgid ""
-"In exceptional circumstances, council members as well as core contributors "
-"may remove a sitting council member via a vote of no confidence. Core "
-"contributors can also call for a vote to remove the entire council -- in "
-"which case, Council Members do not vote."
+"In exceptional circumstances, council members as well as core "
+"contributors may remove a sitting council member via a vote of no "
+"confidence. Core contributors can also call for a vote to remove the "
+"entire council -- in which case, Council Members do not vote."
 msgstr ""
 
-#: ../../governance/processes.md:151 e3d9ab2c0e644a88a3dc9c9b44c0c4ca
+#: ../../governance/processes.md:190 1bdce19a0d104c99b8f45c5267f39b6b
 msgid ""
 "A no-confidence vote is triggered when a core team member (i.e Council "
-"member or Core contributor) calls for one publicly on an appropriate project"
-" communication channel, and two other core team members second the proposal."
-" The initial call for a no-confidence vote must specify which type is "
-"intended -- whether it is targeting a single member or the council as a "
-"whole."
+"member or Core contributor) calls for one publicly on an appropriate "
+"project communication channel, and two other core team members second the"
+" proposal. The initial call for a no-confidence vote must specify which "
+"type is intended -- whether it is targeting a single member or the "
+"council as a whole."
 msgstr ""
 
-#: ../../governance/processes.md:152 25a256359c3a4d848dcd8e95c5fa39db
+#: ../../governance/processes.md:191 eb5eb3f2533b4ce6a24ca3792f92db22
 msgid "The vote lasts for two weeks, and the people taking part in it vary:"
 msgstr ""
 
-#: ../../governance/processes.md:153 e4494403116646d78e741ebcbcbcfe42
+#: ../../governance/processes.md:192 bbe9b64b8e834c4ab8fa63b1c4b6bead
 msgid ""
-"If this is a single-member vote called by Core contributors, both Council "
-"members and Core contributors vote, and the vote is deemed successful if at "
-"least two thirds of voters express a lack of confidence."
+"If this is a single-member vote called by Core contributors, both Council"
+" members and Core contributors vote, and the vote is deemed successful if"
+" at least two thirds of voters express a lack of confidence."
 msgstr ""
 
-#: ../../governance/processes.md:154 3e8887d2095d4569a4fe7e848181aeca
+#: ../../governance/processes.md:193 604caf3e0e2647b4926534e2d8ab8513
 msgid ""
 "If this is a whole-council vote, then it was necessarily called by Core "
-"contributors (since Council members can’t remove the whole Council) and only"
-" Core contributors vote. The vote is deemed successful if at least two "
-"thirds of voters express a lack of confidence."
+"contributors (since Council members can’t remove the whole Council) and "
+"only Core contributors vote. The vote is deemed successful if at least "
+"two thirds of voters express a lack of confidence."
 msgstr ""
 
-#: ../../governance/processes.md:155 2488890a0c42417b85dd38c9850e67d1
+#: ../../governance/processes.md:194 e7c0d55f3572413991d3564d77ff83d1
+#, python-format
 msgid ""
 "If this is a single-member vote called by Council Members, only Council "
-"Members vote, and the vote is deemed successful if at least half the voters "
-"express a lack of confidence. Council Members also have the possibility to "
-"call for the whole core team to vote (i.e Council members and Core "
-"contributors), although this is not the default option. The threshold for "
-"successful vote is also at 50% of voters for this option."
+"Members vote, and the vote is deemed successful if at least half the "
+"voters express a lack of confidence. Council Members also have the "
+"possibility to call for the whole core team to vote (i.e Council members "
+"and Core contributors), although this is not the default option. The "
+"threshold for successful vote is also at 50% of voters for this option."
 msgstr ""
 
-#: ../../governance/processes.md:156 d2369275ca6346eeb8d217ba115c6a23
+#: ../../governance/processes.md:195 84a3a54b32ee488c8954630bc4df1649
 msgid ""
 "If a single-member vote succeeds, then that member is removed from the "
 "council and the resulting vacancy can be handled in the usual way."
 msgstr ""
 
-#: ../../governance/processes.md:157 d6af87052af64e839953d980f8be9ec8
+#: ../../governance/processes.md:196 8042a1d100fd412388357ff778f9e08d
 msgid ""
-"If a whole-council vote succeeds, the council is dissolved and a new council"
-" election is triggered immediately."
+"If a whole-council vote succeeds, the council is dissolved and a new "
+"council election is triggered immediately."
 msgstr ""
 
-#: ../../governance/processes.md:159 c36fa42a3f8d42938ad39b6a546544ad
+#: ../../governance/processes.md:198 814b172aae5745b29ab631c8a06a4d83
 msgid "Ejecting Core Contributors"
 msgstr ""
 
-#: ../../governance/processes.md:160 9062aaf86dd44ad38d18c72811adb2ca
+#: ../../governance/processes.md:199 de75f862610e4cc69d85700b6c1f7f86
 msgid ""
 "Core contributors can be ejected through a simple majority vote by the "
 "council. Council members vote \"Yes\" or \"No\"."
 msgstr ""
 
-#: ../../governance/processes.md:161 0cfb39b2d05b45cda7f094d2fee85fec
+#: ../../governance/processes.md:200 a939638511e74230bba9848f283021e8
 msgid ""
-"Upon ejecting a core contributor the council must publish an issue ticket, "
-"or public document detailing the"
+"Upon ejecting a core contributor the council must publish an issue "
+"ticket, or public document detailing the"
 msgstr ""
 
-#: ../../governance/processes.md:162 8ec5ac94887a46128a6d702d3cbe093d
+#: ../../governance/processes.md:201 811dc86a7bf1484db7ed47070136943e
 msgid "Violations"
 msgstr ""
 
-#: ../../governance/processes.md:163 f109e33bb5f04846bdb1841ae92d1eb5
+#: ../../governance/processes.md:202 56dd4161147d423f910239257401682e
 msgid "Evidence if available"
 msgstr ""
 
-#: ../../governance/processes.md:164 39d8d8fc9f1e4866a968f58e31bd9011
+#: ../../governance/processes.md:203 fa0dc9055f3f444ea7a64fb042ba528b
 msgid "Remediation plan (if necessary)"
 msgstr ""
 
-#: ../../governance/processes.md:165 5588df89405e4b818e1a1c647580c0f4
+#: ../../governance/processes.md:204 a7830f71c6334223bb32b21c6d98e0ff
 msgid ""
-"Signatures majority of council members to validate correctness and accuracy"
+"Signatures majority of council members to validate correctness and "
+"accuracy"
 msgstr ""
 
-#: ../../governance/processes.md:167 bdd43a39ac504e90b67efe5a10214fe5
+#: ../../governance/processes.md:206 851d2f2525da4be3be5e7f47ab793ea5
 msgid "Leaving the project"
 msgstr ""
 
-#: ../../governance/processes.md:168 053dbe365edb4463a4c9ea7fdc852c28
+#: ../../governance/processes.md:207 3d09fcd69bea427ba4ec918b05948917
 msgid ""
-"Core contributors can also voluntarily leave the project by notifying the "
-"community through a public means or by notifying the entire council."
+"Core contributors can also voluntarily leave the project by notifying the"
+" community through a public means or by notifying the entire council."
 msgstr ""
 
-#: ../../governance/processes.md:170 4204598928b046a5be6bebb428b314cf
+#: ../../governance/processes.md:209 65996f406e014ef7a53095ec592f8ffa
 msgid ""
-"Unless they request otherwise, they will be listed on {ref}`emeritus` page."
+"Unless they request otherwise, they will be listed on {ref}`emeritus` "
+"page."
 msgstr ""
 
-#: ../../governance/processes.md:172 b4550cf769154b44b39da7fc4b68e72a
-msgid "Voting Criteria For Future Elections"
-msgstr ""
+#~ msgid ""
+#~ "Current Contributors can nominate candidates"
+#~ " to become Contributors by requesting "
+#~ "so in a GitHub issue, constraints "
+#~ "on eligibility are detailed in the "
+#~ "role descriptions. If nominated candidates "
+#~ "accept their nomination (explicit comment "
+#~ "approving nomination on the issue or "
+#~ "\"thumbs-up\" emoji on the same "
+#~ "issue), then they can be considered "
+#~ "by the Council: on the first of"
+#~ " the month following a nomination, "
+#~ "the Council will vote on each "
+#~ "nominee using {ref}`this process "
+#~ "<council_voting>`."
+#~ msgstr ""
 
-#: ../../governance/processes.md:173 831d7a133bd94f55aba0fa3e8f4565e4
-msgid ""
-"Voting for first election is restricted to establish stable governance, and "
-"to defer major decision to elected leaders"
-msgstr ""
+#~ msgid ""
+#~ "Unless specifically required, all Council "
+#~ "discussions and activities will be "
+#~ "between public (GitHub, Gitter), and "
+#~ "partially public channels (Slack) and "
+#~ "done in collaboration and discussion "
+#~ "with the Core Contributors and the "
+#~ "Community. The Council will have a "
+#~ "private channel that will be used "
+#~ "sparingly and only when a specific "
+#~ "matter requires privacy. When private "
+#~ "communications and decisions are needed, "
+#~ "the Council will do its best to"
+#~ " summarize those to the Community "
+#~ "after eliding personal/private/sensitive information"
+#~ " that should not be posted to "
+#~ "the public internet."
+#~ msgstr ""
 
-#: ../../governance/processes.md:174 e65bb02947364ee886458d593bec00ce
-msgid ""
-"For the first election only the people registered following the guidelines "
-"in `elections/ArviZ_2020.md` can vote"
-msgstr ""
+#~ msgid ""
+#~ "Candidates are evaluated independently, each"
+#~ " candidate having 60% or more of "
+#~ "yes votes _and_ less or equal than"
+#~ " 20% of no votes is chosen. If"
+#~ " the number of chosen candidates is"
+#~ " >=4 and <=10 all candidates are "
+#~ "confirmed and the election process stops"
+#~ " here."
+#~ msgstr ""
 
-#: ../../governance/processes.md:175 14e1f9f4661d49cc929176b7716ed375
-msgid ""
-"In the first year, the council must determine voting eligibility for future "
-"elections between two criteria:"
-msgstr ""
+#~ msgid ""
+#~ "In the event that either not "
+#~ "enough or too many candidates were "
+#~ "confirmed, candidates are ranked by "
+#~ "interpreting yes=+1, neutral=0 and no=-1. "
+#~ "If too many candidates were confirmed,"
+#~ " the 10 candidates with higher rank"
+#~ " are elected. If not enough "
+#~ "candidates were chosen, the 4 candidates"
+#~ " with higher rank are elected."
+#~ msgstr ""
 
-#: ../../governance/processes.md:176 8c66b2fbc35943bcb190a2d67516c666
-msgid "Core contributors"
-msgstr ""
+#~ msgid "Voting Criteria For Future Elections"
+#~ msgstr ""
 
-#: ../../governance/processes.md:177 035e9b0aa1d143b08c138a505782e9cf
-msgid "The contributing community at large"
-msgstr ""
+#~ msgid ""
+#~ "Voting for first election is restricted"
+#~ " to establish stable governance, and "
+#~ "to defer major decision to elected "
+#~ "leaders"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "For the first election only the "
+#~ "people registered following the guidelines "
+#~ "in `elections/ArviZ_2020.md` can vote"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "In the first year, the council "
+#~ "must determine voting eligibility for "
+#~ "future elections between two criteria:"
+#~ msgstr ""
+
+#~ msgid "Core contributors"
+#~ msgstr ""
+
+#~ msgid "The contributing community at large"
+#~ msgstr ""
+

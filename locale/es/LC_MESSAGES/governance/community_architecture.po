@@ -5,6 +5,7 @@
 # 
 # Translators:
 # Tomás Capretto, 2025
+# Oriol Abril-Pla <oriol.abril.pla@gmail.com>, 2025
 # 
 #, fuzzy
 msgid ""
@@ -13,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-19 03:10+0100\n"
 "PO-Revision-Date: 2022-04-10 07:09+0000\n"
-"Last-Translator: Tomás Capretto, 2025\n"
+"Last-Translator: Oriol Abril-Pla <oriol.abril.pla@gmail.com>, 2025\n"
 "Language-Team: Spanish (https://app.transifex.com/arviz/teams/135191/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -396,7 +397,7 @@ msgid ""
 "<council_selection>` will be held to fill the position."
 msgstr ""
 "En caso de que se produzca una vacante en el Consejo, se celebrarán "
-"{ref}`elecciones <council_election>` para cubrir el puesto."
+"{ref}`elecciones <council_selection>` para cubrir el puesto."
 
 #: ../../governance/community_architecture.md:103
 #: 6a6e7676f9454596b44610cf5a0721ba

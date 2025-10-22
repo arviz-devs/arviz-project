@@ -1,103 +1,93 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2022, ArviZ contributors
-# This file is distributed under the same license as the ArviZ project package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+# This file is distributed under the same license as the ArviZ project
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
 # Translators:
 # Tomás Capretto, 2025
-# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: ArviZ project\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-19 03:10+0100\n"
+"POT-Creation-Date: 2025-10-22 23:47+0200\n"
 "PO-Revision-Date: 2022-04-10 07:09+0000\n"
 "Last-Translator: Tomás Capretto, 2025\n"
-"Language-Team: Spanish (https://app.transifex.com/arviz/teams/135191/es/)\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
 "Language: es\n"
-"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+"Language-Team: Spanish (https://app.transifex.com/arviz/teams/135191/es/)"
+"\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 "
+"? 1 : 2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.16.0\n"
 
-#: ../../sponsors_partners.md:1 c73ac867ceb34058acc21fc7098a728f
+#: ../../sponsors_partners.md:1 94955eb1d33b42338376027437eff32d
 msgid "Sponsors and institutional partners"
 msgstr "Patrocinadores y socios institucionales"
 
-#: ../../sponsors_partners.md:2 992655c8196043639fd4785f5dd899e7
+#: ../../sponsors_partners.md:2 6451f18f1fbf4564a7b42b5b81e90592
 msgid "Institutional partners"
 msgstr "Socios Institucionales"
 
-#: ../../cards/partner-logos.md:2 ../../cards/partner-logos.md:8
-#: ../../cards/partner-logos.md:14 ../../cards/sponsor-logos.md:2
-#: e0a47b3c96e643248fbd48ecb38494ae 64c62748a742400a866357b2e31007e9
-#: fc56fa95fa344a329f17637c42fa3976 2381bae934664173a30f36a54691a6ff
-msgid "background image"
-msgstr "Imagen de fondo"
-
-#: ../../sponsors_partners.md:17 ../../sponsors_partners.md:37
-#: 6fda311eaadd457aaa795a97cdc257d0 4d118e142ada43779cda88c779a4a9f3
+#: ../../sponsors_partners.md:17 bc0b95bca888404b840308e225cc2c05
 msgid "**Details**"
 msgstr "**Detalles**"
 
-#: ../../sponsors_partners.md:19 4a7edcb6f55d4c2c821f61ea692f2220
+#: ../../sponsors_partners.md:19 55c328eb31b743f3a61d1f3e15b89b58
+#, fuzzy
 msgid ""
-"Helsinki University funds Oriol Abril Pla to work on ArviZ thanks to the "
+"Aalto University funds Osvaldo Martin to work on ArviZ thanks to the "
 "support of {abbr}`FCAI (Finnish Center for Artificial Intelligence)`"
 msgstr ""
-"La Universidad de Helsinki financia a Oriol Abril Pla para trabajar en ArviZ"
-" gracias al apoyo de {abbr}`FCAI (Finnish Center for Artificial "
+"La Universidad de Helsinki financia a Oriol Abril Pla para trabajar en "
+"ArviZ gracias al apoyo de {abbr}`FCAI (Finnish Center for Artificial "
 "Intelligence)`"
 
-#: ../../sponsors_partners.md:23 63ae694523f4408e999de400e2b457ac
+#: ../../sponsors_partners.md:23 e1f5bab58200444ca619245d5653a271
 msgid "Sponsors"
 msgstr "Patrocinadores"
 
-#: ../../sponsors_partners.md:39 5aed29c0f03b4254a49af5d8cdb1d44f
+#: ../../sponsors_partners.md:24 0ab783c264114ca890ad9d4f47c2aea3
 msgid ""
-"ArviZ was awarded a {abbr}`CZI (Chan Zuckerberg Initiative)` {abbr}`EOSS "
-"(Essential Open Source Software)` grant in 2021 in a joint application with "
-"PyMC and Stan. An overview of the proposal is available at the [CZI "
-"website](https://chanzuckerberg.com/eoss/proposals/bayesian-open-source-"
-"software-for-biomedicine-stan-arviz-and-pymc3/)"
+"ArviZ currently has no Sponsors. See the {ref}`gov_sponsors_partners` "
+"section in our governance for more information on what Sponsors are and "
+"how to become one."
 msgstr ""
-"ArviZ recibió una subvención de la {abbr}`CZI (Iniciativa Chan Zuckerberg)` "
-"{abbr}`EOSS (Software Esencial de Código Abierto)` en 2021 en una solicitud "
-"conjunta con PyMC y Stan. Puede consultar un resumen de la propuesta en el "
-"[sitio web de CZI](https://chanzuckerberg.com/eoss/proposals/bayesian-open-"
-"source-software-for-biomedicine-stan-arviz-and-pymc3/)."
 
-#: ../../sponsors_partners.md:45 d030433943a74229be210aea62b46951
+#: ../../sponsors_partners.md:28 81e0151a5ad943c58239c2cca9519a03
 msgid "Donate"
 msgstr "Donar"
 
-#: ../../donate.md:2 08722bb631964f629f67076dca752ed5
+#: ../../donate.md:2 4b8fecf7792b4add9ee24d4a417e680c
 msgid ""
-"ArviZ is a Sponsored Project of NumFOCUS, a 501(c)(3) nonprofit charity  in "
-"the United States. NumFOCUS provides ArviZ with fiscal, legal, and "
-"administrative support to help ensure the health and sustainability of the "
-"project. Visit [numfocus.org](https://numfocus.org/) for more information."
+"ArviZ is a Sponsored Project of NumFOCUS, a 501(c)(3) nonprofit charity  "
+"in the United States. NumFOCUS provides ArviZ with fiscal, legal, and "
+"administrative support to help ensure the health and sustainability of "
+"the project. Visit [numfocus.org](https://numfocus.org/) for more "
+"information."
 msgstr ""
-"ArviZ es un proyecto patrocinado por NumFOCUS, una organización benéfica sin"
-" fines de lucro 501(c)(3) en Estados Unidos. NumFOCUS brinda a ArviZ apoyo "
-"fiscal, legal y administrativo para garantizar la viabilidad y "
-"sostenibilidad del proyecto. Visite [numfocus.org](https://numfocus.org/) "
-"para obtener más información."
+"ArviZ es un proyecto patrocinado por NumFOCUS, una organización benéfica "
+"sin fines de lucro 501(c)(3) en Estados Unidos. NumFOCUS brinda a ArviZ "
+"apoyo fiscal, legal y administrativo para garantizar la viabilidad y "
+"sostenibilidad del proyecto. Visite [numfocus.org](https://numfocus.org/)"
+" para obtener más información."
 
-#: ../../donate.md:7 401ba33cf49e440e8835f2ca83b82fa4
+#: ../../donate.md:7 e84bc99038c540be8d10ba5fdf493970
 msgid ""
-"Donations to ArviZ are managed by NumFOCUS. For donors in the United States,"
-" your gift is tax-deductible to the extent provided by law. As with any "
-"donation, you should consult with your tax advisor about your particular tax"
-" situation."
+"Donations to ArviZ are managed by NumFOCUS. For donors in the United "
+"States, your gift is tax-deductible to the extent provided by law. As "
+"with any donation, you should consult with your tax advisor about your "
+"particular tax situation."
 msgstr ""
-"Las donaciones a ArviZ son gestionadas por NumFOCUS. Para los donantes en "
-"Estados Unidos, su donación es deducible de impuestos según lo estipula la "
-"ley. Como con cualquier donación, le recomendamos consultar con su asesor "
-"fiscal sobre su situación fiscal particular."
+"Las donaciones a ArviZ son gestionadas por NumFOCUS. Para los donantes en"
+" Estados Unidos, su donación es deducible de impuestos según lo estipula "
+"la ley. Como con cualquier donación, le recomendamos consultar con su "
+"asesor fiscal sobre su situación fiscal particular."
 
-#: ../../donate.md:12 7dfd198d971d4aa5b45c566239695113
+#: ../../donate.md:12 1869b82aeaf44c5195da5266c7b90edf
 msgid ""
 "The ArviZ project will make the decisions on how to best use any funds "
 "received to serve the priorities outlined in our "
@@ -107,35 +97,65 @@ msgstr ""
 "recibidos para atender las prioridades delineadas en nuestra [Hoja de "
 "ruta](https://github.com/arviz-devs/arviz/wiki/ArviZ-2021-roadmap)."
 
-#: ../../donate.md:18 ee0118666be94ecea826be1d256fde46
+#: ../../donate.md:18 a3dfe6f4ab08416a98c2461a1b87a56e
 msgid ""
 "Donate to ArviZ <svg version=\"4.0.0.63c5cb3\" width=\"2.0em\" "
 "height=\"2.0em\" class=\"sd-material-icon sd-material-icon-favorite\" "
 "viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M0 0h24v24H0z\" "
-"fill=\"none\"></path><path d=\"M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 "
-"2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 "
-"3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z\"></path></svg>"
+"fill=\"none\"></path><path d=\"M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 "
+"8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3"
+" 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 "
+"21.35z\"></path></svg>"
 msgstr ""
 "Donar a ArviZ <svg version=\"4.0.0.63c5cb3\" width=\"2.0em\" "
 "height=\"2.0em\" class=\"sd-material-icon sd-material-icon-favorite\" "
 "viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M0 0h24v24H0z\" "
-"fill=\"none\"></path><path d=\"M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 "
-"2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 "
-"3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z\"></path></svg>"
+"fill=\"none\"></path><path d=\"M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 "
+"8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3"
+" 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 "
+"21.35z\"></path></svg>"
 
-#: ../../sponsors_partners.md:49 0dec9f429506451eaa47db2fc368c57e
+#: ../../sponsors_partners.md:32 27b9ebbeba994c1ba1e2658ce48dbd3c
 msgid "[![NumFOCUS](sphinx/NumFocus.png)](https://numfocus.org)"
 msgstr "[![NumFOCUS](sphinx/NumFocus.png)](https://numfocus.org)"
 
-#: ../../sponsors_partners.md:49 9a908ec7273243738821e33ab962f4a9
+#: ../../sponsors_partners.md:32 e98add3a12144dafbdc1159be095f65b
 msgid "NumFOCUS"
 msgstr "NumFOCUS"
 
-#: ../../sponsors_partners.md:52 faeb92a234d7423c83b463ba842e7508
+#: ../../sponsors_partners.md:35 41b2c4151df7494e8bf5358657eb3a4b
 msgid "Historical funding"
 msgstr "Financiación histórica"
 
-#: ../../sponsors_partners.md:53 45a79651623749a7a9173acf5a1140e1
-msgid ""
-"In the past, ArviZ has received institutional or financial support from:"
+#: ../../sponsors_partners.md:36 f067affa1be74a6e869f07152314b1f7
+msgid "In the past, ArviZ has received institutional or financial support from:"
 msgstr "En el pasado, ArviZ ha recibido apoyo institucional o financiero de:"
+
+#: ../../sponsors_partners.md:38 22036941001a4bb4a1a8ad14ec144187
+#, fuzzy
+msgid ""
+"ArviZ was awarded a {abbr}`CZI (Chan Zuckerberg Initiative)` {abbr}`EOSS "
+"(Essential Open Source Software)` grant in 2021 in a joint application "
+"with PyMC and Stan. Dates: 2022-2024"
+msgstr ""
+"ArviZ recibió una subvención de la {abbr}`CZI (Iniciativa Chan "
+"Zuckerberg)` {abbr}`EOSS (Software Esencial de Código Abierto)` en 2021 "
+"en una solicitud conjunta con PyMC y Stan. Puede consultar un resumen de "
+"la propuesta en el [sitio web de "
+"CZI](https://chanzuckerberg.com/eoss/proposals/bayesian-open-source-"
+"software-for-biomedicine-stan-arviz-and-pymc3/)."
+
+#: ../../sponsors_partners.md:40 3c67b185b6ee4f82bc38d81dd89b9e83
+#, fuzzy
+msgid ""
+"Helsinki University funded Oriol Abril Pla to work on ArviZ thanks to the"
+" support of {abbr}`FCAI (Finnish Center for Artificial Intelligence)`. "
+"Dates: 2021-2022"
+msgstr ""
+"La Universidad de Helsinki financia a Oriol Abril Pla para trabajar en "
+"ArviZ gracias al apoyo de {abbr}`FCAI (Finnish Center for Artificial "
+"Intelligence)`"
+
+#~ msgid "background image"
+#~ msgstr "Imagen de fondo"
+

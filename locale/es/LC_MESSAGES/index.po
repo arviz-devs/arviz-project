@@ -1,93 +1,120 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2022, ArviZ contributors
-# This file is distributed under the same license as the ArviZ project package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+# This file is distributed under the same license as the ArviZ project
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
 # Translators:
 # Osvaldo A Martin, 2022
-# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: ArviZ project\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-19 03:10+0100\n"
+"POT-Creation-Date: 2025-10-22 23:47+0200\n"
 "PO-Revision-Date: 2022-04-10 05:52+0000\n"
 "Last-Translator: Osvaldo A Martin, 2022\n"
-"Language-Team: Spanish (https://app.transifex.com/arviz/teams/135191/es/)\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
 "Language: es\n"
-"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+"Language-Team: Spanish (https://app.transifex.com/arviz/teams/135191/es/)"
+"\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 "
+"? 1 : 2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.16.0\n"
 
-#: ../../index.md:66
+#: ../../index.md:76
+msgid "Code of Conduct"
+msgstr ""
+
+#: ../../index.md:76
 msgid "Governance"
 msgstr "Gobierno"
 
-#: ../../index.md:6 85c39655efca4d95bec7eb77c154cf63
+#: ../../index.md:85
+msgid "ArviZ Python library"
+msgstr ""
+
+#: ../../index.md:85
+msgid "ArviZ Julia library"
+msgstr ""
+
+#: ../../index.md:85
+msgid "Mastodon"
+msgstr ""
+
+#: ../../index.md:85
+msgid "GitHub org"
+msgstr ""
+
+#: ../../index.md:85
+msgid "External links"
+msgstr ""
+
+#: ../../index.md:6 49de3a0450a140ca8807aa3716194f7b
 msgid "The ArviZ project"
 msgstr "El proyecto ArviZ"
 
-#: ../../index.md:7 eb08f438456a481394fdfa10670d9cd6
+#: ../../index.md:7 0405f68fa3c64ddea17ffdbf03118461
 msgid ""
 "ArviZ is an open source project aiming to provide tools for Exploratory "
 "Analysis of Bayesian Models that do not depend on the inference library "
-"used. ArviZ brings together people from several probabilistic programming "
-"libraries and from multiple programming languages. ArviZ will always be free"
-" for everyone to use and released under OSI approved open source licenses "
-"such as the Apache License (Version 2.0) or the MIT License."
+"used. ArviZ brings together people from several probabilistic programming"
+" libraries and from multiple programming languages. ArviZ will always be "
+"free for everyone to use and released under OSI approved open source "
+"licenses such as the Apache License (Version 2.0) or the MIT License."
 msgstr ""
-"ArviZ es un proyecto de código abierto que tiene como objetivo proporcionar "
-"herramientas para el análisis exploratorio de modelos Bayesianos que no "
-"dependen de la librería de inferencia utilizada. ArviZ reúne a personas de "
-"varias librerías de programación probabilista y de múltiples lenguajes de "
-"programación. ArviZ siempre será gratuito para que todas las personas lo "
-"usen y se publicará bajo licencias de código abierto aprobadas por OSI, como"
-" la licencia Apache (versión 2.0) o la licencia MIT."
+"ArviZ es un proyecto de código abierto que tiene como objetivo "
+"proporcionar herramientas para el análisis exploratorio de modelos "
+"Bayesianos que no dependen de la librería de inferencia utilizada. ArviZ "
+"reúne a personas de varias librerías de programación probabilista y de "
+"múltiples lenguajes de programación. ArviZ siempre será gratuito para que"
+" todas las personas lo usen y se publicará bajo licencias de código "
+"abierto aprobadas por OSI, como la licencia Apache (versión 2.0) o la "
+"licencia MIT."
 
-#: ../../index.md:14 d84f27d8d5f247e2ab577f6a54a29ee5
+#: ../../index.md:14 cd4c1da13b73413d920c48c35c0f0fa9
 msgid ""
-"The ArviZ team work in the open on [GitHub](https://github.com/arviz-devs) "
-"with the input of the whole community and consensus of its core "
-"contributors. For more information about our governance approach, read our "
-"{ref}`governance`."
+"The ArviZ team work in the open on [GitHub](https://github.com/arviz-"
+"devs) with the input of the whole community and consensus of its core "
+"contributors. For more information about our governance approach, read "
+"our {ref}`governance`."
 msgstr ""
-"El equipo de ArviZ trabaja abiertamente en "
-"[GitHub](https://github.com/arviz-devs) con el aporte de toda la comunidad y"
-" el consenso de sus colaboradoras y colaboradores principales. Para obtener "
-"más información sobre nuestro enfoque de gobierno, lea nuestro "
-"{ref}`governance`."
+"El equipo de ArviZ trabaja abiertamente en [GitHub](https://github.com"
+"/arviz-devs) con el aporte de toda la comunidad y el consenso de sus "
+"colaboradoras y colaboradores principales. Para obtener más información "
+"sobre nuestro enfoque de gobierno, lea nuestro {ref}`governance`."
 
-#: ../../index.md:18 5c6bb7c455d24a1b9e3d5a92f7878b69
+#: ../../index.md:18 d4065ade82b345c689d428f7baacb24b
 msgid "Our libraries"
 msgstr "Nuestras librerías"
 
-#: ../../index.md:27 167fecbadbbc41debe5a8fb5f4091115
+#: ../../index.md:27 fc53daab144740b99304a034feaafe39
 msgid ""
-"<span class=\"iconify-inline arviz-logo-big\" data-icon=\"vscode-icons:file-"
-"type-julia\"></span>"
+"<span class=\"iconify-inline arviz-logo-big\" data-icon=\"vscode-icons"
+":file-type-julia\"></span>"
 msgstr ""
-"<span class=\"iconify-inline arviz-logo-big\" data-icon=\"vscode-icons:file-"
-"type-julia\"></span>"
+"<span class=\"iconify-inline arviz-logo-big\" data-icon=\"vscode-icons"
+":file-type-julia\"></span>"
 
-#: ../../index.md:29 d68bd96ba8b848c1b3d5760234b49ef1
+#: ../../index.md:29 90f5822ef89b4e11b22d179825d17753
 msgid "ArviZ.jl"
 msgstr "ArviZ.jl"
 
-#: ../../index.md:35 dc3f7e4a127a4fc38ba707e10fb53b9d
+#: ../../index.md:35 61f234a25f584d7cb97c1981139a8a9c
 msgid ""
-"<span class=\"iconify-inline arviz-logo-big\" data-icon=\"vscode-icons:file-"
-"type-python\"></span>"
+"<span class=\"iconify-inline arviz-logo-big\" data-icon=\"vscode-icons"
+":file-type-python\"></span>"
 msgstr ""
-"<span class=\"iconify-inline arviz-logo-big\" data-icon=\"vscode-icons:file-"
-"type-python\"></span>"
+"<span class=\"iconify-inline arviz-logo-big\" data-icon=\"vscode-icons"
+":file-type-python\"></span>"
 
-#: ../../index.md:37 012123cae228420a8c65d9d6bb9eba0c
+#: ../../index.md:37 c66262e6cae24d4e9b2110e1aa9496c0
 msgid "ArviZ.py"
 msgstr "ArviZ.py"
 
-#: ../../index.md:43 88fe1d2ac494440593170130a331589d
+#: ../../index.md:43 db247c257f264355b087f228669c245b
 msgid ""
 "<span class=\"iconify-inline arviz-logo-big\" data-"
 "icon=\"vaadin:cubes\"></span>"
@@ -95,17 +122,25 @@ msgstr ""
 "<span class=\"iconify-inline arviz-logo-big\" data-"
 "icon=\"vaadin:cubes\"></span>"
 
-#: ../../index.md:45 033dc52328bf4188b462fa44bdcf7538
+#: ../../index.md:45 b1395315f8394ec39445e5c63f943aef
 msgid "xarray-einstats"
 msgstr "xarray-einstats"
 
-#: ../../index.md:49 8c94f3ce551e4cfb8e480208ac7f78a9
+#: ../../index.md:53 ff4739ae3aea4fc291ad73d5e0bcb83e
+msgid "PreliZ"
+msgstr ""
+
+#: ../../index.md:58 82db7943db9a4c88b1c656b4170699a1
 msgid "Sponsors and institutional partners"
 msgstr "Patrocinadores y socios institucionales"
 
-#: ../../cards/partner-logos.md:2 ../../cards/partner-logos.md:8
-#: ../../cards/partner-logos.md:14 ../../cards/sponsor-logos.md:2
-#: 74102b41466442ea8b7010fa834d2d43 4a8eb756a93b4739816d141099771700
-#: 0f49272d65284f168564bb09f437999f 592c02aa441b4dfc8dbf9c66d4e5ae3b
-msgid "background image"
-msgstr "Imagen de fondo"
+#: ../../index.md:96 865d92359709487fa6e9f4bfefdffa79
+msgid ""
+"<a class=\"reference external\" rel=\"me\" "
+"href=\"https://bayes.club/@ArviZ\" style=\"display: none "
+"!important;\">Mastodon</a>"
+msgstr ""
+
+#~ msgid "background image"
+#~ msgstr "Imagen de fondo"
+

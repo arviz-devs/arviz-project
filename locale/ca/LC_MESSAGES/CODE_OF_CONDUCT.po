@@ -1,0 +1,105 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, ArviZ contributors
+# This file is distributed under the same license as the ArviZ project
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ArviZ project \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-22 23:47+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ca\n"
+"Language-Team: ca <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../CODE_OF_CONDUCT.md:1 eaf483e1be834377a512774483d3ae42
+msgid "ArviZ Community Code of Conduct"
+msgstr ""
+
+#: ../../CODE_OF_CONDUCT.md:3 2e0c1547572b41a3b406db66d3db05cf
+msgid ""
+"ArviZ adopts the NumFOCUS Code of Conduct directly. In other words, we "
+"expect our community to treat others with kindness and understanding."
+msgstr ""
+
+#: ../../CODE_OF_CONDUCT.md:6 1e004bca1a594beca1d16fa2cc190610
+msgid "You can find the whole document here https://numfocus.org/code-of-conduct."
+msgstr ""
+
+#: ../../CODE_OF_CONDUCT.md:8 d37e8800975e4d05a46882034eb8c9ca
+msgid "THE SHORT VERSION"
+msgstr ""
+
+#: ../../CODE_OF_CONDUCT.md:10 a451412331024cdf97f94f2aea3aa6ae
+msgid ""
+"NumFOCUS is dedicated to providing a harassment-free community for "
+"everyone, regardless of gender, sexual orientation, gender identity and "
+"expression, disability, physical appearance, body size, race, or "
+"religion. We do not tolerate harassment of community members in any form."
+msgstr ""
+
+#: ../../CODE_OF_CONDUCT.md:12 7c3d0cd153f0438da7e9e602759aa5e6
+msgid ""
+"Be kind to others. Do not insult or put down others. Behave "
+"professionally. Remember that harassment and sexist, racist, or "
+"exclusionary jokes are not appropriate for NumFOCUS."
+msgstr ""
+
+#: ../../CODE_OF_CONDUCT.md:14 1b6e39a1b40648e09767e9f31c4fb29e
+msgid ""
+"All communication should be appropriate for a professional audience "
+"including people of many different backgrounds. Sexual language and "
+"imagery is not appropriate."
+msgstr ""
+
+#: ../../CODE_OF_CONDUCT.md:16 81d68e7d23a94b66ae0fa26d54378f63
+msgid "Thank you for helping make this a welcoming, friendly community for all."
+msgstr ""
+
+#: ../../CODE_OF_CONDUCT.md:18 7003abf35b9c4b23b4e5ae40423fe070
+msgid "LONG VERSION"
+msgstr ""
+
+#: ../../CODE_OF_CONDUCT.md:19 327acd7669284f47b38b60860fc6cb1b
+msgid ""
+"You can find the long version of the Code of Conduct on the NumFOCUS "
+"website https://numfocus.org/code-of-conduct"
+msgstr ""
+
+#: ../../CODE_OF_CONDUCT.md:21 a8f7bd9b65454e8caaa96b690546cf66
+msgid "HOW TO REPORT"
+msgstr ""
+
+#: ../../CODE_OF_CONDUCT.md:23 b669204927ef4eac9cc0e0f144377479
+msgid ""
+"If you feel that the Code of Conduct has been violated, feel free to "
+"submit a report, by using the form: [NumFOCUS Code of Conduct Reporting "
+"Form](https://numfocus.typeform.com/to/ynjGdT?typeform-source=arviz.org)"
+msgstr ""
+
+#: ../../CODE_OF_CONDUCT.md:25 fcf372be706e458f95065efdc4320e13
+msgid "WHO WILL RECEIVE YOUR REPORT"
+msgstr ""
+
+#: ../../CODE_OF_CONDUCT.md:26 cf1859c107a94a76b81ec2623ad76318
+msgid ""
+"Your report will be received and handled by NumFOCUS Code of Conduct "
+"Working Group; trained, and experienced contributors with diverse "
+"backgrounds. The group is making decisions independently from the "
+"project, PyData, NumFOCUS or any other organization."
+msgstr ""
+
+#: ../../CODE_OF_CONDUCT.md:28 3daef8e3422e4496ae6607761c69c6cc
+msgid ""
+"You can learn more about the current group members, as well as the "
+"reporting procedure [HERE](https://numfocus.org/code-of-conduct)"
+msgstr ""
+
