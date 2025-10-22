@@ -8,9 +8,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ArviZ project\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-10 09:34+0300\n"
+"POT-Creation-Date: 2022-12-19 03:10+0100\n"
 "PO-Revision-Date: 2022-04-10 07:09+0000\n"
-"Language-Team: Catalan (https://www.transifex.com/arviz/teams/135191/ca/)\n"
+"Language-Team: Catalan (https://app.transifex.com/arviz/teams/135191/ca/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -18,15 +18,15 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../governance/index.md:2 ../../governance/index.md:38
-#: b348e18709e948efb56538fdb692056f 4cc945653c944fce8c8ae4ab292364d7
+#: 3f72fae407e64880959ed5b0082e709a b889e7980af348ff80b7efa85c4c2623
 msgid "Governance"
 msgstr ""
 
-#: ../../governance/index.md:4 6b4620ed1fd343a8b7e1d9d35026350c
+#: ../../governance/index.md:4 e9225e6a70034b79a1f16b094371a211
 msgid "The Project"
 msgstr ""
 
-#: ../../governance/index.md:6 8dbb41f5803c42919526b4cb120d1a9a
+#: ../../governance/index.md:6 8bd94f35b4ff48478b5f8db1128399bb
 msgid ""
 "The ArviZ Project (The Project) is an open source software project "
 "affiliated with the 501c3 NumFOCUS Foundation. The goal of The Project is to"
@@ -37,9 +37,9 @@ msgid ""
 "the [arviz-devs GitHub organization](https://github.com/arviz-devs). "
 "Examples of Project Software include the code of the two ArviZ libraries and"
 " their Documentation, etc. The Services run by the Project consist of public"
-" websites and web-services that are hosted at [https://arviz-"
-"devs.github.io/](https://arviz-devs.github.io/) The Project is developed by "
-"a team of distributed developers, called Contributors. Contributors are "
+" websites and web-services that are hosted at "
+"[https://www.arviz.org/](https://www.arviz.org/) The Project is developed by"
+" a team of distributed developers, called Contributors. Contributors are "
 "individuals who have contributed code, documentation, designs or other work "
 "to one or more Project repositories. Anyone can be a Contributor. "
 "Contributors can be affiliated with any legal entity or none. Contributors "
@@ -49,14 +49,14 @@ msgid ""
 "Project participation is openness and transparency."
 msgstr ""
 
-#: ../../governance/index.md:26 1533442212024a328ecbda7e54ebfb24
+#: ../../governance/index.md:26 232bd5acb6db4f4d93c58ff1af982d94
 msgid ""
 "There have been many Contributors to the Project, whose contributions are "
 "listed in the logs of any of the repositories under the ArviZ-devs "
 "organization."
 msgstr ""
 
-#: ../../governance/index.md:29 8e3167f2ff29494c93f23d5c2b4d9ead
+#: ../../governance/index.md:29 964e0be00c954204a0c8eb72df8f5307
 msgid ""
 "The Project Community consists of all Contributors and Users of the Project."
 " Contributors work on behalf of and are responsible to the larger Project "
@@ -64,39 +64,39 @@ msgid ""
 "as low as possible."
 msgstr ""
 
-#: ../../governance/index.md:34 b85ce7432a434e55a5bc690dd8dff59d
+#: ../../governance/index.md:34 b57abc61a30a4e458e4febdcf95cf660
 msgid ""
 "The Project is formally affiliated with the 501c3 NumFOCUS Foundation "
 "([http://numfocus.org](http://numfocus.org)),  NumFOCUS is the only legal "
 "entity that has a formal relationship with the project."
 msgstr ""
 
-#: ../../governance/index.md:39 6f0553bfa43a4f369f9155c3f6b3f695
+#: ../../governance/index.md:39 d3ffde04f994449e9ff456faba07db81
 msgid "The foundations of Project governance are:"
 msgstr ""
 
-#: ../../governance/index.md:41 aab652525b6d4ed8b4bbe1a94e1a9f35
+#: ../../governance/index.md:41 9635a283a0ba48bc92ebfd83ad959804
 msgid "Openness & Transparency"
 msgstr ""
 
-#: ../../governance/index.md:42 9ee5626407344286a6b6fbea5f62cfd3
+#: ../../governance/index.md:42 4ebc419c083d413e89fd5308a17aaed1
 msgid "Active Contribution"
 msgstr ""
 
-#: ../../governance/index.md:43 cf70ad52254e4a99962689fe74a4997f
+#: ../../governance/index.md:43 2d89e3d07ba0451c9af72df94dd9c8bb
 msgid "Institutional Neutrality"
 msgstr ""
 
-#: ../../governance/index.md:45 5410e6dc81594290a8c6689fca3fe8b0
+#: ../../governance/index.md:45 1c790720ee434640b445179e8a2d31bc
 msgid ""
 "This section describes the governance and leadership model of The Project."
 msgstr ""
 
-#: ../../governance/index.md:56 633b5eb4736544288cf535fa04a94e42
+#: ../../governance/index.md:56 226ac138eb5f470ea9d34b6ceb61c3cc
 msgid "Historical note"
 msgstr ""
 
-#: ../../governance/index.md:57 64949895e4fa4790bbd5f0a93adf9411
+#: ../../governance/index.md:57 5d2596ed659a4da69caf1fc768c64701
 msgid ""
 "Traditionally, project leadership was unstructured but primarily driven by a"
 " subset of Core Contributors whose active and consistent contributions have "
@@ -105,7 +105,7 @@ msgid ""
 "among the Core Contributors with input from the Community."
 msgstr ""
 
-#: ../../governance/index.md:63 32515cbb75da4ccf9f7f76019cf9b5fc
+#: ../../governance/index.md:63 24f4364b404047ca8e618be7bc54c312
 msgid ""
 "While this approach has served us well, as the Project grows and faces more "
 "legal and financial decisions and interacts with other institutions, we see "

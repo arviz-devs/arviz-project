@@ -8,161 +8,161 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ArviZ project\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-10 09:34+0300\n"
+"POT-Creation-Date: 2022-12-19 03:10+0100\n"
 "PO-Revision-Date: 2022-04-10 07:09+0000\n"
-"Language-Team: Catalan (https://www.transifex.com/arviz/teams/135191/ca/)\n"
+"Language-Team: Catalan (https://app.transifex.com/arviz/teams/135191/ca/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ca\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../../core_contributors.md:1 ../../core_contributors.md:12
-#: ../../core_contributors.md:22 ../../core_contributors.md:33
-#: ../../core_contributors.md:44 ../../core_contributors.md:55
-#: ../../core_contributors.md:65 ../../core_contributors.md:74
-#: ../../core_contributors.md:84 ../../core_contributors.md:95
-#: ../../core_contributors.md:106 ../../core_contributors.md:116
-#: ../../core_contributors.md:127 a75fc796c54c4135a8902bc49bf12f22
-#: 78fc4334017044f2958c43e876c135a2 25de3003d4944c7b9e2e253b169e39d9
-#: eaff80f4f5ef49f18f8b452915a131b1 93fc995a1e7e4ad6aa77ce5aed0796c0
-#: 9a258f1b34a444ad84d4ea3d00096886 5c518927489846a6bc7b0e27d2ee5781
-#: 4bf7d3d780404322a2aa6d7903f18aff 62ae846a945a4336b6bd72a2521e25a2
-#: ae4008056dd24aee99461ddc53ce601e cf934f5310f6451fbc40056b69541974
-#: 51588217748744a4811cd361c5ce5fff 17273c3b7ffb43f08e40f20e704cb1a0
+#: ../../core_contributors.md:4 ../../core_contributors.md:15
+#: ../../core_contributors.md:25 ../../core_contributors.md:36
+#: ../../core_contributors.md:47 ../../core_contributors.md:58
+#: ../../core_contributors.md:68 ../../core_contributors.md:77
+#: ../../core_contributors.md:87 ../../core_contributors.md:98
+#: ../../core_contributors.md:109 ../../core_contributors.md:119
+#: ../../core_contributors.md:130 2ca5c293588e4f619d261e18f33ff188
+#: bd3e9c3f5b1a4a089226ed8dfc2e7b72 1c3ddc97f17741929d47ee28df6554de
+#: fa8114810bf4469e9622a0c201062410 61261d95c84f474190f36e33c3b7689d
+#: 55d1ec6bd79540f3841c3cd5cc0b50fc 8ab520c0ccb34ca8af8a5efa36933bbe
+#: c1a83bf97e904059a94896543ca53b81 f3cbb4ce0f2c457fa77cddad3c6c5495
+#: 070e65e366d944d88b783b46d6f1a76b df52f3d21bb343f782b50147517a20c0
+#: 038d9d7a97db4c43bd1b11d730cf5f16 1c69162b8e5b49b5aa05433ebaf4764d
 msgid "card-img-top"
 msgstr ""
 
-#: ../../core_contributors.md:1 e2981edeb72648c9b9176f64800a5300
+#: ../../core_contributors.md:8 b1c24b30b7a442ff93b9747be6401bb7
 msgid "Oriol Abril-Pla"
 msgstr ""
 
-#: ../../core_contributors.md:3 a489895ce09340c0932a37fde80bfbd9
+#: ../../core_contributors.md:10 82fad73bb48845f58798f98ee06e46c6
 msgid ""
 "[{fab}`github`](https://github.com/oriolabril) "
 "[{fab}`twitter`](https://twitter.com/OriolAbril) "
-"[{fas}`globe`](https://oriolabril.github.io/oriol_unraveled)"
+"[{fas}`globe`](https://oriolabrilpla.cat)"
 msgstr ""
 
-#: ../../core_contributors.md:1 260b1a6bfdb44538ad124c9c68766059
+#: ../../core_contributors.md:19 97094272b26b4083b8615a3c343c2690
 msgid "Agustina Arroyuelo"
 msgstr ""
 
-#: ../../core_contributors.md:3 a3bfeb0a48604be7b611410ba2f288b2
+#: ../../core_contributors.md:21 3a16202c0a0f446094431061a7490924
 msgid ""
 "[{fab}`github`](https://github.com/agustinaarroyuelo) "
 "[{fab}`twitter`](https://twitter.com/AgustinaArroyu1)"
 msgstr ""
 
-#: ../../core_contributors.md:1 16f271a5f7c4417e94d62eec186b41a3
+#: ../../core_contributors.md:29 ee194caac1304421a7de64664ff14ae7
 msgid "Alex Andorra"
 msgstr ""
 
-#: ../../core_contributors.md:3 c95bb4ab99aa4f089b1f4fc29ce05e68
+#: ../../core_contributors.md:31 2cc614b875864ecc8ef7cb2e26b04a68
 msgid ""
 "[{fab}`github`](https://github.com/AlexAndorra) "
 "[{fab}`twitter`](https://twitter.com/alex_andorra) "
 "[{fas}`globe`](https://www.learnbayesstats.com/)"
 msgstr ""
 
-#: ../../core_contributors.md:1 55764649edc2468599273d2519d31a20
+#: ../../core_contributors.md:40 8388f8a13a4c4d79a9a7a80afe288ee7
 msgid "Seth Axen"
 msgstr ""
 
-#: ../../core_contributors.md:3 8bc107b5e33245edba32f9ed465e1cdd
+#: ../../core_contributors.md:42 a6e037cbb43d4a7cad851027add92304
 msgid ""
 "[{fab}`github`](https://github.com/sethaxen) "
 "[{fab}`twitter`](https://twitter.com/sethaxen) "
 "[{fas}`globe`](https://sethaxen.com/)"
 msgstr ""
 
-#: ../../core_contributors.md:1 edb34a5d31cb4fb590577b18127fb358
+#: ../../core_contributors.md:51 cebbede5ed8b4803ad7436754b797a32
 msgid "Colin Carroll"
 msgstr ""
 
-#: ../../core_contributors.md:3 d6260aa46d6c44d68149154dd84104ed
+#: ../../core_contributors.md:53 91aaa249355d44f4bec0ddb59cf98910
 msgid ""
 "[{fab}`github`](https://github.com/ColCarroll) "
 "[{fab}`twitter`](https://twitter.com/colindcarroll) "
 "[{fas}`globe`](https://colindcarroll.com/)"
 msgstr ""
 
-#: ../../core_contributors.md:1 f10dc449731c43a08be04f42288ea1ce
+#: ../../core_contributors.md:62 0f8fd37e85c04d36a6f045412b9893bb
 msgid "Piyush Gautam"
 msgstr ""
 
-#: ../../core_contributors.md:3 516d5fb3f4934554a9a633f84735cd39
+#: ../../core_contributors.md:64 81e42f7efeb144a1a444649b533fdce8
 msgid ""
 "[{fab}`github`](https://github.com/percygautam) "
 "[{fab}`twitter`](https://twitter.com/percygautam)"
 msgstr ""
 
-#: ../../core_contributors.md:1 dea406b50a284e5fa40c4d7a15de3c85
+#: ../../core_contributors.md:72 244b0d4bee9b41a093a05bdb5dff30f6
 msgid "Robert P. Goldman"
 msgstr ""
 
-#: ../../core_contributors.md:3 5198016885d04e75b0b522dfd9128ae1
+#: ../../core_contributors.md:74 57f3626939914ee3a863740a2a507503
 msgid "[{fab}`github`](https://github.com/rpgoldman)"
 msgstr ""
 
-#: ../../core_contributors.md:1 0dbf45313fe447d898425155792d0b5e
+#: ../../core_contributors.md:81 5af7465a7fad4643a9230567af5d791e
 msgid "Ari Hartikainen"
 msgstr ""
 
-#: ../../core_contributors.md:3 5cd181725ba041dc8391c5c6c3e16223
+#: ../../core_contributors.md:83 d4e0e1c1ad144c77bea00275224bb168
 msgid ""
 "[{fab}`github`](https://github.com/ahartikainen) "
 "[{fab}`twitter`](https://twitter.com/a_hartikainen)"
 msgstr ""
 
-#: ../../core_contributors.md:1 179a293ee9394994968d62f6b689ef02
+#: ../../core_contributors.md:91 15a1239b2cae49058e53e0a6aac69539
 msgid "Ravin Kumar"
 msgstr ""
 
-#: ../../core_contributors.md:3 89ac2e3bbe354ba8950a8e955b0ba4fd
+#: ../../core_contributors.md:93 45a298a617544de8bf08b2a06264d703
 msgid ""
 "[{fab}`github`](https://github.com/canyon289) "
 "[{fab}`twitter`](https://twitter.com/canyon289) "
 "[{fas}`globe`](http://ravinkumar.com)"
 msgstr ""
 
-#: ../../core_contributors.md:1 c3ed7426570e4f8bae3a2063207e92a3
+#: ../../core_contributors.md:102 206421d1eaab4806a56ce9cf2a988338
 msgid "Osvaldo Martin"
 msgstr ""
 
-#: ../../core_contributors.md:3 be7816e711fe40b1b2dd54129ab8230d
+#: ../../core_contributors.md:104 b99245a6ec1148ed815939cb6e3272fa
 msgid ""
 "[{fab}`github`](https://github.com/aloctavodia) "
 "[{fab}`twitter`](https://twitter.com/aloctavodia) "
 "[{fas}`globe`](https://aloctavodia.github.io/)"
 msgstr ""
 
-#: ../../core_contributors.md:1 7d0954e673a9475e969d186eb8a03ea4
+#: ../../core_contributors.md:113 df34355e473749af88f144082a4da52d
 msgid "Mitzi Morris"
 msgstr ""
 
-#: ../../core_contributors.md:3 d9dcbd3fa88f4a368913a3193b7f70b4
+#: ../../core_contributors.md:115 15f0ea2eb3f64e94ae4487cc4245e1bc
 msgid ""
 "[{fab}`github`](https://github.com/mitzimorris) "
 "[{fab}`twitter`](https://twitter.com/searchbooster_)"
 msgstr ""
 
-#: ../../core_contributors.md:1 f2c5e07fa1da4dc498ab372650bfdb3b
+#: ../../core_contributors.md:123 3914bc7d5f38413cb6791d79888259fc
 msgid "Du Phan"
 msgstr ""
 
-#: ../../core_contributors.md:3 0a4b324efcfd4b40ace66640d438a5cd
+#: ../../core_contributors.md:125 212d7958b1ff4796a53f6582cfda692a
 msgid ""
 "[{fab}`github`](https://github.com/fehiepsi) "
 "[{fab}`twitter`](https://twitter.com/fehiepsi) "
 "[{fas}`globe`](http://fehiepsi.github.io/)"
 msgstr ""
 
-#: ../../core_contributors.md:1 15b592b6b68945598617c2fad4142655
+#: ../../core_contributors.md:134 9bcab466eb294e5dbe3adef1992f3a04
 msgid "Aki Vehtari"
 msgstr ""
 
-#: ../../core_contributors.md:3 d5eebc6cada64976a6a4b4328d66e995
+#: ../../core_contributors.md:136 89ff5af6b3c6459daa0aa7bb7890445f
 msgid ""
 "[{fab}`github`](https://github.com/avehtari) "
 "[{fab}`twitter`](https://twitter.com/avehtari) "

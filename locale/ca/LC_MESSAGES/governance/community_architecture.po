@@ -8,9 +8,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ArviZ project\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-10 09:34+0300\n"
+"POT-Creation-Date: 2022-12-19 03:10+0100\n"
 "PO-Revision-Date: 2022-04-10 07:09+0000\n"
-"Language-Team: Catalan (https://www.transifex.com/arviz/teams/135191/ca/)\n"
+"Language-Team: Catalan (https://app.transifex.com/arviz/teams/135191/ca/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -18,34 +18,34 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../governance/community_architecture.md:2
-#: e8fa7bc743954c3196b01e20557c9f42
+#: b69152704d884c32b824306cd8359b80
 msgid "Community Architecture"
 msgstr ""
 
 #: ../../governance/community_architecture.md:4
-#: 4084d0a3f5324ae39c9d38928ffbeac7
+#: a9a7b47419874f89a2179ae021c341e4
 msgid "General Contributors"
 msgstr ""
 
 #: ../../governance/community_architecture.md:5
-#: c2173978d062437083fe61e9d67e9473
+#: 450e4f3d84264c6d8841a38ed967b69d
 msgid "{ref}`recurrent_contributor_description`"
 msgstr ""
 
 #: ../../governance/community_architecture.md:6
-#: 0383d7eac60d429795faf1d1a51c327a
+#: 47c2643d635146ae84671435acc27d4b
 msgid ""
 "{ref}`core_contributor_description` (of which Council members are also a "
 "part of)"
 msgstr ""
 
 #: ../../governance/community_architecture.md:7
-#: a80d2e4946db4d5385d4921178812d0e
+#: 95600366cab745a6b7164a1f73f944e0
 msgid "7 Person steering council ({ref}`council_description`)"
 msgstr ""
 
 #: ../../governance/community_architecture.md:9
-#: 7d39d87e27e742e0963d2d0920d9319f
+#: 0c730b53117e459ab47ba1b1666bfd2e
 msgid ""
 "Anyone working with ArviZ has the responsibility to personally uphold the "
 "Code of Conduct. Core Contributors have the additional responsibility of "
@@ -53,12 +53,12 @@ msgid ""
 msgstr ""
 
 #: ../../governance/community_architecture.md:14
-#: c873621b6a904c7491e9730cdfe98a34
+#: 2575e584948b4afe85975699084126dd
 msgid "Recurrent Contributors"
 msgstr ""
 
 #: ../../governance/community_architecture.md:15
-#: 469eff1bd0634bf18929ba15a11a2e87
+#: 2f118acba94348a7b749fb82fc6e77d2
 msgid ""
 "Recurrent Contributors are those individuals who contribute recurrently to "
 "the project and can provide valuable insight on the project. They are "
@@ -68,7 +68,7 @@ msgid ""
 msgstr ""
 
 #: ../../governance/community_architecture.md:21
-#: c8c124c4450f466f89aec84e314d4d56
+#: a0f244bcc6ce44d9b37850ac0a2ccee7
 msgid ""
 "In practice, this translates in participating from private team discussions "
 "(i.e. in Slack or live meetings) but not being able to vote in elections for"
@@ -76,7 +76,7 @@ msgid ""
 msgstr ""
 
 #: ../../governance/community_architecture.md:25
-#: 71e287910b794f2aaec88a8749e0abfc
+#: 08eac75cc61a4166aa1f27d508e4e1eb
 msgid ""
 "The Recurrent Contributor position will often be an intermediate step for "
 "people in becoming Core Contributors once their contributions are frequent "
@@ -87,7 +87,7 @@ msgid ""
 msgstr ""
 
 #: ../../governance/community_architecture.md:33
-#: f3d5ba06fc284c50a527a0f655419e87
+#: 39d1c7e36e3b4d6a9ce02ad998caa691
 msgid ""
 "The process for new people to join the project as recurrent contributors is "
 "described at {ref}`contributor_onboarding`. Recurrent or core contributors "
@@ -95,24 +95,24 @@ msgid ""
 msgstr ""
 
 #: ../../governance/community_architecture.md:37
-#: 2cd5eb220b924bb2af0ee5f7a90120c9
+#: 6152ed63b25c45edb3d6aa9a01b5a8b0
 msgid "Current Recurrent Contributors"
 msgstr ""
 
 #: ../../governance/community_architecture.md:38
-#: bf34661b7a184da3952f6108127fe004
+#: ae521758f29443b9910da2d68c5b8278
 msgid ""
 "Current recurrent contributors are listed {ref}`on this page "
 "<recurrent_contributor_list>`"
 msgstr ""
 
 #: ../../governance/community_architecture.md:41
-#: 17f67d690740491a87345157eb4ec039
+#: 24d6cc587c2d434b870993080ec6255a
 msgid "Core Contributors"
 msgstr ""
 
 #: ../../governance/community_architecture.md:42
-#: b33b2eb228404c208a697d00147c605b
+#: 540fa2453c294185a79c8c89a8467f09
 msgid ""
 "Core Contributors are those who have provided consistent and meaningful "
 "contributions to ArviZ. These can be, but are not limited to, code "
@@ -124,7 +124,7 @@ msgid ""
 msgstr ""
 
 #: ../../governance/community_architecture.md:48
-#: 5435556f2b404c1ab2f8dd085f6e73ed
+#: 6c5ae28b97de4e668e4d8261e6037993
 msgid ""
 "The process for new people to join the project as core contributors is "
 "described at {ref}`contributor_onboarding`. Only recurrent contributors are "
@@ -133,39 +133,39 @@ msgid ""
 msgstr ""
 
 #: ../../governance/community_architecture.md:53
-#: 2761ed18f3b543709234b128725475a2
+#: 7a2233e52c7d420f8b0c34fd98a8087f
 msgid "Core Contributor Responsibilities"
 msgstr ""
 
 #: ../../governance/community_architecture.md:54
-#: 08625203dc054badaabe373a8636f263
+#: 0063026d44f5429cac5a7b5e4982f4d2
 msgid "Enforce code of conduct"
 msgstr ""
 
 #: ../../governance/community_architecture.md:55
-#: 3494afa896004ee7a2ee5f7f2d521315
+#: a6a19113bda042ff91dd247db06b500c
 msgid "Maintain a check against Council"
 msgstr ""
 
 #: ../../governance/community_architecture.md:57
-#: 584284c178ed4fd8ab6d21e80ff30626
+#: c58d5f55e038464eb9a51397bb36f8ae
 msgid "Current Core Contributors"
 msgstr ""
 
 #: ../../governance/community_architecture.md:58
-#: 3fdec0b7241a48668f6a78f357294285
+#: e69f675b8b304174a5fa0355cd5d09c8
 msgid ""
 "Current core contributors are listed {ref}`on this page "
 "<core_contributor_list>`"
 msgstr ""
 
 #: ../../governance/community_architecture.md:61
-#: 29e9d20d56a440bea1cb07ed219bc605
+#: a63424ea77de4da29ac9c372451988ad
 msgid "Random Variables Council"
 msgstr ""
 
 #: ../../governance/community_architecture.md:62
-#: 88859f3b3ad14921972f02e8f01d77ce
+#: be6e451a6da340fabb4fe3621dde71bb
 msgid ""
 "The Project will have a Steering Council that consists of Core Contributors "
 "who have produced contributions that are substantial in quality and "
@@ -175,7 +175,7 @@ msgid ""
 msgstr ""
 
 #: ../../governance/community_architecture.md:68
-#: 7763065f508b478bbb74e99b5008778c
+#: 30d321803d8c47029508a6756496dd9e
 msgid ""
 "During the everyday project activities, council members participate in all "
 "discussions, code review and other project activities as peers with all "
@@ -189,24 +189,24 @@ msgid ""
 msgstr ""
 
 #: ../../governance/community_architecture.md:77
-#: b6f0d3830e1c4277aab7635a56dfeef8
+#: eed971f37f1a4b8e90b12905e817d466
 msgid "Council Responsibilities"
 msgstr ""
 
 #: ../../governance/community_architecture.md:78
-#: 037228332a7b41f1b19a1d26fe873103
+#: c437a8addf7c4b59844a03e607157890
 msgid "Council Members will have the responsibility of"
 msgstr ""
 
 #: ../../governance/community_architecture.md:79
-#: 9d55ceabd57343ab9f974ce3d9c3b9eb
+#: 8a08530f6a69464680b34431dd9f5693
 msgid ""
 "Removing members, including Council Members, if they are in violation of the"
 " Code of Conduct"
 msgstr ""
 
 #: ../../governance/community_architecture.md:80
-#: 8694bc9fe2dc472c9957b4b7d90a2b4d
+#: 2546cff395cb41358ca70c2176d3dada
 msgid ""
 "Making decisions when regular community discussion does not produce "
 "consensus on an issue in a reasonable time frame. See "
@@ -214,40 +214,40 @@ msgid ""
 msgstr ""
 
 #: ../../governance/community_architecture.md:82
-#: caa40f7bc99b48fda5926deca255b0d7
+#: cb1357698e0b4d6ca1150e8135d71106
 msgid ""
 "Making decisions about strategic collaborations with other organizations or "
 "individuals."
 msgstr ""
 
 #: ../../governance/community_architecture.md:83
-#: 6edc25681ef748a9821ad44484957622
+#: 48ce483d1a35437db54c6395f5e32b81
 msgid ""
 "Making decisions about the overall scope, vision and direction of the "
 "project."
 msgstr ""
 
 #: ../../governance/community_architecture.md:84
-#: 51888b89665a4088ae252d75b5c96f99
+#: ea356af07f10464f89b7bde260d45670
 msgid "Developing funding sources"
 msgstr ""
 
 #: ../../governance/community_architecture.md:85
-#: a903b010ee2745e7b0c3a9317d6f3e9b
+#: 9ce2bd6bb2104de1ab2aa5fe4b413171
 msgid ""
 "Deciding how to disburse funds with consultation from Core Contributors"
 msgstr ""
 
 #: ../../governance/community_architecture.md:87
-#: 9306863fe15d4433b3179d521af6442d
+#: df1409e2e75d422db6c860a7abfbdcf7
 msgid ""
 "The council may choose to delegate these responsibilities to sub-committees."
 " If so, Council members must update this document to make the delegation "
 "clear."
 msgstr ""
 
-#: ../../governance/community_architecture.md:1
-#: abca8788b763458d9f701b55f64c37ef
+#: ../../governance/community_architecture.md:90
+#: 8f8f9625af2143dc8a1df8dcbb20defb
 msgid ""
 "Individual council members do not have the power to unilaterally wield these"
 " responsibilities. The council as a whole must jointly make these decisions."
@@ -257,40 +257,40 @@ msgid ""
 msgstr ""
 
 #: ../../governance/community_architecture.md:96
-#: 3282e37abf704fe8896f4694d6211287
+#: 3699e982e5a94127bb01d4ba6c05d4f8
 msgid "Length of Tenure and Reverification"
 msgstr ""
 
 #: ../../governance/community_architecture.md:97
-#: 4890afb1ada346eb8ff1a9a4eb2cb9ba
+#: c90696d03bd948e692bf7174c04ee6bb
 msgid ""
 "Council members term limits are 4 years, after which point their seat will "
 "come up for reelection."
 msgstr ""
 
 #: ../../governance/community_architecture.md:98
-#: 3ca148e3000b4e22975211a4fea78be1
+#: 0dfdd388e4bd400999ba54c7bfa97c3c
 msgid ""
 "Each year on April 7th council members will be asked to restate their "
 "commitment to being on the council"
 msgstr ""
 
 #: ../../governance/community_architecture.md:99
-#: ac8e7d24027142adbef120f91f8eeaf5
+#: b252859323a2489a8acd13bcf06b32a5
 msgid ""
 "Attempts should be made to reach every council member over at least 2 "
 "communication media. For example: email, Slack, phone, or GitHub."
 msgstr ""
 
 #: ../../governance/community_architecture.md:100
-#: 4c1872e872ed43d58bd573247ce39f31
+#: 28c74bf37c9e4ede947cb9384869c946
 msgid ""
 "If a council member does not restate their commitment their seat will be "
 "vacated."
 msgstr ""
 
 #: ../../governance/community_architecture.md:101
-#: 1a89bf7002804940854691ac7c66e14e
+#: 2efd224b179d494dbd5cc8cabf86fec3
 msgid ""
 "Inactivity can be determined by lack of substantial contribution, including "
 "votes on council, code or discussion contributions, contributions in the "
@@ -298,58 +298,58 @@ msgid ""
 msgstr ""
 
 #: ../../governance/community_architecture.md:102
-#: 8471b345fdc5481390a452490d6c00d6
+#: 98c51e3e19ed4905a43e6792a22dfef7
 msgid ""
 "In the event of a vacancy in the council, an {ref}`election "
 "<council_selection>` will be held to fill the position."
 msgstr ""
 
 #: ../../governance/community_architecture.md:103
-#: c1a4f498d923464d8c706630bb6101bd
+#: 6a6e7676f9454596b44610cf5a0721ba
 msgid "There is no limit on the number of terms a Council Member can serve"
 msgstr ""
 
 #: ../../governance/community_architecture.md:106
-#: 21c73194938f499a96ae61bb1b2635f7
+#: 806158e2562f46fc95c252bc25a1dc61
 msgid "Current Random Variables Council members"
 msgstr ""
 
 #: ../../governance/community_architecture.md:107
-#: d11c1c93fed3441688839052d1344805
+#: 976fe20157d740df8fabc608aea7b6aa
 msgid "The current RV Council members are:"
 msgstr ""
 
 #: ../../governance/community_architecture.md:109
-#: 12005921d0224e7082806c8c2094fd8d
+#: bf054b804811416c9d61846700562d94
 msgid "Oriol Abril-Pla (@OriolAbril)"
 msgstr ""
 
 #: ../../governance/community_architecture.md:110
-#: e67a430f795f4929a63f2fae6940b1c8
+#: 6f7a9811c4a94d17b55e487efbeb58be
 msgid "Alex Andorra (@AlexAndorra)"
 msgstr ""
 
 #: ../../governance/community_architecture.md:111
-#: de048b7d8acb45858559f7d781d1d8ae
+#: 2d349493c82e4963a15c71b08b064dd8
 msgid "Seth Axen (@sethaxen)"
 msgstr ""
 
 #: ../../governance/community_architecture.md:112
-#: 872c448e0f5448ccbf3762062ccf30b9
+#: ccfca87890d24c85b4bf3e52bb0bb479
 msgid "Colin Carroll (@ColCarroll)"
 msgstr ""
 
 #: ../../governance/community_architecture.md:113
-#: d72a2d76b355485080c297297ebd0e5c
+#: 4755a216e4c445c6b554dc4bb8545594
 msgid "Ari Hartikainen (@ahartikainen)"
 msgstr ""
 
 #: ../../governance/community_architecture.md:114
-#: 1c1f43f74e754921b3e9ffccc77003a7
+#: af287ad678c84176b24c7c79775fb844
 msgid "Ravin Kumar (@canyon289)"
 msgstr ""
 
 #: ../../governance/community_architecture.md:115
-#: ff2e4430815844e0accc9bb7cf88b056
+#: 50cf24bf86b14e81ba7f610cf5192e1c
 msgid "Osvaldo Martin (@aloctavodia)"
 msgstr ""

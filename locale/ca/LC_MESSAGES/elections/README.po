@@ -8,19 +8,19 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ArviZ project\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-10 09:34+0300\n"
+"POT-Creation-Date: 2022-12-19 03:10+0100\n"
 "PO-Revision-Date: 2022-04-10 07:09+0000\n"
-"Language-Team: Catalan (https://www.transifex.com/arviz/teams/135191/ca/)\n"
+"Language-Team: Catalan (https://app.transifex.com/arviz/teams/135191/ca/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ca\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../../elections/README.md:1 470a357a89f349a687d1fd95aa9333ad
+#: ../../elections/README.md:1 fd4acbd6df6a4b5b8270fe5ca198846a
 msgid "Elections"
 msgstr ""
 
-#: ../../elections/README.md:2 7736406952414d029ae922e58dda0935
+#: ../../elections/README.md:2 75e4a1d01caa4abc87373364f3e573f0
 msgid "Historical log of ArviZ elections."
 msgstr ""

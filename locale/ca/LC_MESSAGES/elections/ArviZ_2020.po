@@ -8,168 +8,168 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ArviZ project\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-10 09:34+0300\n"
+"POT-Creation-Date: 2022-12-19 03:10+0100\n"
 "PO-Revision-Date: 2022-04-10 07:09+0000\n"
-"Language-Team: Catalan (https://www.transifex.com/arviz/teams/135191/ca/)\n"
+"Language-Team: Catalan (https://app.transifex.com/arviz/teams/135191/ca/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ca\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../../elections/ArviZ_2020.md:1 d7ce9b8c829b470fa8e4a826bfe3681f
+#: ../../elections/ArviZ_2020.md:1 4d0baa3266504ea291e6aff9fd50862c
 msgid "Election 2020"
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:3 38c44726dac14bcf8225d3308e5787ac
+#: ../../elections/ArviZ_2020.md:3 febc8afa32364228b354c8372ace656b
 msgid "Summary of Process"
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:4 4901ddde66194c1f964421f326ba0d21
+#: ../../elections/ArviZ_2020.md:4 1f357d5e11254603828348903560468d
 msgid ""
 "This is the first election cycle for ArviZ. During this cycle we are aiming "
 "for the following outcomes"
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:7 774fef7ccd7f454a9bfaa63ba7cfe8ea
+#: ../../elections/ArviZ_2020.md:7 b73d177c43b94f3881923361dee75f1e
 msgid "Ratification of GOVERNANCE.md"
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:8 23568ca84ba14cb4b40afb02250bb8fe
+#: ../../elections/ArviZ_2020.md:8 df7c58b90dc4483da9b5f9acc7467517
 msgid "Identification and listing of Core Contributors"
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:9 51327700a9874f6f94432f6da8337956
+#: ../../elections/ArviZ_2020.md:9 ec1b64ffe2ad42ec84101cc94785d909
 msgid "Nominations for Council Candidates"
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:10 5a5d443414cf429ea473d271097df64f
+#: ../../elections/ArviZ_2020.md:10 84854cbda90b490f85edf3c3cb55df8c
 msgid "Council Elections. Particularly"
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:11 dbbaedbec7d641d894531a8232abea52
+#: ../../elections/ArviZ_2020.md:11 d67c0153782f4aeb9e485acf2ad3d4c1
 msgid "Size of Council"
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:12 7e747c067bcf418fbb8c1a8af20f0c5a
+#: ../../elections/ArviZ_2020.md:12 72b58e3b5bdb4e68a23859e804a9a8df
 msgid "Inaugural ArviZ Council"
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:14 3e18ca68d349411c8d152b3ec05358b2
+#: ../../elections/ArviZ_2020.md:14 86e62f8edcbd48ae82a087f279093e43
 msgid ""
 "This being the first election means that the process will have more steps "
 "than the ones listed in GOVERNANCE.md."
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:17 54ecd0db13f742b0b2889cafe3341e36
+#: ../../elections/ArviZ_2020.md:17 f43e59aea5344edd9338117ebac57323
 msgid ""
 "The moderators for these tasks live in the PST and CST timezone so the dates"
 " are reflective of their localities."
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:19 ec4b83acb0184b21aaece179a3141ba3
+#: ../../elections/ArviZ_2020.md:19 9b9bca878acb447daac6cf09fba60a49
 msgid "Process Details"
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:20 e837ade6d3ea4cebb2c64f7267e282e2
+#: ../../elections/ArviZ_2020.md:20 6b209bff495d41c88184cf4f1f84703e
 msgid "Identification of Core Contributors (June 7th)"
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:21 4d62f9f79f67486db9ff479540ab59cb
+#: ../../elections/ArviZ_2020.md:21 145fdec6700c4ef18b97015a3087af26
 msgid ""
 "A Google Form will be shared over Slack to get core contributor names, "
 "emails, and optionally Github username."
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:22 1883cb6b921240caad5333d119b6e80f
+#: ../../elections/ArviZ_2020.md:22 40e3a557786b491486e83cb2822bc23e
 msgid ""
 "Emails are needed for Elections steps so NumFOCUS can mail and track votes"
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:23 33fa592e3efe49f495b2ea2fb0325ea9
+#: ../../elections/ArviZ_2020.md:23 d6813252caf14344ac687ab8b364030a
 msgid "The Google Form is moderated by Ravin (@canyon289)"
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:24 242c02031e1644d0b28b3ccceb1ae61c
+#: ../../elections/ArviZ_2020.md:24 09a5a61a15854f23995944fd601955fa
 msgid ""
 "Ravin will open a Pull Request with all names and update the PR periodically"
 " until June 12th 8pm PST, which is also the cutoff time for the form."
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:25 ebeb3921e8d24ddb9427561baa7efa33
+#: ../../elections/ArviZ_2020.md:25 43876c867ed34071be161a9026576346
 msgid ""
 "On June 12th 8pm PST Ravin will make the form's responses public as well, "
 "with exception of email"
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:26 8d399a69917e4439a3a200e978ba4b40
+#: ../../elections/ArviZ_2020.md:26 6f1e267af0024a55ba898502b3277a0a
 msgid ""
 "The pull request will stay open 24 hours at a minimum. If there is no "
 "dissent the pull request will be merged. If there is discussion the timeline"
 " below will be shifted."
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:28 9b7af5dca508464e85f8ade88b467c86
+#: ../../elections/ArviZ_2020.md:28 36b5c4bfd8e245358f83099d60f2be3d
 msgid ""
 "Note: This is a one time process for identifying core contributors. After "
 "this cycle the core contributor acceptance process will performed by the "
 "ArviZ Council once elected"
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:30 3d5ef1c034aa472e8400e1e8fb957791
+#: ../../elections/ArviZ_2020.md:30 16b74849473f4100b06fa25ee548c36b
 msgid "Nominations for Council (June 14th)"
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:31 3137dbbebc154db88fcff1126ccb913c
+#: ../../elections/ArviZ_2020.md:31 506e3d57174942c69e09964e618a18bb
 msgid ""
 "A github issue labeled *Arviz 2020 Council Elections* will be opened for "
 "nominations"
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:32 5f243a80b0384c80a792c357f910b5d6
+#: ../../elections/ArviZ_2020.md:32 5237272302224d05be9728f000836935
 msgid "Core contributors can nominate themselves or other core contributors."
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:33 7cea43bdb2504eff8d5055c586def104
+#: ../../elections/ArviZ_2020.md:33 044371acd3a94fd38b250a306d587b03
 msgid ""
 "Core Contributor must accept acknowledgement with thumbs up on nomination"
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:34 efc071de9e9f499b8e23e8faf24708a7
+#: ../../elections/ArviZ_2020.md:34 eb13f21685fa4c7ab2378abfebfb0fa1
 msgid ""
 "Without an acknowledgement, they will not be a candidate in the election."
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:35 4ea2f234b4514281a659ba8727b59d5a
+#: ../../elections/ArviZ_2020.md:35 c56eaf0b5e2a410482d41f36769ab00e
 msgid ""
 "A nomination can be explicitly declined as well in a comment, if that "
 "individual feels they will not be able to serve as a Council Member for any "
 "reason."
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:37 57fbc4a941804d3f90a48d47f50ce9bb
+#: ../../elections/ArviZ_2020.md:37 f13382164ced46f29c88ff5a11027d3b
 msgid ""
 "Nominations end at June 20th anywhere on Earth. On June 21st nominations "
 "will be compiled in the last comment and the issue will be closed."
 msgstr ""
 
 #: ../../elections/ArviZ_2020.md:39 ../../elections/ArviZ_2020.md:56
-#: ../../elections/ArviZ_2020.md:78 24f861a159144d19b2d9baa4a04eb217
-#: a6923cf79659439eb104516a83b0c844 da49283525a14d34848912326e817f76
+#: ../../elections/ArviZ_2020.md:78 200558dfc66c445d8b838e497e9d5c17
+#: 5194a5e76e9a442d9f3a28a0d5d5e91a 1c77859650074c82870ec4422e35dc61
 msgid "Historical Record"
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:40 3b247b4d8e9647b6878d49e8031980a9
+#: ../../elections/ArviZ_2020.md:40 8f6f65c22d6e4a0386be97a8ef42ba2e
 msgid ""
 "Nominations were completed on June 21st (PST). Conversation is tracked in "
 "issue ticket. https://github.com/arviz-devs/arviz/issues/1243"
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:44 a4bbb64795ec406bb919b48b7e2f78ad
+#: ../../elections/ArviZ_2020.md:44 7a3dd0b37ee4471f9a167353db80d5c2
 msgid "First Round Election for Council and Council size (Week of June 21)"
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:45 067b3623df4f4324936f4fc1082a629f
+#: ../../elections/ArviZ_2020.md:45 907ddee75f7545fa9f44e5e966b0ac8a
 msgid ""
 "The first election will be for council and council size. Election "
 "{ref}`initial voting <initial_voting_election>` will take place over a "
@@ -177,37 +177,37 @@ msgid ""
 "with `GOVERNANCE.md`"
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:48 30586873c395457ab0eeb6989b5600ae
+#: ../../elections/ArviZ_2020.md:48 997f0f0f59a04034867e9f966770a8d4
 msgid ""
 "The election period will be exactly 7 days from when NumFOCUS email "
 "timestamp for the Google Form."
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:50 ef4083ad4a0d400a8c8793156d14259f
+#: ../../elections/ArviZ_2020.md:50 637bbae9c24247a2a9b1f24278b2c120
 msgid "NumFOCUS will email all registered voters a ballot for a vote on"
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:51 e41be1be4c494b0bbc041d1d01f0a6d9
+#: ../../elections/ArviZ_2020.md:51 e27d5cb29e57443983dd85c25154c317
 msgid "Council Size"
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:52 a07c75735ed64aa38d18e13d34a3aaed
+#: ../../elections/ArviZ_2020.md:52 5043cd3160014efdb91311d94b39e1fb
 msgid "Council Members"
 msgstr ""
 
 #: ../../elections/ArviZ_2020.md:53 ../../elections/ArviZ_2020.md:75
-#: 27f3e9c516154a06abe34b99a1275bc3 b1d8343c44dc42d3943a9bee8232c310
+#: 7ea76f1acb7f444e8cb9edbdfdb065e2 ed7e77edb7fd42f985d5ccdaab326132
 msgid ""
 "At conclusion of election period NumFOCUS will remove the voters identifying"
 " information and share the results (most likely in Google Sheets)"
 msgstr ""
 
 #: ../../elections/ArviZ_2020.md:54 ../../elections/ArviZ_2020.md:76
-#: 511a0048a2f24f28b00be6342413b3ec a1f825e46a854f68be08e75b17515ff8
+#: ec05698dc2dd4b678a228bf58929fda9 0417e0d912ad402c896fe605ee0de820
 msgid "A table of results will be added to this document"
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:57 8cf60c1491c641c5a910297b1752eb4e
+#: ../../elections/ArviZ_2020.md:57 b1227cb54f934aaf8a8f41a559c4cce3
 msgid ""
 "Call for election took place in this [issue "
 "ticket](https://github.com/arviz-devs/arviz/issues/1260) NumFOCUS mediated "
@@ -216,45 +216,45 @@ msgid ""
 "proof is attached in issue ticket linked above."
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:60 ec337ab96c6a4c49b843998081b95bda
+#: ../../elections/ArviZ_2020.md:60 ba202923fd5349c3aeb43c7305064c89
 msgid ""
 "The outcome of the election was a vote for a 7 Person Council, comprised of "
 "the following core contributors:"
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:61 3b6533adc723478e9f7fcb5793b901f1
+#: ../../elections/ArviZ_2020.md:61 6c99be8da4c04bddb5f8b39ff8480dd8
 msgid "@OriolAbril"
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:62 f3ad146674e24b6d831f9bfc13d7beb4
+#: ../../elections/ArviZ_2020.md:62 468b2e4287d048db993419002d8d9fd5
 msgid "@aloctavodia"
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:63 f05be197914943408287627c06d546e1
+#: ../../elections/ArviZ_2020.md:63 0c62954cf67c487c96b9470fe809f3e3
 msgid "@ColCarroll"
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:64 014a4533515446d2ac58670d3fda140e
+#: ../../elections/ArviZ_2020.md:64 1069c496f69243f0b7f641b168fbfebf
 msgid "@ahartikainen"
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:65 fc9c0ae13bc141259377ac09a6372b05
+#: ../../elections/ArviZ_2020.md:65 53f76892448747679959bdf7d66e3cc7
 msgid "@sethaxen"
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:66 b533a6fecacd48048e0209a3319234f3
+#: ../../elections/ArviZ_2020.md:66 cb2fbde6600f4ee387c53bbcadd6ab96
 msgid "@AlexAndorra"
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:67 707f460ecb3f4fab9c5780b082a9bb74
+#: ../../elections/ArviZ_2020.md:67 44e4fb0cb2e34ebab16b3bdf09e15306
 msgid "@canyon289"
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:69 21086c61478b45c88657fbd62028ce6a
+#: ../../elections/ArviZ_2020.md:69 c99ae48562a9411d867a710238dccf6e
 msgid "Tie Votes (1 week)"
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:70 4ff9643930db446f9ec8a16615f02f14
+#: ../../elections/ArviZ_2020.md:70 56acbc783b144691a47804c2169cc201
 msgid ""
 "In the event of a tie there will be a {ref}`run-off election "
 "<run_off_election>`. The specific timing will depend on the results of the "
@@ -262,12 +262,12 @@ msgid ""
 "with `GOVERNANCE.md`"
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:74 66ad4199b8914f058a45382886143551
+#: ../../elections/ArviZ_2020.md:74 403bbc7793ee4b5c81218847d4e9fd95
 msgid ""
 "NumFOCUS will email all registered voters a ballot for a vote on tied "
 "candidates"
 msgstr ""
 
-#: ../../elections/ArviZ_2020.md:79 dc09defdb42a423aa6a8067566f04bfb
+#: ../../elections/ArviZ_2020.md:79 1c0eae36aacb401fa723f6170c4c7558
 msgid "A tied election was not needed. The primary election was decisive."
 msgstr ""

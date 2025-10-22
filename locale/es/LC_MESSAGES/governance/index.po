@@ -4,7 +4,8 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Osvaldo Martin, 2022
+# Osvaldo A Martin, 2022
+# Tomás Capretto, 2025
 # 
 #, fuzzy
 msgid ""
@@ -13,8 +14,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-19 03:10+0100\n"
 "PO-Revision-Date: 2022-04-10 07:09+0000\n"
-"Last-Translator: Osvaldo Martin, 2022\n"
-"Language-Team: Spanish (https://www.transifex.com/arviz/teams/135191/es/)\n"
+"Last-Translator: Tomás Capretto, 2025\n"
+"Language-Team: Spanish (https://app.transifex.com/arviz/teams/135191/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -52,6 +53,28 @@ msgid ""
 "discussions on GitHub, Slack, and Gitter chat rooms. The foundation of "
 "Project participation is openness and transparency."
 msgstr ""
+"El Proyecto ArviZ (el Proyecto) es un proyecto de software de código abierto"
+" afiliado a la fundación NumFOCUS, una organización sin fines de lucro "
+"501(c)(3). El objetivo del Proyecto es desarrollar software de código "
+"abierto y ofrecer sitios web y servicios abiertos y públicos para la "
+"computación reproducible, exploratoria e interactiva. El software "
+"desarrollado por el Proyecto se publica bajo licencias de código abierto "
+"aprobadas por la Open Source Initiative (OSI), se desarrolla de manera "
+"abierta y se aloja en repositorios públicos de GitHub dentro de la "
+"[organización arviz-devs](https://github.com/arviz-devs). Ejemplos de "
+"software del Proyecto incluyen el código de las dos bibliotecas de ArviZ y "
+"su documentación, entre otros. Los Servicios administrados por el Proyecto "
+"consisten en sitios web y servicios en línea públicos alojados en "
+"https://www.arviz.org/. El Proyecto es desarrollado por un equipo "
+"distribuido de desarrolladores, llamados Colaboradores. Los Colaboradores "
+"son personas que han contribuido con código, documentación, diseños u otros "
+"aportes a uno o más repositorios del Proyecto. Cualquier persona puede ser "
+"un Colaborador. Los colaboradores pueden estar afiliados o no a una entidad "
+"legal. La participación en el Proyecto se realiza mediante el envío, "
+"revisión y discusión de Pull Requests e Issues en GitHub, así como a través "
+"de debates abiertos y públicos en GitHub, Slack y salas de chat de Gitter. "
+"La base de la participación en el Proyecto es la apertura y la "
+"transparencia."
 
 #: ../../governance/index.md:26 232bd5acb6db4f4d93c58ff1af982d94
 msgid ""
@@ -59,6 +82,9 @@ msgid ""
 "listed in the logs of any of the repositories under the ArviZ-devs "
 "organization."
 msgstr ""
+"Han habido muchos colaboradores al Proyecto, cuyas contribuciones figuran en"
+" los registros de cualquiera de los repositorios de la organización ArviZ-"
+"devs."
 
 #: ../../governance/index.md:29 964e0be00c954204a0c8eb72df8f5307
 msgid ""
@@ -67,6 +93,10 @@ msgid ""
 "Community and we strive to keep the barrier between Contributors and Users "
 "as low as possible."
 msgstr ""
+"La Comunidad del Proyecto está compuesta por todos los Colaboradores y "
+"Usuarios del Proyecto. Los Colaboradores trabajan en nombre de la Comunidad "
+"del Proyecto y son responsables ante ella, y nos esforzamos por mantener la "
+"barrera entre Colaboradores y Usuarios lo más baja posible."
 
 #: ../../governance/index.md:34 b57abc61a30a4e458e4febdcf95cf660
 msgid ""
@@ -74,31 +104,35 @@ msgid ""
 "([http://numfocus.org](http://numfocus.org)),  NumFOCUS is the only legal "
 "entity that has a formal relationship with the project."
 msgstr ""
+"El Proyecto está afiliado formalmente a la Fundación NumFOCUS 501c3 "
+"([http://numfocus.org](http://numfocus.org)), NumFOCUS es la única entidad "
+"legal que tiene una relación formal con el proyecto."
 
 #: ../../governance/index.md:39 d3ffde04f994449e9ff456faba07db81
 msgid "The foundations of Project governance are:"
-msgstr ""
+msgstr "Los fundamentos de la gobernanza del Proyecto son:"
 
 #: ../../governance/index.md:41 9635a283a0ba48bc92ebfd83ad959804
 msgid "Openness & Transparency"
-msgstr ""
+msgstr "Apertura y Transparencia"
 
 #: ../../governance/index.md:42 4ebc419c083d413e89fd5308a17aaed1
 msgid "Active Contribution"
-msgstr ""
+msgstr "Contribución Activa"
 
 #: ../../governance/index.md:43 2d89e3d07ba0451c9af72df94dd9c8bb
 msgid "Institutional Neutrality"
-msgstr ""
+msgstr "Neutralidad Institucional"
 
 #: ../../governance/index.md:45 1c790720ee434640b445179e8a2d31bc
 msgid ""
 "This section describes the governance and leadership model of The Project."
 msgstr ""
+"Esta sección describe el modelo de gobernanza y liderazgo del Proyecto."
 
 #: ../../governance/index.md:56 226ac138eb5f470ea9d34b6ceb61c3cc
 msgid "Historical note"
-msgstr ""
+msgstr "Nota histórica"
 
 #: ../../governance/index.md:57 5d2596ed659a4da69caf1fc768c64701
 msgid ""
@@ -108,6 +142,13 @@ msgid ""
 "repositories. In general all Project decisions are made through consensus "
 "among the Core Contributors with input from the Community."
 msgstr ""
+"Tradicionalmente, el liderazgo del Proyecto no estaba estructurado, sino que"
+" estaba impulsado principalmente por un subconjunto de Colaboradores "
+"Principales, cuyas contribuciones activas y constantes se han reconocido al "
+"recibir permisos de confirmación (commit rights) en los repositorios de "
+"GitHub del proyecto. En general, todas las decisiones del proyecto se toman "
+"por consenso entre los Colaboradores Principales, con la participación de la"
+" Comunidad."
 
 #: ../../governance/index.md:63 24f4364b404047ca8e618be7bc54c312
 msgid ""
@@ -118,3 +159,10 @@ msgid ""
 "governance model as the formalization of what we are already doing, rather "
 "than a change in direction."
 msgstr ""
+"Si bien este enfoque nos ha resultado útil, a medida que el Proyecto crece y"
+" enfrenta más decisiones legales y financieras, e interactúa con otras "
+"instituciones, vemos la necesidad de un modelo de gobernanza más formal. De "
+"cara al futuro, el liderazgo del Proyecto estará compuesto por el Consejo "
+"Random Variables. Consideramos este modelo de gobernanza como la "
+"formalización de lo que ya estamos haciendo, más que como un cambio de "
+"rumbo."

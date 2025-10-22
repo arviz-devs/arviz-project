@@ -3,14 +3,18 @@
 # This file is distributed under the same license as the ArviZ project package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Tomás Capretto, 2025
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: ArviZ project\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-10 09:34+0300\n"
+"POT-Creation-Date: 2022-12-19 03:10+0100\n"
 "PO-Revision-Date: 2022-04-10 07:09+0000\n"
-"Language-Team: Spanish (https://www.transifex.com/arviz/teams/135191/es/)\n"
+"Last-Translator: Tomás Capretto, 2025\n"
+"Language-Team: Spanish (https://app.transifex.com/arviz/teams/135191/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -18,47 +22,52 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../governance/community_architecture.md:2
-#: e8fa7bc743954c3196b01e20557c9f42
+#: b69152704d884c32b824306cd8359b80
 msgid "Community Architecture"
-msgstr ""
+msgstr "Estructura de la Comunidad"
 
 #: ../../governance/community_architecture.md:4
-#: 4084d0a3f5324ae39c9d38928ffbeac7
+#: a9a7b47419874f89a2179ae021c341e4
 msgid "General Contributors"
-msgstr ""
+msgstr "Colaboradores Generales"
 
 #: ../../governance/community_architecture.md:5
-#: c2173978d062437083fe61e9d67e9473
+#: 450e4f3d84264c6d8841a38ed967b69d
 msgid "{ref}`recurrent_contributor_description`"
-msgstr ""
+msgstr "{ref}`recurrent_contributor_description`"
 
 #: ../../governance/community_architecture.md:6
-#: 0383d7eac60d429795faf1d1a51c327a
+#: 47c2643d635146ae84671435acc27d4b
 msgid ""
 "{ref}`core_contributor_description` (of which Council members are also a "
 "part of)"
 msgstr ""
+"{ref}`core_contributor_description` (del cual también forman parte los "
+"miembros del Consejo)"
 
 #: ../../governance/community_architecture.md:7
-#: a80d2e4946db4d5385d4921178812d0e
+#: 95600366cab745a6b7164a1f73f944e0
 msgid "7 Person steering council ({ref}`council_description`)"
-msgstr ""
+msgstr "Consejo directivo de 7 integrantes ({ref}`council_description`)"
 
 #: ../../governance/community_architecture.md:9
-#: 7d39d87e27e742e0963d2d0920d9319f
+#: 0c730b53117e459ab47ba1b1666bfd2e
 msgid ""
 "Anyone working with ArviZ has the responsibility to personally uphold the "
 "Code of Conduct. Core Contributors have the additional responsibility of "
 "_enforcing_ the Code of Conduct to maintain a safe community."
 msgstr ""
+"Todas las personas que trabajen con ArviZ deben cumplir con el Código de "
+"Conducta. Los Colaboradores Principales tienen la responsabilidad adicional "
+"de _hacerlo cumplir_ para mantener una comunidad segura."
 
 #: ../../governance/community_architecture.md:14
-#: c873621b6a904c7491e9730cdfe98a34
+#: 2575e584948b4afe85975699084126dd
 msgid "Recurrent Contributors"
-msgstr ""
+msgstr "Colaboradores Recurrentes"
 
 #: ../../governance/community_architecture.md:15
-#: 469eff1bd0634bf18929ba15a11a2e87
+#: 2f118acba94348a7b749fb82fc6e77d2
 msgid ""
 "Recurrent Contributors are those individuals who contribute recurrently to "
 "the project and can provide valuable insight on the project. They are "
@@ -66,17 +75,27 @@ msgid ""
 "channels as Core Contributors. However, unlike Core Contributors, Recurrent "
 "Contributors don't have voting, managing or writing rights."
 msgstr ""
+"Los Colaboradores Recurrentes son aquellas personas que contribuyen al "
+"proyecto de manera recurrente y pueden aportar una perspectiva valiosa sobre"
+" el mismo. Por lo tanto, son consultados activamente y pueden participar en "
+"los mismos medios de comunicación que los Colaboradores Principales. Sin "
+"embargo, a diferencia de los Colaboradores Principales, los Colaboradores "
+"Recurrentes no tienen derecho a votar, gestionar o escribir en esos medios."
 
 #: ../../governance/community_architecture.md:21
-#: c8c124c4450f466f89aec84e314d4d56
+#: a0f244bcc6ce44d9b37850ac0a2ccee7
 msgid ""
 "In practice, this translates in participating from private team discussions "
 "(i.e. in Slack or live meetings) but not being able to vote in elections for"
 " the Random Variables Council members nor having commit rights on GitHub."
 msgstr ""
+"En la práctica, esto se refleja en la capacidad de participar en discusiones"
+" privadas (es decir, en Slack o reuniones en vivo), pero sin poder votar en "
+"las elecciones del Consejo Random Variables ni tener derechos de hacer "
+"_commit_ en GitHub."
 
 #: ../../governance/community_architecture.md:25
-#: 71e287910b794f2aaec88a8749e0abfc
+#: 08eac75cc61a4166aa1f27d508e4e1eb
 msgid ""
 "The Recurrent Contributor position will often be an intermediate step for "
 "people in becoming Core Contributors once their contributions are frequent "
@@ -85,34 +104,47 @@ msgid ""
 "advisory-like role, as they for example might not have the time availability"
 " or don't want the responsibilities that come with being a Core Contributor."
 msgstr ""
+"La posición de Colaborador Recurrente suele ser un paso intermedio para que "
+"las personas se conviertan en Colaboradores Principales, una vez que sus "
+"contribuciones son lo suficientemente frecuentes y durante un período de "
+"tiempo prolongado. Pero también es una posición importante en sí misma para "
+"las personas que quieren formar parte del proyecto en una función más "
+"consultiva, ya que, por ejemplo, pueden no disponer de tiempo o no querer "
+"asumir las responsabilidades que conlleva ser Colaborador Principal."
 
 #: ../../governance/community_architecture.md:33
-#: f3d5ba06fc284c50a527a0f655419e87
+#: 39d1c7e36e3b4d6a9ce02ad998caa691
 msgid ""
 "The process for new people to join the project as recurrent contributors is "
 "described at {ref}`contributor_onboarding`. Recurrent or core contributors "
 "can nominate anyone to join the project as a recurrent contributor."
 msgstr ""
+"El proceso para que nuevas personas se unan al proyecto como Colaboradores "
+"Recurrentes se describe en {ref}`contributor_onboarding`. Tanto los "
+"Colaboradores Recurrentes como los Principales pueden nominar a cualquier "
+"persona para que se una al proyecto como Colaborador Recurrente."
 
 #: ../../governance/community_architecture.md:37
-#: 2cd5eb220b924bb2af0ee5f7a90120c9
+#: 6152ed63b25c45edb3d6aa9a01b5a8b0
 msgid "Current Recurrent Contributors"
-msgstr ""
+msgstr "Colaboradores Recurrentes actuales"
 
 #: ../../governance/community_architecture.md:38
-#: bf34661b7a184da3952f6108127fe004
+#: ae521758f29443b9910da2d68c5b8278
 msgid ""
 "Current recurrent contributors are listed {ref}`on this page "
 "<recurrent_contributor_list>`"
 msgstr ""
+"Los Colaboradores Recurrentes se listan en {ref}`esta página "
+"<recurrent_contributor_list>`"
 
 #: ../../governance/community_architecture.md:41
-#: 17f67d690740491a87345157eb4ec039
+#: 24d6cc587c2d434b870993080ec6255a
 msgid "Core Contributors"
-msgstr ""
+msgstr "Colaboradores Principales"
 
 #: ../../governance/community_architecture.md:42
-#: b33b2eb228404c208a697d00147c605b
+#: 540fa2453c294185a79c8c89a8467f09
 msgid ""
 "Core Contributors are those who have provided consistent and meaningful "
 "contributions to ArviZ. These can be, but are not limited to, code "
@@ -122,50 +154,64 @@ msgid ""
 "Core Contributors must submit code, but more so signifies trust with the "
 "project as a whole."
 msgstr ""
+"Los Colaboradores Principales son aquellos que han realizado contribuciones "
+"constantes y significativas a ArviZ. Estas pueden ser, entre otras, "
+"contribuciones de código, contribuciones a la comunidad, desarrollo de "
+"tutoriales, etc. Los Colaboradores Principales tendrán el poder de gestionar"
+" el repositorio GitHub de ArviZ, incluyendo la incorporación de código en la"
+" rama main. Esto no significa necesariamente que los Colaboradores "
+"Principales deban contribuir código, sino que más bien supone una muestra de"
+" confianza en el proyecto en su conjunto."
 
 #: ../../governance/community_architecture.md:48
-#: 5435556f2b404c1ab2f8dd085f6e73ed
+#: 6c5ae28b97de4e668e4d8261e6037993
 msgid ""
 "The process for new people to join the project as core contributors is "
 "described at {ref}`contributor_onboarding`. Only recurrent contributors are "
 "eligible to become core contributors, and only core contributors can "
 "nominate them."
 msgstr ""
+"El proceso para que nuevas personas se unan al proyecto como Colaboradores "
+"Principales se describe en {ref}`contributor_onboarding`. Solo los "
+"Colaboradores Recurrentes pueden convertirse en Colaboradores Principales, y"
+" solo los Colaboradores Principales pueden nominarlos."
 
 #: ../../governance/community_architecture.md:53
-#: 2761ed18f3b543709234b128725475a2
+#: 7a2233e52c7d420f8b0c34fd98a8087f
 msgid "Core Contributor Responsibilities"
-msgstr ""
+msgstr "Responsabilidades de los Colaboradores Principales"
 
 #: ../../governance/community_architecture.md:54
-#: 08625203dc054badaabe373a8636f263
+#: 0063026d44f5429cac5a7b5e4982f4d2
 msgid "Enforce code of conduct"
-msgstr ""
+msgstr "Hacer cumplir el código de conducta"
 
 #: ../../governance/community_architecture.md:55
-#: 3494afa896004ee7a2ee5f7f2d521315
+#: a6a19113bda042ff91dd247db06b500c
 msgid "Maintain a check against Council"
-msgstr ""
+msgstr "Manenter un control sobre el Consejo"
 
 #: ../../governance/community_architecture.md:57
-#: 584284c178ed4fd8ab6d21e80ff30626
+#: c58d5f55e038464eb9a51397bb36f8ae
 msgid "Current Core Contributors"
-msgstr ""
+msgstr "Colaboradores Principales actuales"
 
 #: ../../governance/community_architecture.md:58
-#: 3fdec0b7241a48668f6a78f357294285
+#: e69f675b8b304174a5fa0355cd5d09c8
 msgid ""
 "Current core contributors are listed {ref}`on this page "
 "<core_contributor_list>`"
 msgstr ""
+"Los Colaboradores Principales se listan en {ref}`esta página "
+"<core_contributor_list>`"
 
 #: ../../governance/community_architecture.md:61
-#: 29e9d20d56a440bea1cb07ed219bc605
+#: a63424ea77de4da29ac9c372451988ad
 msgid "Random Variables Council"
-msgstr ""
+msgstr "Consejo Random Variables"
 
 #: ../../governance/community_architecture.md:62
-#: 88859f3b3ad14921972f02e8f01d77ce
+#: be6e451a6da340fabb4fe3621dde71bb
 msgid ""
 "The Project will have a Steering Council that consists of Core Contributors "
 "who have produced contributions that are substantial in quality and "
@@ -173,9 +219,14 @@ msgid ""
 "Council is to ensure, taking input from the Community, the long-term well-"
 "being of the project, both technically and as a community."
 msgstr ""
+"El Proyecto tendrá un Consejo Directivo compuesto por Colaboradores "
+"Principales que hayan producido contribuciones sustanciales en calidad y "
+"cantidad, y sostenidas durante al menos un año. El papel general del Consejo"
+" es asegurar, tomando aportes de la Comunidad, el bienestar a largo plazo "
+"del proyecto, tanto a nivel técnico como comunitario."
 
 #: ../../governance/community_architecture.md:68
-#: 7763065f508b478bbb74e99b5008778c
+#: 30d321803d8c47029508a6756496dd9e
 msgid ""
 "During the everyday project activities, council members participate in all "
 "discussions, code review and other project activities as peers with all "
@@ -187,67 +238,91 @@ msgid ""
 "both technical and in terms of project direction, to potentially less "
 "experienced contributors."
 msgstr ""
+"Durante las actividades cotidianas del proyecto, los Miembros del Consejo "
+"participan en todos los debates, revisiones de código y otras actividades "
+"del proyecto en pie de igualdad con el resto de Colaboradores y la "
+"Comunidad. En estas actividades cotidianas, los Miembros del Consejo no "
+"tienen ningún poder ni privilegio especial por su pertenencia al Consejo. "
+"Sin embargo, se espera que, debido a la calidad y cantidad de sus "
+"contribuciones y a su conocimiento experto del Software y los Servicios del "
+"Proyecto, los Miembros del Consejo proporcionen orientación útil, tanto "
+"técnica como en términos de dirección del proyecto, a los colaboradores "
+"potencialmente menos experimentados."
 
 #: ../../governance/community_architecture.md:77
-#: b6f0d3830e1c4277aab7635a56dfeef8
+#: eed971f37f1a4b8e90b12905e817d466
 msgid "Council Responsibilities"
-msgstr ""
+msgstr "Responsabilidades del Consejo"
 
 #: ../../governance/community_architecture.md:78
-#: 037228332a7b41f1b19a1d26fe873103
+#: c437a8addf7c4b59844a03e607157890
 msgid "Council Members will have the responsibility of"
-msgstr ""
+msgstr "Los Miembros del Consejo tendrán la responsabilidad de"
 
 #: ../../governance/community_architecture.md:79
-#: 9d55ceabd57343ab9f974ce3d9c3b9eb
+#: 8a08530f6a69464680b34431dd9f5693
 msgid ""
 "Removing members, including Council Members, if they are in violation of the"
 " Code of Conduct"
 msgstr ""
+"Remover miembros, incluidos los Miembros del Consejo, si violan el Código de"
+" Conducta"
 
 #: ../../governance/community_architecture.md:80
-#: 8694bc9fe2dc472c9957b4b7d90a2b4d
+#: 2546cff395cb41358ca70c2176d3dada
 msgid ""
 "Making decisions when regular community discussion does not produce "
 "consensus on an issue in a reasonable time frame. See "
 "{ref}`council_decision_process` page for more details."
 msgstr ""
+"Tomar decisiones cuando la discusión comunitaria no conduce a un consenso "
+"sobre un tema determinado en un periodo de tiempo razonable. Ver la página "
+"{ref}`council_decision_process` para más detalles."
 
 #: ../../governance/community_architecture.md:82
-#: caa40f7bc99b48fda5926deca255b0d7
+#: cb1357698e0b4d6ca1150e8135d71106
 msgid ""
 "Making decisions about strategic collaborations with other organizations or "
 "individuals."
 msgstr ""
+"Tomar decisiones relacionadas a colaboraciones estratégicas con otras "
+"organizaciones o individuos."
 
 #: ../../governance/community_architecture.md:83
-#: 6edc25681ef748a9821ad44484957622
+#: 48ce483d1a35437db54c6395f5e32b81
 msgid ""
 "Making decisions about the overall scope, vision and direction of the "
 "project."
 msgstr ""
+"Tomar decisiones sobre el alcance general, la visión y la dirección del "
+"proyecto."
 
 #: ../../governance/community_architecture.md:84
-#: 51888b89665a4088ae252d75b5c96f99
+#: ea356af07f10464f89b7bde260d45670
 msgid "Developing funding sources"
-msgstr ""
+msgstr "Desarrollar fuentes de financiamiento"
 
 #: ../../governance/community_architecture.md:85
-#: a903b010ee2745e7b0c3a9317d6f3e9b
+#: 9ce2bd6bb2104de1ab2aa5fe4b413171
 msgid ""
 "Deciding how to disburse funds with consultation from Core Contributors"
 msgstr ""
+"Decidir como desembolsar fondos, consultando con los Colaboradores "
+"Principales"
 
 #: ../../governance/community_architecture.md:87
-#: 9306863fe15d4433b3179d521af6442d
+#: df1409e2e75d422db6c860a7abfbdcf7
 msgid ""
 "The council may choose to delegate these responsibilities to sub-committees."
 " If so, Council members must update this document to make the delegation "
 "clear."
 msgstr ""
+"El Consejo puede optar por delegar estas responsabilidades a subcomités. De "
+"ser así, los miembros del Consejo deben actualizar este documento para que "
+"la delegación quede clara."
 
-#: ../../governance/community_architecture.md:1
-#: abca8788b763458d9f701b55f64c37ef
+#: ../../governance/community_architecture.md:90
+#: 8f8f9625af2143dc8a1df8dcbb20defb
 msgid ""
 "Individual council members do not have the power to unilaterally wield these"
 " responsibilities. The council as a whole must jointly make these decisions."
@@ -255,101 +330,122 @@ msgid ""
 "but only when needed they can collectively make decisions for the health of "
 "the project."
 msgstr ""
+"Los Miembros individuales del Consejo no tienen el poder de ejercer "
+"unilateralmente estas responsabilidades. El Consejo en su conjunto debe "
+"tomar estas decisiones de manera conjunta. En otras palabras, los Miembros "
+"del Consejo son ante todo Colaboradores Principales, pero solo cuando es "
+"necesario pueden tomar decisiones colectivas para la salud del Proyecto."
 
 #: ../../governance/community_architecture.md:96
-#: 3282e37abf704fe8896f4694d6211287
+#: 3699e982e5a94127bb01d4ba6c05d4f8
 msgid "Length of Tenure and Reverification"
-msgstr ""
+msgstr "Duración del Mandato y Reverificación"
 
 #: ../../governance/community_architecture.md:97
-#: 4890afb1ada346eb8ff1a9a4eb2cb9ba
+#: c90696d03bd948e692bf7174c04ee6bb
 msgid ""
 "Council members term limits are 4 years, after which point their seat will "
 "come up for reelection."
 msgstr ""
+"La duración del mandato de los Miembros del Consejo es de 4 años, tras los "
+"cuales su puesto se someterá a reelección."
 
 #: ../../governance/community_architecture.md:98
-#: 3ca148e3000b4e22975211a4fea78be1
+#: 0dfdd388e4bd400999ba54c7bfa97c3c
 msgid ""
 "Each year on April 7th council members will be asked to restate their "
 "commitment to being on the council"
 msgstr ""
+"Cada año, el 7 de abril, se pedirá a los Miembros del Consejo que reafirmen "
+"su compromiso de formar parte del mismo."
 
 #: ../../governance/community_architecture.md:99
-#: ac8e7d24027142adbef120f91f8eeaf5
+#: b252859323a2489a8acd13bcf06b32a5
 msgid ""
 "Attempts should be made to reach every council member over at least 2 "
 "communication media. For example: email, Slack, phone, or GitHub."
 msgstr ""
+"Se debe intentar contactar con todos los Miembros del Consejo a través de al"
+" menos 2 medios de comunicación. Por ejemplo: correo electrónico, Slack, "
+"teléfono o GitHub."
 
 #: ../../governance/community_architecture.md:100
-#: 4c1872e872ed43d58bd573247ce39f31
+#: 28c74bf37c9e4ede947cb9384869c946
 msgid ""
 "If a council member does not restate their commitment their seat will be "
 "vacated."
 msgstr ""
+"Si un Miembro del Consejo no reafirma su compromiso, su puesto quedará "
+"vacante."
 
 #: ../../governance/community_architecture.md:101
-#: 1a89bf7002804940854691ac7c66e14e
+#: 2efd224b179d494dbd5cc8cabf86fec3
 msgid ""
 "Inactivity can be determined by lack of substantial contribution, including "
 "votes on council, code or discussion contributions, contributions in the "
 "community or otherwise."
 msgstr ""
+"La inactividad puede determinarse por la falta de contribuciones "
+"sustanciales, incluyendo votos en el Consejo, contribuciones de código, a "
+"los debates, a la Comunidad o de otro tipo."
 
 #: ../../governance/community_architecture.md:102
-#: 8471b345fdc5481390a452490d6c00d6
+#: 98c51e3e19ed4905a43e6792a22dfef7
 msgid ""
 "In the event of a vacancy in the council, an {ref}`election "
 "<council_selection>` will be held to fill the position."
 msgstr ""
+"En caso de que se produzca una vacante en el Consejo, se celebrarán "
+"{ref}`elecciones <council_election>` para cubrir el puesto."
 
 #: ../../governance/community_architecture.md:103
-#: c1a4f498d923464d8c706630bb6101bd
+#: 6a6e7676f9454596b44610cf5a0721ba
 msgid "There is no limit on the number of terms a Council Member can serve"
 msgstr ""
+"No hay límite para el número de mandatos que puede ejercer un miembro del "
+"Consejo"
 
 #: ../../governance/community_architecture.md:106
-#: 21c73194938f499a96ae61bb1b2635f7
+#: 806158e2562f46fc95c252bc25a1dc61
 msgid "Current Random Variables Council members"
-msgstr ""
+msgstr "Miembros actuales del Consejo Random Variables"
 
 #: ../../governance/community_architecture.md:107
-#: d11c1c93fed3441688839052d1344805
+#: 976fe20157d740df8fabc608aea7b6aa
 msgid "The current RV Council members are:"
-msgstr ""
+msgstr "Los miembros actuales del Consejo RV son:"
 
 #: ../../governance/community_architecture.md:109
-#: 12005921d0224e7082806c8c2094fd8d
+#: bf054b804811416c9d61846700562d94
 msgid "Oriol Abril-Pla (@OriolAbril)"
-msgstr ""
+msgstr "Oriol Abril-Pla (@OriolAbril)"
 
 #: ../../governance/community_architecture.md:110
-#: e67a430f795f4929a63f2fae6940b1c8
+#: 6f7a9811c4a94d17b55e487efbeb58be
 msgid "Alex Andorra (@AlexAndorra)"
-msgstr ""
+msgstr "Alex Andorra (@AlexAndorra)"
 
 #: ../../governance/community_architecture.md:111
-#: de048b7d8acb45858559f7d781d1d8ae
+#: 2d349493c82e4963a15c71b08b064dd8
 msgid "Seth Axen (@sethaxen)"
-msgstr ""
+msgstr "Seth Axen (@sethaxen)"
 
 #: ../../governance/community_architecture.md:112
-#: 872c448e0f5448ccbf3762062ccf30b9
+#: ccfca87890d24c85b4bf3e52bb0bb479
 msgid "Colin Carroll (@ColCarroll)"
-msgstr ""
+msgstr "Colin Carroll (@ColCarroll)"
 
 #: ../../governance/community_architecture.md:113
-#: d72a2d76b355485080c297297ebd0e5c
+#: 4755a216e4c445c6b554dc4bb8545594
 msgid "Ari Hartikainen (@ahartikainen)"
-msgstr ""
+msgstr "Ari Hartikainen (@ahartikainen)"
 
 #: ../../governance/community_architecture.md:114
-#: 1c1f43f74e754921b3e9ffccc77003a7
+#: af287ad678c84176b24c7c79775fb844
 msgid "Ravin Kumar (@canyon289)"
-msgstr ""
+msgstr "Ravin Kumar (@canyon289)"
 
 #: ../../governance/community_architecture.md:115
-#: ff2e4430815844e0accc9bb7cf88b056
+#: 50cf24bf86b14e81ba7f610cf5192e1c
 msgid "Osvaldo Martin (@aloctavodia)"
-msgstr ""
+msgstr "Osvaldo Martin (@aloctavodia)"
