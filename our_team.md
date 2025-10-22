@@ -23,7 +23,6 @@ Those interested in contributing should instead refer to one of our contributing
 
 * Adrian Seyboldt
 * Angie.H Moon
-* Ben Mares
 * Camen Piho
 * Camille Bruckmann
 * Chris Fonnesbeck
@@ -36,7 +35,7 @@ Those interested in contributing should instead refer to one of our contributing
 * Gayathri Krishnaswamy
 * Jacki Buros
 * Jonathan Lindbloom
-* Jordan Deklerk 
+* Juan Orduz
 * Junpeng Lao
 * Karin Knudson
 * Kyle Caron
@@ -53,7 +52,6 @@ Those interested in contributing should instead refer to one of our contributing
 * Sandra Meneses
 * Sarina Chen
 * S I Harini
-* Tomas Capretto
 * Utkarsh Maheshwari
 * Xiaoyan Wang
 :::

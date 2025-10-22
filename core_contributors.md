@@ -47,7 +47,7 @@ Seth Axen
 :class-item: p-2
 :img-top: https://avatars.githubusercontent.com/u/25507629
 
-Tomas Capretto
+Tomás Capretto
 
 [{fab}`github`](https://github.com/tomicapretto)
 [{fas}`globe`](https://tomicapretto.github.io/)
