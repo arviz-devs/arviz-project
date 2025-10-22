@@ -1,0 +1,271 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, ArviZ contributors
+# This file is distributed under the same license as the ArviZ project
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ArviZ project \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-22 23:47+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ca\n"
+"Language-Team: ca <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../roadmap.md:2 d2596774941f4c0097d5857c52df2cec
+msgid "Roadmap"
+msgstr ""
+
+#: ../../roadmap.md:4 fdc255e09d324793acb7cda3b480c0a3
+msgid "Last updated: April 2023"
+msgstr ""
+
+#: ../../roadmap.md:6 25142f9bf900448eabc50f86d5f78b0b
+msgid "Our philosophy"
+msgstr ""
+
+#: ../../roadmap.md:7 b2025370bdb0464fbb792fb199b70a71
+msgid "As stated in our homepage:"
+msgstr ""
+
+#: ../../roadmap.md:9 5745e81835d34dba810bce5fc7f4c7e0
+msgid ""
+"ArviZ is an open source project aiming to provide tools for Exploratory "
+"Analysis of Bayesian Models that do not depend on the inference library "
+"used."
+msgstr ""
+
+#: ../../roadmap.md:11 6e29f33a8e574cafb006337b6ec47e82
+msgid ""
+"In this page we describe our current roadmap and high-level actions to "
+"work towards this goal."
+msgstr ""
+
+#: ../../roadmap.md:13 056abd4108b646909e6929bd148695a1
+msgid "Project roadmap"
+msgstr ""
+
+#: ../../roadmap.md:14 ae6148e0b1c84290ba99158639f0c495
+msgid ""
+"We believe both ArviZ and Exploratory Analysis of Bayesian Models are "
+"currently relatively established concepts. Therefore, generally speaking,"
+" as a project we are working on changing ArviZ paradigm/design from "
+"monolithic functions that generate complete analyses and visualizations "
+"towards being more modular."
+msgstr ""
+
+#: ../../roadmap.md:19 98eff77ca4f14d9d864111cc2bc31298
+msgid ""
+"At the same time, we plan to equally prioritize all three tasks of: "
+"library development, publishing documentation, and growing and "
+"encouraging participation."
+msgstr ""
+
+#: ../../roadmap.md:22 f269c4e3ad0647339ada4d221e8f9b93
+msgid "Library development"
+msgstr ""
+
+#: ../../roadmap.md:24 bcabe361bb044714adc0fc969f6bcc96
+msgid ""
+"This includes both maintenance and bug fixing of our existing libraries "
+"and extending the capabilities of these libraries (or creating new ones) "
+"in order to improve the toolset for Exploratory Analysis of Bayesian "
+"Models that is available to practitioners."
+msgstr ""
+
+#: ../../roadmap.md:28 056e931311664cdabdc2c2ef79f0a463
+msgid ""
+"This point is library dependent so it is detailed below for each of the "
+"different libraries of the ArviZ project."
+msgstr ""
+
+#: ../../roadmap.md:31 a67fac7d0ade4b2bbd60e46c27a47475
+msgid "Publishing documentation"
+msgstr ""
+
+#: ../../roadmap.md:32 e8a2b2cbbcdc485e8fc560895e7988be
+msgid ""
+"By \"documentation\" here we understand both documentation on how to use "
+"the libraries themselves and educational material on how to perform "
+"Exploratory Analysis of Bayesian Models on a conceptual level."
+msgstr ""
+
+#: ../../roadmap.md:35 5491876461804d8ea8d6bac10f264082
+msgid "Growing and encouraging participation"
+msgstr ""
+
+#: ../../roadmap.md:36 c9fdf0dd3764419da9561d03763e7b59
+msgid ""
+"The focus of this point is ensuring all {ref}`ArviZ team members "
+"<our_team>` are engaged according to their own possibilities, i.e. we are"
+" not setting barriers on participation nor growth due to ArviZ culture or"
+" leadership."
+msgstr ""
+
+#: ../../roadmap.md:40 b8a5af265bb34bdb8af3f5db51aab11f
+msgid ""
+"Also making sure everyone feels their contributions are valued, whether "
+"they are code contributions, helping with social media, coordinating "
+"sprints/workshops/forum participation... In 2023 we will have our 2nd "
+"Random Variables council election. We would like to encourage "
+"participation, aiming to continue acting thoughtfully given the interests"
+" of different inference libraries that ArviZ works with."
+msgstr ""
+
+#: ../../roadmap.md:47 ee5777e2e31b40acaed83c33b9955c5e
+msgid ""
+"Lastly, and to a lesser extent given it is somewhat conditioned on the "
+"other points, also continue onboarding new people on team, especially "
+"those with different backgrounds, interests, and expertise. To this end, "
+"we are planning to participate in internship projects, continue to hire "
+"for specific small projects that require expertise not currently present "
+"in our team, and take part in or organize sprints, office hours or "
+"working sessions to attract and support people in joining the team."
+msgstr ""
+
+#: ../../roadmap.md:55 f5a45af482d84861b59e3e266ca4f808
+msgid "Python roadmap"
+msgstr ""
+
+#: ../../roadmap.md:56 5f55806d727e44968749bc20f916bf43
+msgid ""
+"For Python, the move towards modular design is happening at the same time"
+" within the main ArviZ Python library and with the creation of new "
+"libraries."
+msgstr ""
+
+#: ../../roadmap.md:59 95700db05aa046a6b95a82a70ae55381
+msgid "ArviZ main Python library"
+msgstr ""
+
+#: ../../roadmap.md:60 07cb0b18796e4e828eb19c74913077af
+msgid ""
+"We plan to refactor the plotting and stats modules so they become more "
+"independent and modular themselves. This will ease adding new "
+"visualizations, statistics, and diagnostics. At the same time should also"
+" serve as breadcrumbs for the other new libraries like ArviZ dashboards "
+"or PreliZ."
+msgstr ""
+
+#: ../../roadmap.md:64 7b2f2180695640ce8e14c22161dfd01c
+msgid ""
+"Our goal is to separate the data organization, data processing and "
+"plotting steps."
+msgstr ""
+
+#: ../../roadmap.md:66 674ead1c4e874b2ea8727b9f4efe2588
+msgid ""
+"Data organization: given faceting and aesthetics mapping instructions, "
+"divide the input data and map aesthetics accordingly."
+msgstr ""
+
+#: ../../roadmap.md:67 cb7f518c558d479895028a5761e06790
+msgid ""
+"Data processing: compute statistics and diagnostics via xarray _using any"
+" of its compatible array computation libraries_."
+msgstr ""
+
+#: ../../roadmap.md:68 4ae0386a48794f0eb71b276d6c1e8e31
+msgid ""
+"Plotting: Interact with plotting backends through a common interface "
+"layer. Thus, plotting functions will be unique, without need for "
+"repeating/adapting them to each backend, and each backend would only need"
+" to implement the common interface layer."
+msgstr ""
+
+#: ../../roadmap.md:71 c85fba90011a41e098b7ec27f4a8ddce
+msgid ""
+"We belive that this design will allow ArviZ to continue to provide end-"
+"to-end visualizations and make it easier to add new ones to the library, "
+"while at the same time providing reusable lower level visual and "
+"computation functions for users to generate their own custom end-to-end "
+"visualizations or for developers to build new libraries on (e.g. ArviZ "
+"dashboards)."
+msgstr ""
+
+#: ../../roadmap.md:75 0a22b8be99ed47af881070a8a64439ad
+msgid "PreliZ"
+msgstr ""
+
+#: ../../roadmap.md:76 5fcc5c5938fa493aad71bedeee772c1a
+msgid ""
+"We recently submitted a paper on PreliZ to JOSS which, at the time of "
+"writing, is waiting for reviews. During 2023 we plan to start advertizing"
+" the library even if not yet full-featured to get users and see how it "
+"fares in real world prior elicitation tasks."
+msgstr ""
+
+#: ../../roadmap.md:80 f167c3e9c31a4dbd8fb37c1b22cf071c
+msgid ""
+"In addition to maintenance and improvement of the current capabilities of"
+" PreliZ, we will also experiment with multivariate elicitation strategies"
+" and new methods for predictive elicitation."
+msgstr ""
+
+#: ../../roadmap.md:83 608ba9263dc74259aa49032e7849cccb
+msgid "ArviZ dashboards"
+msgstr ""
+
+#: ../../roadmap.md:84 da94b58f79dc44bfbafb811d0f5b9239
+msgid ""
+"We plan to dedicate significant resources to the development of "
+"dashboards and dashboard components in the coming years. To make this "
+"possible we will ask for some grants to ensure we have dedicated time to "
+"finish the refactoring and work on ArviZ dashboards. Refactoring is "
+"related to this point because it will make dashboard development possible"
+" and faster (where it already is possible)."
+msgstr ""
+
+#: ../../roadmap.md:89 c59df9025d81443883db0fd1b9043cdf
+msgid ""
+"We also plan to expand our expertise so we become more efficient at "
+"designing, implementing and documenting dashboards."
+msgstr ""
+
+#: ../../roadmap.md:94 ff14445704204a41bac91ce852ec0e4a
+msgid "Julia roadmap"
+msgstr ""
+
+#: ../../roadmap.md:95 104b9a23cc06457e9fc11ff5db3e9210
+msgid ""
+"As Python functionality is ported to Julia, it is divided into smaller, "
+"modular packages that are designed to"
+msgstr ""
+
+#: ../../roadmap.md:96 5347dc21ff0f4c4d88f119041239c73c
+msgid "be standalone packages useful outside of ArviZ,"
+msgstr ""
+
+#: ../../roadmap.md:97 7f71c6c8108a477aa95f1e4b5b6745b9
+msgid "integrate with the broader Julia ecosystem, and"
+msgstr ""
+
+#: ../../roadmap.md:98 fccb0b24957447c29e62f6667d9a556f
+msgid ""
+"interact well with ArviZ.jl's data structures. Examples of these packages"
+" are PSIS.jl, InferenceObjects.jl, and MCMCDiagnosticTools.jl. ArviZ.jl "
+"is then primarily a monopackage that brings all of these components "
+"together."
+msgstr ""
+
+#: ../../roadmap.md:101 c6a6a409a7f24c6d8d6cf3a21de66f1f
+msgid ""
+"The main development priority in Julia in 2023 is porting plots with both"
+" the Plots.jl and Makie.jl backends and providing utilities to support "
+"bespoke plotting."
+msgstr ""
+
+#: ../../roadmap.md:103 dc8de467263a4414810682b1975ebbe2
+msgid ""
+"Our goal is to build and maintain ArviZ as an ecosystem of small "
+"topic/domain specific libraries."
+msgstr ""
+

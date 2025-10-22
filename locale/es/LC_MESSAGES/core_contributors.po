@@ -1,170 +1,264 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2022, ArviZ contributors
-# This file is distributed under the same license as the ArviZ project package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+# This file is distributed under the same license as the ArviZ project
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+# Translators:
+# Tomás Capretto, 2025
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: ArviZ project\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-10 09:34+0300\n"
+"POT-Creation-Date: 2025-10-22 23:47+0200\n"
 "PO-Revision-Date: 2022-04-10 07:09+0000\n"
-"Language-Team: Spanish (https://www.transifex.com/arviz/teams/135191/es/)\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Tomás Capretto, 2025\n"
 "Language: es\n"
-"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+"Language-Team: Spanish (https://app.transifex.com/arviz/teams/135191/es/)"
+"\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 "
+"? 1 : 2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.16.0\n"
 
-#: ../../core_contributors.md:1 ../../core_contributors.md:12
-#: ../../core_contributors.md:22 ../../core_contributors.md:33
-#: ../../core_contributors.md:44 ../../core_contributors.md:55
-#: ../../core_contributors.md:65 ../../core_contributors.md:74
-#: ../../core_contributors.md:84 ../../core_contributors.md:95
-#: ../../core_contributors.md:106 ../../core_contributors.md:116
-#: ../../core_contributors.md:127 a75fc796c54c4135a8902bc49bf12f22
-#: 78fc4334017044f2958c43e876c135a2 25de3003d4944c7b9e2e253b169e39d9
-#: eaff80f4f5ef49f18f8b452915a131b1 93fc995a1e7e4ad6aa77ce5aed0796c0
-#: 9a258f1b34a444ad84d4ea3d00096886 5c518927489846a6bc7b0e27d2ee5781
-#: 4bf7d3d780404322a2aa6d7903f18aff 62ae846a945a4336b6bd72a2521e25a2
-#: ae4008056dd24aee99461ddc53ce601e cf934f5310f6451fbc40056b69541974
-#: 51588217748744a4811cd361c5ce5fff 17273c3b7ffb43f08e40f20e704cb1a0
-msgid "card-img-top"
-msgstr ""
-
-#: ../../core_contributors.md:1 e2981edeb72648c9b9176f64800a5300
+#: ../../core_contributors.md:8 9d55e83504774658b6fe09a1703ba2ea
 msgid "Oriol Abril-Pla"
-msgstr ""
+msgstr "Oriol Abril-Pla"
 
-#: ../../core_contributors.md:3 a489895ce09340c0932a37fde80bfbd9
+#: ../../core_contributors.md:10 d20c3ba7769d458392ab207a6bd38411
+#, fuzzy
 msgid ""
 "[{fab}`github`](https://github.com/oriolabril) "
+"[{fab}`mastodon`](https://toot.cat/@OriolAbril) "
+"[{fas}`globe`](https://oriolabrilpla.cat)"
+msgstr ""
+"[{fab}`github`](https://github.com/oriolabril) "
 "[{fab}`twitter`](https://twitter.com/OriolAbril) "
-"[{fas}`globe`](https://oriolabril.github.io/oriol_unraveled)"
-msgstr ""
+"[{fas}`globe`](https://oriolabrilpla.cat)"
 
-#: ../../core_contributors.md:1 260b1a6bfdb44538ad124c9c68766059
+#: ../../core_contributors.md:19 ec8ba20a241a492f87c7ddfdab65d870
 msgid "Agustina Arroyuelo"
-msgstr ""
+msgstr "Agustina Arroyuelo"
 
-#: ../../core_contributors.md:3 a3bfeb0a48604be7b611410ba2f288b2
+#: ../../core_contributors.md:21 ba4e680e8eae40fca1742219f52d4cbc
 msgid ""
 "[{fab}`github`](https://github.com/agustinaarroyuelo) "
 "[{fab}`twitter`](https://twitter.com/AgustinaArroyu1)"
 msgstr ""
+"[{fab}`github`](https://github.com/agustinaarroyuelo) "
+"[{fab}`twitter`](https://twitter.com/AgustinaArroyu1)"
 
-#: ../../core_contributors.md:1 16f271a5f7c4417e94d62eec186b41a3
+#: ../../core_contributors.md:29 e75c508dc5d94dd882f36810b8ce9c76
 msgid "Alex Andorra"
-msgstr ""
+msgstr "Alex Andorra"
 
-#: ../../core_contributors.md:3 c95bb4ab99aa4f089b1f4fc29ce05e68
+#: ../../core_contributors.md:31 caf5784d3c064e3fbf3977dd9b04b4ac
 msgid ""
 "[{fab}`github`](https://github.com/AlexAndorra) "
 "[{fab}`twitter`](https://twitter.com/alex_andorra) "
 "[{fas}`globe`](https://www.learnbayesstats.com/)"
 msgstr ""
+"[{fab}`github`](https://github.com/AlexAndorra) "
+"[{fab}`twitter`](https://twitter.com/alex_andorra) "
+"[{fas}`globe`](https://www.learnbayesstats.com/)"
 
-#: ../../core_contributors.md:1 55764649edc2468599273d2519d31a20
+#: ../../core_contributors.md:40 d452cfcaf5eb42719b6a86248a694fd4
 msgid "Seth Axen"
-msgstr ""
+msgstr "Seth Axen"
 
-#: ../../core_contributors.md:3 8bc107b5e33245edba32f9ed465e1cdd
+#: ../../core_contributors.md:42 db2da5b87d5c466db47b18e6c1dc5c90
 msgid ""
 "[{fab}`github`](https://github.com/sethaxen) "
 "[{fab}`twitter`](https://twitter.com/sethaxen) "
 "[{fas}`globe`](https://sethaxen.com/)"
 msgstr ""
+"[{fab}`github`](https://github.com/sethaxen) "
+"[{fab}`twitter`](https://twitter.com/sethaxen) "
+"[{fas}`globe`](https://sethaxen.com/)"
 
-#: ../../core_contributors.md:1 edb34a5d31cb4fb590577b18127fb358
-msgid "Colin Carroll"
+#: ../../core_contributors.md:51 a11ccf28c5914d5888e3e47beaa88a6d
+msgid "Tomás Capretto"
 msgstr ""
 
-#: ../../core_contributors.md:3 d6260aa46d6c44d68149154dd84104ed
+#: ../../core_contributors.md:53 fb6f8e71ffa84ca9855e3fd77b0a0c53
+#, fuzzy
+msgid ""
+"[{fab}`github`](https://github.com/tomicapretto) "
+"[{fas}`globe`](https://tomicapretto.github.io/)"
+msgstr ""
+"[{fab}`github`](https://github.com/percygautam) "
+"[{fab}`twitter`](https://twitter.com/percygautam)"
+
+#: ../../core_contributors.md:61 1c1d7bcc3e634186864e4f9eb2ef9187
+msgid "Colin Carroll"
+msgstr "Colin Carroll"
+
+#: ../../core_contributors.md:63 5fa116553eb34d7e91e7852a88565fd3
 msgid ""
 "[{fab}`github`](https://github.com/ColCarroll) "
 "[{fab}`twitter`](https://twitter.com/colindcarroll) "
 "[{fas}`globe`](https://colindcarroll.com/)"
 msgstr ""
+"[{fab}`github`](https://github.com/ColCarroll) "
+"[{fab}`twitter`](https://twitter.com/colindcarroll) "
+"[{fas}`globe`](https://colindcarroll.com/)"
 
-#: ../../core_contributors.md:1 f10dc449731c43a08be04f42288ea1ce
-msgid "Piyush Gautam"
+#: ../../core_contributors.md:72 e7ef52c89efe4ca7987304818ef0353e
+msgid "Jordan Deklerk"
 msgstr ""
 
-#: ../../core_contributors.md:3 516d5fb3f4934554a9a633f84735cd39
+#: ../../core_contributors.md:74 29315a50a39c4e41a477214d4a7d12a1
+#, fuzzy
+msgid ""
+"[{fab}`github`](https://github.com/jordandeklerk) "
+"[{fas}`globe`](https://www.jordan-deklerk.com)"
+msgstr ""
+"[{fab}`github`](https://github.com/percygautam) "
+"[{fab}`twitter`](https://twitter.com/percygautam)"
+
+#: ../../core_contributors.md:82 b113ce6b1a384044823d396b8b07f384
+msgid "Piyush Gautam"
+msgstr "Piyush Gautam"
+
+#: ../../core_contributors.md:84 ce80b2ff00c64d5e8f7e770b1061d709
 msgid ""
 "[{fab}`github`](https://github.com/percygautam) "
 "[{fab}`twitter`](https://twitter.com/percygautam)"
 msgstr ""
+"[{fab}`github`](https://github.com/percygautam) "
+"[{fab}`twitter`](https://twitter.com/percygautam)"
 
-#: ../../core_contributors.md:1 dea406b50a284e5fa40c4d7a15de3c85
+#: ../../core_contributors.md:92 cb283b091fc54201a29244212d3c32de
 msgid "Robert P. Goldman"
-msgstr ""
+msgstr "Robert P. Goldman"
 
-#: ../../core_contributors.md:3 5198016885d04e75b0b522dfd9128ae1
+#: ../../core_contributors.md:94 310ac33fb8fc460da9b7a8db30b86bfc
 msgid "[{fab}`github`](https://github.com/rpgoldman)"
-msgstr ""
+msgstr "[{fab}`github`](https://github.com/rpgoldman)"
 
-#: ../../core_contributors.md:1 0dbf45313fe447d898425155792d0b5e
+#: ../../core_contributors.md:101 103803545bb64403a292253db2280fb8
 msgid "Ari Hartikainen"
-msgstr ""
+msgstr "Ari Hartikainen"
 
-#: ../../core_contributors.md:3 5cd181725ba041dc8391c5c6c3e16223
+#: ../../core_contributors.md:103 7287048ca5b042e88ae1ca7b72203e31
 msgid ""
 "[{fab}`github`](https://github.com/ahartikainen) "
 "[{fab}`twitter`](https://twitter.com/a_hartikainen)"
 msgstr ""
+"[{fab}`github`](https://github.com/ahartikainen) "
+"[{fab}`twitter`](https://twitter.com/a_hartikainen)"
 
-#: ../../core_contributors.md:1 179a293ee9394994968d62f6b689ef02
-msgid "Ravin Kumar"
+#: ../../core_contributors.md:111 bcc306b3bbf245ac89a02aa35213e7e4
+msgid "Alejandro Icazatti"
 msgstr ""
 
-#: ../../core_contributors.md:3 89ac2e3bbe354ba8950a8e955b0ba4fd
+#: ../../core_contributors.md:113 62d16963c1034d65b692324029a91e09
+#, fuzzy
+msgid "[{fab}`github`](https://github.com/aleicazatti)"
+msgstr "[{fab}`github`](https://github.com/rpgoldman)"
+
+#: ../../core_contributors.md:120 4b46d7246735418998991b9fc2de5014
+msgid "Ravin Kumar"
+msgstr "Ravin Kumar"
+
+#: ../../core_contributors.md:122 0f223ff05e1546af8163b9017a06cff5
 msgid ""
 "[{fab}`github`](https://github.com/canyon289) "
 "[{fab}`twitter`](https://twitter.com/canyon289) "
 "[{fas}`globe`](http://ravinkumar.com)"
 msgstr ""
+"[{fab}`github`](https://github.com/canyon289) "
+"[{fab}`twitter`](https://twitter.com/canyon289) "
+"[{fas}`globe`](http://ravinkumar.com)"
 
-#: ../../core_contributors.md:1 c3ed7426570e4f8bae3a2063207e92a3
-msgid "Osvaldo Martin"
+#: ../../core_contributors.md:131 5d51b885c65f4b80abc738aee8aeab91
+msgid "Andy Maloney"
 msgstr ""
 
-#: ../../core_contributors.md:3 be7816e711fe40b1b2dd54129ab8230d
+#: ../../core_contributors.md:133 63d84fd8619a4b4bbc7c79a7a4ee6043
+#, fuzzy
+msgid "[{fab}`github`](https://github.com/amaloney)"
+msgstr "[{fab}`github`](https://github.com/rpgoldman)"
+
+#: ../../core_contributors.md:140 89e560e927ee472faa5d9956229b200d
+msgid "Ben Mares"
+msgstr ""
+
+#: ../../core_contributors.md:142 ec987549415748f6a61aa7203b8db3d8
+#, fuzzy
+msgid ""
+"[{fab}`github`](https://github.com/maresb) "
+"[{fas}`globe`](https://tensorial.com/)"
+msgstr ""
+"[{fab}`github`](https://github.com/mitzimorris) "
+"[{fab}`twitter`](https://twitter.com/searchbooster_)"
+
+#: ../../core_contributors.md:150 de9c59c431344c3ca28a4a656c232fb6
+msgid "Osvaldo Martin"
+msgstr "Osvaldo Martin"
+
+#: ../../core_contributors.md:152 40f7b7acfaf447e6b84a6de4e491093c
 msgid ""
 "[{fab}`github`](https://github.com/aloctavodia) "
 "[{fab}`twitter`](https://twitter.com/aloctavodia) "
 "[{fas}`globe`](https://aloctavodia.github.io/)"
 msgstr ""
+"[{fab}`github`](https://github.com/aloctavodia) "
+"[{fab}`twitter`](https://twitter.com/aloctavodia) "
+"[{fas}`globe`](https://aloctavodia.github.io/)"
 
-#: ../../core_contributors.md:1 7d0954e673a9475e969d186eb8a03ea4
+#: ../../core_contributors.md:161 3ef217b27387405194ad34e22b4dfc97
 msgid "Mitzi Morris"
-msgstr ""
+msgstr "Mitzi Morris"
 
-#: ../../core_contributors.md:3 d9dcbd3fa88f4a368913a3193b7f70b4
+#: ../../core_contributors.md:163 c5be8be4f0fd45cdbe056ef9dffd5ec9
 msgid ""
 "[{fab}`github`](https://github.com/mitzimorris) "
 "[{fab}`twitter`](https://twitter.com/searchbooster_)"
 msgstr ""
+"[{fab}`github`](https://github.com/mitzimorris) "
+"[{fab}`twitter`](https://twitter.com/searchbooster_)"
 
-#: ../../core_contributors.md:1 f2c5e07fa1da4dc498ab372650bfdb3b
+#: ../../core_contributors.md:171 995295b2f7114a0c9ca8c34a2b0bbefa
 msgid "Du Phan"
-msgstr ""
+msgstr "Du Phan"
 
-#: ../../core_contributors.md:3 0a4b324efcfd4b40ace66640d438a5cd
+#: ../../core_contributors.md:173 b8685fb2c0ac472d94394c398dfe93af
 msgid ""
 "[{fab}`github`](https://github.com/fehiepsi) "
 "[{fab}`twitter`](https://twitter.com/fehiepsi) "
 "[{fas}`globe`](http://fehiepsi.github.io/)"
 msgstr ""
+"[{fab}`github`](https://github.com/fehiepsi) "
+"[{fab}`twitter`](https://twitter.com/fehiepsi) "
+"[{fas}`globe`](http://fehiepsi.github.io/)"
 
-#: ../../core_contributors.md:1 15b592b6b68945598617c2fad4142655
+#: ../../core_contributors.md:182 15b56fb07e304508ab5b62fa8a4aeb96
 msgid "Aki Vehtari"
-msgstr ""
+msgstr "Aki Vehtari"
 
-#: ../../core_contributors.md:3 d5eebc6cada64976a6a4b4328d66e995
+#: ../../core_contributors.md:184 7d3897ae3ed0468d8878e4fdec604f10
 msgid ""
 "[{fab}`github`](https://github.com/avehtari) "
 "[{fab}`twitter`](https://twitter.com/avehtari) "
 "[{fas}`globe`](https://users.aalto.fi/~ave/)"
 msgstr ""
+"[{fab}`github`](https://github.com/avehtari) "
+"[{fab}`twitter`](https://twitter.com/avehtari) "
+"[{fas}`globe`](https://users.aalto.fi/~ave/)"
+
+#: ../../core_contributors.md:193 9f5558f2188642c9974ab537a80b9ea3
+msgid "Yilin Xia"
+msgstr ""
+
+#: ../../core_contributors.md:195 1fba88c1a2fc4445b3cac10c972de0e2
+#, fuzzy
+msgid "[{fab}`github`](https://github.com/yilinxia)"
+msgstr "[{fab}`github`](https://github.com/rpgoldman)"
+
+#~ msgid "card-img-top"
+#~ msgstr "card-img-top"
+

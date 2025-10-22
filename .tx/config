@@ -41,42 +41,49 @@ file_filter = locale/<lang>/LC_MESSAGES/elections/ArviZ_2020.po
 source_file = _build/gettext/elections/ArviZ_2020.pot
 source_lang = en
 type        = PO
-resource_name = elections/ArviZ_2020
+resource_name = elections_ArviZ_2020
+
+[o:arviz:p:arviz-project-website:r:_gettext_elections_arviz_2024]
+file_filter = locale/<lang>/LC_MESSAGES/elections/ArviZ_2024.po
+source_file = _build/gettext/elections/ArviZ_2024.pot
+source_lang = en
+type        = PO
+resource_name = elections_ArviZ_2024
 
 [o:arviz:p:arviz-project-website:r:_gettext_elections_readme]
 file_filter = locale/<lang>/LC_MESSAGES/elections/README.po
 source_file = _build/gettext/elections/README.pot
 source_lang = en
 type        = PO
-resource_name = elections/README
+resource_name = elections_README
 
 [o:arviz:p:arviz-project-website:r:_gettext_governance_community_architecture]
 file_filter = locale/<lang>/LC_MESSAGES/governance/community_architecture.po
 source_file = _build/gettext/governance/community_architecture.pot
 source_lang = en
 type        = PO
-resource_name = governance/community_architecture
+resource_name = governance_community_architecture
 
 [o:arviz:p:arviz-project-website:r:_gettext_governance_index]
 file_filter = locale/<lang>/LC_MESSAGES/governance/index.po
 source_file = _build/gettext/governance/index.pot
 source_lang = en
 type        = PO
-resource_name = governance/index
+resource_name = governance_index
 
 [o:arviz:p:arviz-project-website:r:_gettext_governance_processes]
 file_filter = locale/<lang>/LC_MESSAGES/governance/processes.po
 source_file = _build/gettext/governance/processes.pot
 source_lang = en
 type        = PO
-resource_name = governance/processes
+resource_name = governance_processes
 
 [o:arviz:p:arviz-project-website:r:_gettext_governance_sponsors_partners]
 file_filter = locale/<lang>/LC_MESSAGES/governance/sponsors_partners.po
 source_file = _build/gettext/governance/sponsors_partners.pot
 source_lang = en
 type        = PO
-resource_name = governance/sponsors_partners
+resource_name = governance_sponsors_partners
 
 [o:arviz:p:arviz-project-website:r:_gettext_sponsors_partners]
 file_filter = locale/<lang>/LC_MESSAGES/sponsors_partners.po
@@ -84,3 +91,17 @@ source_file = _build/gettext/sponsors_partners.pot
 source_lang = en
 type        = PO
 resource_name = sponsors_partners
+
+[o:arviz:p:arviz-project-website:r:_gettext_roadmap]
+file_filter = locale/<lang>/LC_MESSAGES/roadmap.po
+source_file = _build/gettext/roadmap.pot
+source_lang = en
+type        = PO
+resource_name = roadmap
+
+[o:arviz:p:arviz-project-website:r:_gettext_code_of_conduct]
+file_filter = locale/<lang>/LC_MESSAGES/CODE_OF_CONDUCT.po
+source_file = _build/gettext/CODE_OF_CONDUCT.pot
+source_lang = en
+type        = PO
+resource_name = code_of_conduct

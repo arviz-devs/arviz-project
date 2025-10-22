@@ -8,16 +8,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ArviZ project\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-10 09:34+0300\n"
+"POT-Creation-Date: 2022-12-19 03:10+0100\n"
 "PO-Revision-Date: 2022-04-10 07:09+0000\n"
-"Language-Team: Catalan (https://www.transifex.com/arviz/teams/135191/ca/)\n"
+"Language-Team: Catalan (https://app.transifex.com/arviz/teams/135191/ca/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ca\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../../donate.md:1 2a25f0bc7df1476db1164f5060fbc296
+#: ../../donate.md:1 daebf0a16bf64aad852070b4ed09bcf4
 msgid ""
 "ArviZ is a Sponsored Project of NumFOCUS, a 501(c)(3) nonprofit charity  in "
 "the United States. NumFOCUS provides ArviZ with fiscal, legal, and "
@@ -25,7 +25,7 @@ msgid ""
 "project. Visit [numfocus.org](https://numfocus.org/) for more information."
 msgstr ""
 
-#: ../../donate.md:6 5a58dfe8ec3a4b908b95f3fac3591332
+#: ../../donate.md:6 d50d9ffa48f24a45b7422594501df1e1
 msgid ""
 "Donations to ArviZ are managed by NumFOCUS. For donors in the United States,"
 " your gift is tax-deductible to the extent provided by law. As with any "
@@ -33,13 +33,19 @@ msgid ""
 " situation."
 msgstr ""
 
-#: ../../donate.md:11 ff0570ab22d24da38c87d330a0c5ca64
+#: ../../donate.md:11 fa5e81b900af455cb187b36652a21b2d
 msgid ""
 "The ArviZ project will make the decisions on how to best use any funds "
 "received to serve the priorities outlined in our "
 "[Roadmap](https://github.com/arviz-devs/arviz/wiki/ArviZ-2021-roadmap)."
 msgstr ""
 
-#: ../../donate.md:1 c73ffc1e1215467f9c39eeb21b009ff0
-msgid "Donate to ArviZ"
+#: ../../donate.md:17 0d56118f5b9a42e386dd6473cda6eeda
+msgid ""
+"Donate to ArviZ <svg version=\"4.0.0.63c5cb3\" width=\"2.0em\" "
+"height=\"2.0em\" class=\"sd-material-icon sd-material-icon-favorite\" "
+"viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M0 0h24v24H0z\" "
+"fill=\"none\"></path><path d=\"M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 "
+"2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 "
+"3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z\"></path></svg>"
 msgstr ""

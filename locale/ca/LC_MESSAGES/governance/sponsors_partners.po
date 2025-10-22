@@ -8,20 +8,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ArviZ project\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-10 09:34+0300\n"
+"POT-Creation-Date: 2022-12-19 03:10+0100\n"
 "PO-Revision-Date: 2022-04-10 07:09+0000\n"
-"Language-Team: Catalan (https://www.transifex.com/arviz/teams/135191/ca/)\n"
+"Language-Team: Catalan (https://app.transifex.com/arviz/teams/135191/ca/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ca\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../../governance/sponsors_partners.md:2 680c0c72b59f4b218c811295f61e9465
+#: ../../governance/sponsors_partners.md:2 a9e23e51e77a492d842d36476b6c7a0e
 msgid "Sponsors and institutional partners"
 msgstr ""
 
-#: ../../governance/sponsors_partners.md:3 67b8af3fcc82481286ac9ae018ed1566
+#: ../../governance/sponsors_partners.md:3 da3f2147dfc841f5a7bec48f65bace7b
 msgid ""
 "The Random Variables Council are the primary leadership for the project. No "
 "outside institution, individual or legal entity has the ability to own, "
@@ -31,53 +31,53 @@ msgid ""
 "is important to formally acknowledge it."
 msgstr ""
 
-#: ../../governance/sponsors_partners.md:10 abacae9d7151420b962ac190ce5226fe
+#: ../../governance/sponsors_partners.md:10 a0cbbf39547e4e2fa0c19a298b338029
 msgid ""
 "ArviZ uses two figures to acknowledge financial and institutional support: "
 "sponsors and institutional partners. Both can have \"active\" and "
 "\"inactive\" status."
 msgstr ""
 
-#: ../../governance/sponsors_partners.md:13 b7450caccabf4aaf9588b6c9f6bdd48a
+#: ../../governance/sponsors_partners.md:13 9acca39943d24c2d984273256dd0f671
 msgid ""
 "We use the sponsor figure for entities who provide direct financial support,"
 " institutional partners for entities who employ an ArviZ contributor and let"
 " them work on the project as part of their official duties."
 msgstr ""
 
-#: ../../governance/sponsors_partners.md:18 7c58cb0059f54f228de1f01669d816aa
+#: ../../governance/sponsors_partners.md:18 1d6d3aecc27e493c9ea4027178693256
 msgid "Sponsors"
 msgstr ""
 
-#: ../../governance/sponsors_partners.md:19 7c9a80b2747b4e4e8b3520e1ddff8b6a
+#: ../../governance/sponsors_partners.md:19 968a86ffeb884150ac1054b84b2af28a
 msgid ""
 "Sponsors are entities that provide direct financial support. The minimum "
 "level of support given to ArviZ to be considered a Sponsor are:"
 msgstr ""
 
-#: ../../governance/sponsors_partners.md:22 99baa2ad64e64afb84d97a4cb6e7105a
+#: ../../governance/sponsors_partners.md:22 8c4aca46aa1f446d94005e6f0a085568
 msgid "$10,000/yr for unrestricted financial contributions (e.g., donations)"
 msgstr ""
 
-#: ../../governance/sponsors_partners.md:23 77bcbd4539a747e289fc2ae9b6ab93e0
+#: ../../governance/sponsors_partners.md:23 c7b3456d41da4b5fac49ed2291588420
 msgid ""
 "$20,000/yr for financial contributions for a particular purpose (e.g., "
 "grants)"
 msgstr ""
 
-#: ../../governance/sponsors_partners.md:25 a0b32f2bdaa241b0968482901796dd8c
+#: ../../governance/sponsors_partners.md:25 206173193aa943f88d0049a29ca07186
 msgid "We define support being \"active\" as:"
 msgstr ""
 
-#: ../../governance/sponsors_partners.md:27 284cc1dcd67441ac97db400bba0f4792
+#: ../../governance/sponsors_partners.md:27 3eda878ac79840dba0db944f48d79e19
 msgid "for a one-off donation: it was received within the previous 12 months,"
 msgstr ""
 
-#: ../../governance/sponsors_partners.md:28 d19139a9cbcf4d04b59a4eca70e7f9a1
+#: ../../governance/sponsors_partners.md:28 ee52c8ce4e2a49b6b2e518468afaf08a
 msgid "for recurring contributions: they should be ongoing."
 msgstr ""
 
-#: ../../governance/sponsors_partners.md:30 e917708d018544caa49d9d724bd7def5
+#: ../../governance/sponsors_partners.md:30 30f3072349654512bf61d413937c5b5d
 msgid ""
 "After support moves from “active” to “inactive” status, the acknowledgement "
 "will be left in its place for at least another 6 months. If appropriate, the"
@@ -87,7 +87,7 @@ msgid ""
 " there may be reasons to keep it in the more prominent place for longer."
 msgstr ""
 
-#: ../../governance/sponsors_partners.md:37 520de175d4b845fb85250e98c8427d52
+#: ../../governance/sponsors_partners.md:37 81a3156ad1194f32b5e40be53151d2c5
 msgid ""
 "The rationale for the above funding levels is that unrestricted financial "
 "contributions are typically the most valuable for the project, and the "
@@ -95,45 +95,45 @@ msgid ""
 "be able to make a significant difference."
 msgstr ""
 
-#: ../../governance/sponsors_partners.md:41 86a658f327864b678fd59156a54e48ba
+#: ../../governance/sponsors_partners.md:41 7bb0734f7877481784f78beff46bfbb7
 msgid "Sponsors will get acknowledged through:"
 msgstr ""
 
-#: ../../governance/sponsors_partners.md:44 7908cfcfeecf4a9cb73f69cf39f383d6
+#: ../../governance/sponsors_partners.md:44 922ae066b32f4f2eb9aab7fec20472d5
 msgid ""
 "a small logo displayed on the front page of the ArviZ website `arviz.org`"
 msgstr ""
 
-#: ../../governance/sponsors_partners.md:45 0ec3d448bdc84c8491a381ff952ae9bf
+#: ../../governance/sponsors_partners.md:45 28bc58e4cb5e4e10a1ce3fa768918408
 msgid ""
 "a small logo displayed on the readmes and dedicated websites of all ArviZ "
 "libraries"
 msgstr ""
 
-#: ../../governance/sponsors_partners.md:46 7faef287126b4ce0a0ee44d332a171cf
+#: ../../governance/sponsors_partners.md:46 d2d8ed5d149546a88191aef4a18fa0f6
 msgid ""
 "prominent logo placement on `arviz.org/en/latest/sponsors_partners.html`"
 msgstr ""
 
-#: ../../governance/sponsors_partners.md:47 57a31c0531034cddaac79e1ab89fdc70
+#: ../../governance/sponsors_partners.md:47 0f18ad94a2814720b784259da966ee4f
 msgid "logos displayed in talks about ArviZ by maintainers"
 msgstr ""
 
-#: ../../governance/sponsors_partners.md:48 3f74b8679da8429a9eb02f9afb80c700
+#: ../../governance/sponsors_partners.md:48 c7866dd5ac3949fcba3b35fc1ca07b43
 msgid "announcements of the sponsorship on the arviz-devs Twitter account"
 msgstr ""
 
-#: ../../governance/sponsors_partners.md:51 1016ee2be59a4f8fb0181ccd2274317f
+#: ../../governance/sponsors_partners.md:51 d8efd9983f504e528b31462c99275955
 msgid "Institutional Partners"
 msgstr ""
 
-#: ../../governance/sponsors_partners.md:52 74ef4bc28de341c3b56b749defd74f15
+#: ../../governance/sponsors_partners.md:52 0c259a639c874a349eefce7518518c21
 msgid ""
 "Institutional Partners are entities that employ a Project Contributor and "
 "let them work on the project as part of their official duties."
 msgstr ""
 
-#: ../../governance/sponsors_partners.md:55 4a04ff596b6142c8841c1397f17c520b
+#: ../../governance/sponsors_partners.md:55 cbcae91945c8462391e060924f00c221
 msgid ""
 "An Institutional Contributor is any individual Project Contributor who "
 "contributes to the project as part of their official duties at an "
@@ -142,7 +142,7 @@ msgid ""
 "their official duties at an Institutional Partner."
 msgstr ""
 
-#: ../../governance/sponsors_partners.md:60 57f3a0d8dcc546e9b1d5e80cd4f9cd85
+#: ../../governance/sponsors_partners.md:60 11657c54f0ea4d378e110d5c49203aff
 msgid ""
 "With these definitions, an Institutional Partner is any recognized legal "
 "entity that employs at least 1 Institutional Contributor of Institutional "
@@ -150,7 +150,7 @@ msgid ""
 "entities."
 msgstr ""
 
-#: ../../governance/sponsors_partners.md:64 2ea5930e5b504f60865169d4fe1a4d26
+#: ../../governance/sponsors_partners.md:64 86cb79ed95844d7db784a5f971c88d31
 msgid ""
 "Institutions become eligible to become an Institutional Partner by employing"
 " individuals who actively contribute to The Project as part of their "
@@ -165,7 +165,7 @@ msgid ""
 "Council must nominate and approve the Partnership."
 msgstr ""
 
-#: ../../governance/sponsors_partners.md:75 f5df3c8ed385423180f98e982ee1f559
+#: ../../governance/sponsors_partners.md:75 e9c5713b658b4eeab569cd5a08106ef2
 msgid ""
 "If at some point an existing Institutional Partner stops having any "
 "contributing employees, then a one year grace period commences. If at the "
@@ -174,7 +174,7 @@ msgid ""
 "will require going through the normal process for new Partnerships."
 msgstr ""
 
-#: ../../governance/sponsors_partners.md:80 547fa78787684c1db6f1721d6c1be218
+#: ../../governance/sponsors_partners.md:80 cc22f16372f04afabb03bdcbce6eb3a7
 msgid ""
 "An Institutional Partner is free to pursue funding for their work on The "
 "Project through any legal means. This could involve a non-profit "
@@ -190,41 +190,41 @@ msgid ""
 "suggests a formal relationship."
 msgstr ""
 
-#: ../../governance/sponsors_partners.md:90 8919321a3d384d79aa8a387b5ca0baa7
+#: ../../governance/sponsors_partners.md:90 c5fdddb26cea46ce850a3ec1075570bb
 msgid "Institutional Partner benefits are:"
 msgstr ""
 
-#: ../../governance/sponsors_partners.md:93 10adfb78c1d54854b0a4457972accabf
+#: ../../governance/sponsors_partners.md:93 c08e826a265f47e2bbadfd107f99dd8e
 msgid "All {ref}`sponsor benefits <gov_sponsor_benefits>`"
 msgstr ""
 
-#: ../../governance/sponsors_partners.md:94 cda787d576bd487bb5d13d57a62f76cb
+#: ../../governance/sponsors_partners.md:94 68eb1545fb1d476b88138c676a1dc0d4
 msgid "Ability to acknowledge their own funding sources on the ArviZ websites"
 msgstr ""
 
-#: ../../governance/sponsors_partners.md:95 7713ccd6d0914c47a9096db1a67c0ba6
+#: ../../governance/sponsors_partners.md:95 989b3b9723d04a92b02d178bf0fb6128
 msgid ""
 "Ability to influence the project through the participation of their "
 "Institutional Contributors or Council Members."
 msgstr ""
 
-#: ../../governance/sponsors_partners.md:98 ebd739ed97be42a9be74828a1fa2053d
+#: ../../governance/sponsors_partners.md:98 43ccf47d1eee4f90a9ba3e4e5f5ee7aa
 msgid ""
 "The minimum amount of paid maintainer time needed to be considered for "
 "partnership is roughly in line with the sponsorship levels:"
 msgstr ""
 
-#: ../../governance/sponsors_partners.md:101 17865d5ddfd844c8818cc64b306de4b6
+#: ../../governance/sponsors_partners.md:101 8868a256016643c49d48d5f0f853971b
 msgid ""
 "2 person-months/yr of paid work time for one or more ArviZ contributors to "
 "any ArviZ activity"
 msgstr ""
 
-#: ../../governance/sponsors_partners.md:103 6fae14439ef84401b5cea6b7d4e7328a
+#: ../../governance/sponsors_partners.md:103 0922b18dfcb14f499f1ae7c8576c1c88
 msgid "Historical funding acknowledgement"
 msgstr ""
 
-#: ../../governance/sponsors_partners.md:104 e70fc774044344708e3a90a7b46196f8
+#: ../../governance/sponsors_partners.md:104 b9b2739920cf4570a2f6b3af207e88eb
 msgid ""
 "All current and previous sponsors, partners, and any other entities and "
 "individuals who provided \\$3,000 or more of financial or in-kind support "
