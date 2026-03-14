@@ -14,27 +14,27 @@ of ArviZ’s open source software, documentation, and community.
 
 (cite)=
 ## Cite
-If you use ArviZ in your scientific work, you can cite it using [![DOI](http://joss.theoj.org/papers/10.21105/joss.01143/status.svg)](https://doi.org/10.21105/joss.01143)
 
-Here is the citation in BibTeX format:
+If you use ArviZ and want to cite it, please use [![DOI](https://joss.theoj.org/papers/10.21105/joss.09889/status.svg)](https://doi.org/10.21105/joss.09889)
 
-```bibtex
-@article{arviz_2019,
-  doi = {10.21105/joss.01143},
-  url = {https://doi.org/10.21105/joss.01143},
-  year = {2019},
-  publisher = {The Open Journal},
-  volume = {4},
-  number = {33},
-  pages = {1143},
-  author = {Ravin Kumar and Colin Carroll and Ari Hartikainen and Osvaldo Martin},
-  title = {ArviZ a unified library for exploratory analysis of Bayesian models in Python},
-  journal = {Journal of Open Source Software}
-}
+Here is the citation in BibTeX format
+
+```
+@article{Martin2026,
+doi = {10.21105/joss.09889},
+url = {https://doi.org/10.21105/joss.09889},
+year = {2026},
+publisher = {The Open Journal},
+volume = {11},
+number = {119},
+pages = {9889},
+author = {Martin, Osvaldo A. and Abril-Pla, Oriol and Deklerk, Jordan and Axen, Seth D. and Carroll, Colin and Hartikainen, Ari and Vehtari, Aki},
+title = {ArviZ: a modular and flexible library for exploratory analysis of Bayesian models},
+journal = {Journal of Open Source Software}}
 ```
 
-Please also consider citing ArviZ's {ref}`arviz:arviz-dependencies` and
-the inference library used to build and fit the model.
+Please also consider citing ArviZ's [dependencies](https://python.arviz.org/en/latest/user_guide/getting_started.html#installation) and the inference library used to build and fit the model. If you want to cite specific methods, you can check the references in the documentation of each method or use [az.citations()](https://python.arviz.org/projects/base/en/latest/api/generated/arviz_base.citations.html) to get the relevant citations.
+
 
 (tidelift)=
 ## ArviZ for enterprise
