@@ -33,7 +33,7 @@ title = {ArviZ: a modular and flexible library for exploratory analysis of Bayes
 journal = {Journal of Open Source Software}}
 ```
 
-Please also consider citing ArviZ's {ref}`arviz:installation` and the inference library used to build and fit the model. If you want to cite specific methods, you can check the references in the documentation of each method or use `az.citations()` to get the relevant citations.
+Please also consider citing ArviZ's [dependencies](https://python.arviz.org/en/latest/user_guide/getting_started.html#installation) and the inference library used to build and fit the model. If you want to cite specific methods, you can check the references in the documentation of each method or use [az.citations()](https://python.arviz.org/en/latest/api/generated/arviz.citations.html) to get the relevant citations.
 
 
 (tidelift)=
