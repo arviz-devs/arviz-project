@@ -32,6 +32,7 @@ Those interested in contributing should instead refer to one of our contributing
 * Eric Ma
 * Ero Carrera
 * Evdoxia Taka
+* Florence Bockting
 * Gayathri Krishnaswamy
 * Jacki Buros
 * Jonathan Lindbloom
