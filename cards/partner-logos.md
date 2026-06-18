@@ -11,4 +11,8 @@
 :::{grid-item-card}
 :img-background: cards/FCAI.png
 :link: https://fcai.fi/
+
+:::{grid-item-card}
+:img-background: cards/ellis_finland.png
+:link: https://www.ellisinstitute.fi/
 :::
