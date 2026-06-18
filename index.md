@@ -55,7 +55,7 @@ PreliZ
 ::::
 
 
-## Sponsors and institutional partners
+## Institutional partners
 
 ::::{grid} 3 3 6 6
 :::{include} cards/partner-logos.md
