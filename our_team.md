@@ -40,6 +40,7 @@ Those interested in contributing should instead refer to one of our contributing
 * Junpeng Lao
 * Karin Knudson
 * Kyle Caron
+* Leo Chen
 * Maxime Kochurov
 * Marcel Haas
 * Meenal Jhajharia
